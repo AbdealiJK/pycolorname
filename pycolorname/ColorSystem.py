@@ -33,3 +33,19 @@ class ColorSystem(dict):
         """
         response = requests.request(*args, **kwargs)
         return BeautifulSoup.BeautifulSoup(response.text, "html.parser")
+
+    def hex_to_rgb(self, value):
+        val = value
+
+        if val[0] == '#':  # Remove # if it's present
+            val = val[1:]
+
+        # Convert to array with 3 hex values
+        if len(val) == 3:  # Catch cases where 3 letter hex is used eg: #aaa
+            val = [val[i] * 2 for i in range(len(val))]
+        elif len(val) == 6:
+            val = [val[i:i+2] for i in range(0, len(val), 2)]
+        else:
+            raise ValueError("Invalid value given for hex {}".format(value))
+
+        return [int(v, 16) for v in val]
