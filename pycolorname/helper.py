@@ -13,7 +13,7 @@ scriptdir = os.path.dirname(os.path.abspath(__file__))
 path = os.path.join(scriptdir, '%s')
 
 
-def storeData(filename, data):
+def store_data(filename, data):
     output = open(path % filename, 'wb')
     # Pickle dictionary using protocol 0.
     pickle.dump(data, output)
@@ -22,7 +22,7 @@ def storeData(filename, data):
     output.close()
 
 
-def loadData(filename):
+def load_data(filename):
     pkl_file = open(path % filename, 'rb')
     data1 = pickle.load(pkl_file)
 #    pprint.pprint(data1)

@@ -7,23 +7,23 @@ Created on Sat Jun 30 22:57:26 2012
 
 import pickle
 
-from helper import *
+from helper import store_data, load_data
 
 
 # === Pantone Formula Guide Solid ===
 # PMS_cal-print looks most reliable when compared to others
-colors_01 = loadData('PMS_cal-print.pkl')
-#colors_02 = loadData('PMS_logodesignteam.pkl')
-#colors_03 = loadData('PMS_ackerdesign.pkl')
+colors_01 = load_data('PMS_cal-print.pkl')
+#colors_02 = load_data('PMS_logodesignteam.pkl')
+#colors_03 = load_data('PMS_ackerdesign.pkl')
 Formula_Guide_Solid = colors_01
 
 # === Pantone Fashion + Home paper ===
 # === Pantone Fashion + Home New Colors paper ===
-colors_04 = loadData('PMS_pantonepaint_raw.pkl')
+colors_04 = load_data('PMS_pantonepaint_raw.pkl')
 Fashion_Home_paper = colors_04
 
 
-def getPMSdata_calprint():
+def get_pms_data_calprint():
     site = pywikibot.getSite()
     request_data = http.request(
         site, u'http://www.cal-print.com/InkColorChart.htm', no_hostname=True)
@@ -41,7 +41,7 @@ def getPMSdata_calprint():
     return result
 
 
-def getPMSdata_logodesignteam():
+def get_pms_data_logodesignteam():
     site = pywikibot.getSite()
     data = http.request(
         site,
@@ -79,7 +79,7 @@ def getPMSdata_logodesignteam():
     return result
 
 
-def getPMSdata_ackerdesign():
+def get_pms_data_ackerdesign():
     site = pywikibot.getSite()
     data = http.request(
         site,
@@ -100,12 +100,12 @@ def getPMSdata_ackerdesign():
     return result
 
 
-def getPMSdata_materialsworld():
+def get_pms_data_materialsworld():
     # http://www.materials-world.com/pantone/pantone.htm
     pass
 
 
-def getPMSdata_pantonepaint():
+def get_pms_data_pantonepaint():
     site = pywikibot.getSite()
     data = http.request(
         site,
@@ -126,7 +126,7 @@ def getPMSdata_pantonepaint():
     return result
 
 
-def findNames(data):
+def find_names(data):
     result = []
     for key in data:
         if not (key[:3] == 'PMS'):
@@ -134,7 +134,7 @@ def findNames(data):
     return result
 
 
-def assignColorNames(data, names):
+def assign_color_names(data, names):
     from colormath.color_objects import RGBColor
 
     result = {}
@@ -189,17 +189,17 @@ def assignColorNames(data, names):
 
 
 def refresh():
-    data_01 = getPMSdata_calprint()
-    storeData('PMS_cal-print_raw.pkl', data_01)
-    data_02 = getPMSdata_logodesignteam()
-    storeData('PMS_logodesignteam_raw.pkl', data_02)
-    data_03 = getPMSdata_ackerdesign()
-    storeData('PMS_ackerdesign_raw.pkl', data_03)
-    data_04 = getPMSdata_pantonepaint()
-    storeData('PMS_pantonepaint_raw.pkl', data_04)
-#    data_01 = loadData('PMS_cal-print_raw.pkl')
-#    data_02 = loadData('PMS_logodesignteam_raw.pkl')
-#    data_03 = loadData('PMS_ackerdesign_raw.pkl')
+    data_01 = get_pms_data_calprint()
+    store_data('PMS_cal-print_raw.pkl', data_01)
+    data_02 = get_pms_data_logodesignteam()
+    store_data('PMS_logodesignteam_raw.pkl', data_02)
+    data_03 = get_pms_data_ackerdesign()
+    store_data('PMS_ackerdesign_raw.pkl', data_03)
+    data_04 = get_pms_data_pantonepaint()
+    store_data('PMS_pantonepaint_raw.pkl', data_04)
+#    data_01 = load_data('PMS_cal-print_raw.pkl')
+#    data_02 = load_data('PMS_logodesignteam_raw.pkl')
+#    data_03 = load_data('PMS_ackerdesign_raw.pkl')
 
 #    print len(data_01), len(data_02), len(data_03)
 #    for item in data_01:
@@ -216,13 +216,13 @@ def refresh():
     data['White'] = (255, 255, 255)
     print "Added color 'White' to Pantone set."
 
-    names = findNames(data)
+    names = find_names(data)
     print "Number of human readable names:", len(names)
 
-    data = assignColorNames(data, names)
+    data = assign_color_names(data, names)
     for item in data:
         print item, data[item]
-    storeData('PMS_cal-print.pkl', data)
+    store_data('PMS_cal-print.pkl', data)
     print "Processed number of colors:", len(data)
 
 

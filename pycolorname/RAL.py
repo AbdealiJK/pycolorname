@@ -7,10 +7,10 @@ Created on Sat Jun 30 22:57:26 2012
 
 import pickle
 
-from helper import *
+from helper import store_data, load_data
 
 
-colors_01 = loadData('RAL_wikipedia.pkl')
+colors_01 = load_data('RAL_wikipedia.pkl')
 colors = colors_01
 
 
@@ -21,7 +21,7 @@ colors = colors_01
 # other/alternative color system include "NCS" and "Pantone"
 
 
-def getPMSdata_wikipedia():
+def get_pms_data_wikipedia():
     sys.path.insert(0, '..')
     sys.path.insert(0, '.')
 
@@ -32,7 +32,7 @@ def getPMSdata_wikipedia():
     # put code here ...
 
 
-def getNames():
+def get_names():
     colors_names = {
         u'1': u'Yellow/Beige',
         u'2': u'Orange',
@@ -50,7 +50,7 @@ def getNames():
     return colors_names
 
 
-def assignColorNames(data, names_dict):
+def assign_color_names(data, names_dict):
     result = {}
     for item in data:
         if (item[0] == u'9'):
@@ -62,20 +62,20 @@ def assignColorNames(data, names_dict):
 
 
 def refresh():
-    #    data_01 = getPMSdata_wikipedia()
-    #    storeData('RAL_wikipedia_raw.pkl', data_01)
-    data_01 = loadData('RAL_wikipedia_raw.pkl')
+    #    data_01 = get_pms_data_wikipedia()
+    #    store_data('RAL_wikipedia_raw.pkl', data_01)
+    data_01 = load_data('RAL_wikipedia_raw.pkl')
 
     data = data_01
 
     print "Retrieved number of colors:", len(data)
 
-    names_dict = getNames()
+    names_dict = get_names()
 
-    data = assignColorNames(data, names_dict)
+    data = assign_color_names(data, names_dict)
     for item in data:
         print item, data[item]
-    storeData('RAL_wikipedia.pkl', data)
+    store_data('RAL_wikipedia.pkl', data)
     print "Processed number of colors:", len(data)
 
 
