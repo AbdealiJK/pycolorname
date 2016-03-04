@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+import bs4 as BeautifulSoup
+import requests
+
 
 class ColorSystem(dict):
     """
@@ -22,10 +25,11 @@ class ColorSystem(dict):
 
     def request(self, *args, **kwargs):
         """
-        Request a specific URL. This function is to abstract out
-        whether pywikibot is being used or not. Allowing the library to
-        be independant of pywikibot if necessary.
+        Gets the request using the `_url` and converts it into a
+        beautiful soup object.
 
-        :param url: The url to get data from
+        :param args:            The args to pass on to `requests`.
+        :param kwargs:          The kwargs to pass on to `requests`.
         """
-        raise NotImplementedError
+        response = requests.request(*args, **kwargs)
+        return BeautifulSoup.BeautifulSoup(response.text, "html.parser")
