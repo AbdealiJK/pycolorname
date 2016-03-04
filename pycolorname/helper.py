@@ -5,7 +5,8 @@ Created on Sat Jun 30 22:57:26 2012
 @author: drtrigon
 """
 
-import pickle, os, sys
+import os
+import pickle
 
 
 scriptdir = os.path.dirname(os.path.abspath(__file__))
@@ -18,8 +19,9 @@ def storeData(filename, data):
     pickle.dump(data, output)
 #    # Pickle the list using the highest protocol available.
 #    pickle.dump(selfref_list, output, -1)
-    output.close()   
-    
+    output.close()
+
+
 def loadData(filename):
     pkl_file = open(path % filename, 'rb')
     data1 = pickle.load(pkl_file)

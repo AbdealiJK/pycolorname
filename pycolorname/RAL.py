@@ -11,7 +11,7 @@ from helper import *
 
 
 colors_01 = loadData('RAL_wikipedia.pkl')
-colors    = colors_01  
+colors = colors_01
 
 
 # RAL color look-up table from http://de.wikipedia.org/wiki/RAL-Farbe
@@ -24,7 +24,7 @@ colors    = colors_01
 def getPMSdata_wikipedia():
     sys.path.insert(0, '..')
     sys.path.insert(0, '.')
-    
+
     import wikipedia as pywikibot
     from pywikibot.comms import http
     import BeautifulSoup
@@ -34,20 +34,21 @@ def getPMSdata_wikipedia():
 
 def getNames():
     colors_names = {
-    u'1': u'Yellow/Beige',
-    u'2': u'Orange',
-    u'3': u'Red',
-    u'4': u'Violet',
-    u'5': u'Blue',
-    u'6': u'Green',
-    u'7': u'Gray',
-    u'8': u'Brown',
-    #u'9': u'White/Black',
-    u'9003': u'White',
-    u'9005': u'Black',
+        u'1': u'Yellow/Beige',
+        u'2': u'Orange',
+        u'3': u'Red',
+        u'4': u'Violet',
+        u'5': u'Blue',
+        u'6': u'Green',
+        u'7': u'Gray',
+        u'8': u'Brown',
+        # u'9': u'White/Black',
+        u'9003': u'White',
+        u'9005': u'Black',
     }
-    
+
     return colors_names
+
 
 def assignColorNames(data, names_dict):
     result = {}
@@ -61,8 +62,8 @@ def assignColorNames(data, names_dict):
 
 
 def refresh():
-#    data_01 = getPMSdata_wikipedia()
-#    storeData('RAL_wikipedia_raw.pkl', data_01)
+    #    data_01 = getPMSdata_wikipedia()
+    #    storeData('RAL_wikipedia_raw.pkl', data_01)
     data_01 = loadData('RAL_wikipedia_raw.pkl')
 
     data = data_01
@@ -79,6 +80,7 @@ def refresh():
 
 
 if __name__ == '__main__':
-    import re, sys
-    
+    import re
+    import sys
+
     refresh()

@@ -1,0 +1,23 @@
+[Default]
+files = pycolorname/**/*.py
+
+max_line_length = 80
+use_spaces = True
+
+[python]
+bears = SpaceConsistencyBear, PyUnusedCodeBear
+
+default_actions =
+    SpaceConsistencyBear: ApplyPatchAction,
+    PyUnusedCodeBear: ApplyPatchAction
+
+[autopep8]
+bears = PEP8Bear
+
+default_actions = PEP8Bear: ApplyPatchAction
+
+[linelength]  # Sometimes autopep8 makes too long lines, need to check after!
+bears = LineLengthBear
+
+[commit]
+bears = GitCommitBear
