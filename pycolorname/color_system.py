@@ -38,7 +38,7 @@ class ColorSystem(dict):
                 self.clear()
                 self.update(data)
                 return
-            except (ValueError, IOError) as err:
+            except (ValueError, IOError):
                 # Refresh data if reading gave errors
                 pass
 

@@ -45,7 +45,7 @@ class CalPrint(ColorSystem):
             rgb = sRGBColor(*color)
             lab = convert_color(rgb, LabColor, target_illuminant='D65')
             min_diff = float("inf")
-            min_name, min_color = "", ()
+            min_name = ""
             for known_name in known_names:
                 known_color = raw_data[known_name]
                 known_rgb = sRGBColor(*known_color)
@@ -54,6 +54,6 @@ class CalPrint(ColorSystem):
                 diff = delta_e_cie1976(lab, known_lab)
                 if min_diff > diff:
                     min_diff = diff
-                    min_name, min_color = known_name, known_color
+                    min_name = known_name
             data['{} ({})'.format(name, min_name)] = color
         return data
