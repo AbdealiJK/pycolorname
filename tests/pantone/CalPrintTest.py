@@ -8,6 +8,7 @@ from pycolorname.pantone.CalPrint import CalPrint
 class CalPrintTest(unittest.TestCase):
     def setUp(self):
         self.uut = CalPrint()
+        self.uut.load(refresh=True)
 
     def test_data(self):
         self.assertEqual(len(self.uut), 992)

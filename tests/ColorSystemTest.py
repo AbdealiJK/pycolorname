@@ -48,6 +48,12 @@ class ColorSystemTest(unittest.TestCase):
                 self.uut.refresh = lambda: {}
                 self.uut.load(filename)
                 self.assertEqual(json_data, test_data)
+
+                # Test if load() respects refresh param and clears old data
+                test_data = {"name2": "color2"}
+                self.uut.refresh = lambda: test_data
+                self.uut.load(filename, refresh=True)
+                self.assertEqual(dict(self.uut), test_data)
         finally:
             self.uut.refresh = old_refresh
 

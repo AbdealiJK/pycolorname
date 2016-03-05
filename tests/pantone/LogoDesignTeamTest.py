@@ -8,6 +8,7 @@ from pycolorname.pantone.LogoDesignTeam import LogoDesignTeam
 class LogoDesignTeamTest(unittest.TestCase):
     def setUp(self):
         self.uut = LogoDesignTeam()
+        self.uut.load(refresh=True)
 
     def test_data(self):
         self.assertEqual(len(self.uut), 992)

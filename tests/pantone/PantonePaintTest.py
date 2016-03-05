@@ -9,6 +9,7 @@ from pycolorname.Utilities import u
 class PantonePaintTest(unittest.TestCase):
     def setUp(self):
         self.uut = PantonePaint()
+        self.uut.load(refresh=True)
 
     def test_data(self):
         self.assertEqual(len(self.uut), 2095)

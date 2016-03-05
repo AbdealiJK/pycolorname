@@ -12,9 +12,7 @@ class CalPrint(ColorSystem):
 
     def __init__(self, *args, **kwargs):
         ColorSystem.__init__(self, *args, **kwargs)
-
-        data = self.refresh()
-        self.update(data)
+        self.load()
 
     def refresh(self):
         full_data = self.request('GET',

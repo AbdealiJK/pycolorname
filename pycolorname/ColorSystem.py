@@ -17,7 +17,7 @@ class ColorSystem(dict):
         classname = self.__class__.__name__
         return os.path.join(PROJECT_PATH, "data", classname + ".json")
 
-    def load(self, filename=None):
+    def load(self, filename=None, refresh=False):
         """
         Try to load the data from a pre existing data file if it exists.
         If the data file does not exist, refresh the data and save it in
@@ -25,20 +25,22 @@ class ColorSystem(dict):
         The data file is a json file.
 
         :param filename: The filename to save or fetch the data from.
+        :param refresh:  Whether to force refresh the data or not
         """
         filename = filename or self.data_file()
         dirname = os.path.dirname(filename)
 
-        try:
-            data = None
-            with open(filename) as fp:
-                data = json.load(fp)
-            self.clear()
-            self.update(data)
-            return
-        except (ValueError, IOError) as err:
-            # Refresh data if reading gave errors
-            pass
+        if refresh == False:
+            try:
+                data = None
+                with open(filename) as fp:
+                    data = json.load(fp)
+                self.clear()
+                self.update(data)
+                return
+            except (ValueError, IOError) as err:
+                # Refresh data if reading gave errors
+                pass
 
         data = self.refresh()
         self.clear()
