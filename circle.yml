@@ -1,19 +1,22 @@
-machine:
-  python:
-    version: 2.7.10
-
 dependencies:
+  cache_directories:
+    - ~/.pyenv/versions/3.4.3
+    - ~/.pyenv/versions/2.7.10
   pre:
+    - sed -i '/source \/home\/ubuntu\/virtualenvs\//d' ~/.circlerc
     - pyenv global 2.7.10 3.4.3
   override:
     - pip3 install coala-bears --pre
     - pip install -r requirements.txt -r test-requirements.txt
+    - pip3 install -r requirements.txt -r test-requirements.txt
 
 test:
   override:
     - coala-ci
     - python -m pytest
+    - python3 -m pytest
     # Make sure that no data file has changed when running tests.
     # This makes circleci fail if our json is not up to date.
     - if [ "a$(git ls-files -m | wc -l)" != "a0" ] ; then exit 1; fi
     - pip install .
+    - pip3 install .
