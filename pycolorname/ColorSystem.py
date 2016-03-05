@@ -14,8 +14,8 @@ class ColorSystem(dict):
     """
 
     def data_file(self):
-        classname = self.__class__.__name__
-        return os.path.join(PROJECT_PATH, "data", classname + ".json")
+        modulename = self.__module__
+        return os.path.join(PROJECT_PATH, "data", modulename + ".json")
 
     def load(self, filename=None, refresh=False):
         """
