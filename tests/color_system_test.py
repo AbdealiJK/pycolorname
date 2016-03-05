@@ -83,3 +83,16 @@ class ColorSystemTest(unittest.TestCase):
         self.assertEqual(self.uut.hex_to_rgb("fff"), (255, 255, 255))
         with self.assertRaises(ValueError):
             self.uut.hex_to_rgb("a")
+
+    def test_find_closest(self):
+        self.uut.update({"a": (0, 0, 0),
+                         "b": (100, 100, 100),
+                         "c": (200, 200, 200)})
+
+        name, color = self.uut.find_closest((0, 0, 0))
+        self.assertEqual(name, "a")
+        self.assertEqual(color, (0, 0, 0))
+
+        name, color = self.uut.find_closest((210, 210, 210))
+        self.assertEqual(name, "c")
+        self.assertEqual(color, (200, 200, 200))
