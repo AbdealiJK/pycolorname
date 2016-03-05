@@ -13,6 +13,7 @@ dependencies:
 test:
   override:
     - coala-ci
+    - flake8 .
     - python -m pytest
     - python3 -m pytest
     # Make sure that no data file has changed when running tests.
