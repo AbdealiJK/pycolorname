@@ -9,3 +9,6 @@ scraped from various sites.
    - http://www.pantonepaint.co.kr
    - http://www.logodesignteam.com
    - http://www.cal-print.com
+
+ - RAL
+   - https://en.wikipedia.org
