@@ -12,7 +12,7 @@ pip3 install twine wheel
 python3 setup.py sdist bdist_wheel
 twine upload dist/* -u "$PYPIUSER" -p "$PYPIPW"
 
-sudo apt-get install python3-dev
+sudo apt-get -qq -y install python3-dev
 
 echo "Installing pycolorname from pypi"
 pip3 install --pre pycolorname==`cat pycolorname/VERSION` --upgrade
