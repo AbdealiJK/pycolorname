@@ -55,5 +55,5 @@ class CalPrint(ColorSystem):
                 if min_diff > diff:
                     min_diff = diff
                     min_name = known_name
-            data['{} ({})'.format(name, min_name)] = color
+            data['{0} ({1})'.format(name, min_name)] = color
         return data

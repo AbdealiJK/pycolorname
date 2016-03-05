@@ -46,9 +46,9 @@ def get_valid_version(old_version_string, new_version_string):
                       (new_major == old_major+1 and new_minor == 0))
         assert jump_valid, "Invalid version jump."
         assert (((new_minor in (0, old_minor+1)) and new_micro == 0) or
-                (new_minor == old_minor
-                 and new_micro in (old_micro,
-                                   old_micro+1))), "Invalid version jump."
+                (new_minor == old_minor and
+                 new_micro in (old_micro,
+                               old_micro+1))), "Invalid version jump."
 
         old_major, old_minor, old_micro = new_major, new_minor, new_micro
 

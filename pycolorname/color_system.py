@@ -30,7 +30,7 @@ class ColorSystem(dict):
         filename = filename or self.data_file()
         dirname = os.path.dirname(filename)
 
-        if refresh == False:
+        if refresh is False:
             try:
                 data = None
                 with open(filename) as fp:
@@ -83,6 +83,6 @@ class ColorSystem(dict):
         elif len(val) == 6:
             val = [val[i:i+2] for i in range(0, len(val), 2)]
         else:
-            raise ValueError("Invalid value given for hex {}".format(value))
+            raise ValueError("Invalid value given for hex {0}".format(value))
 
         return [int(v, 16) for v in val]

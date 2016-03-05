@@ -38,7 +38,7 @@ class RALColor(ColorSystem):
                               tds[4].text.strip())
 
             if ral_code.startswith("RAL"):
-                name = "{} ({})".format(ral_code, eng_name)
+                name = "{0} ({1})".format(ral_code, eng_name)
                 # Note: We replace `#` as some hex values in the site are
                 #       named wrongly as ##FFFF00.
                 #       Also, we use the 3rd column - which holds the hex

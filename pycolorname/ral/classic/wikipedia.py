@@ -23,11 +23,11 @@ class Wikipedia(ColorSystem):
         for tr in trs:
             tds = tr.find_all('td')
             # The tds are in the order:
-            # RAL code, colored square, L, a, b, german name, english name, desc
+            # RAL code, colored box, L, a, b, german name, english name, desc
 
             if len(tds) != 8:
                 continue
-            name = "{} ({})".format(tds[0].text.strip(), tds[6].text.strip())
+            name = "{0} ({1})".format(tds[0].text.strip(), tds[6].text.strip())
             rgb_hex = re.findall(style_regex, tds[1]['style'])[0]
             color = self.hex_to_rgb(rgb_hex)
             data[name] = color
