@@ -8,12 +8,11 @@ docker:
 merge:
   fast-forward: only
   script:
-    - echo "Nothing to do"
-    # - python3 .ci/adjust_version_number.py pycolorname/VERSION -b `date --utc +%Y%m%d%H%M%S`
-    # - bash .ci/deploy.pypi.sh
+    - python3 .ci/adjust_version_number.py pycolorname/VERSION -b `date --utc +%Y%m%d%H%M%S`
+    - bash .ci/deploy.pypi.sh
 
 release:
   script: bash .ci/release.sh
 
-# decrypt:
-#   rultor_secrets.sh: "repo/.ci/rultor_secrets.sh.asc"
+decrypt:
+  rultor_secrets.sh: "repo/.ci/rultor_secrets.sh.asc"
