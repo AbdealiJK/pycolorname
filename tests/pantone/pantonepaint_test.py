@@ -2,8 +2,8 @@
 
 import unittest
 
-from pycolorname.pantone.PantonePaint import PantonePaint
-from pycolorname.Utilities import u
+from pycolorname.pantone.pantonepaint import PantonePaint
+from pycolorname.utilities import u
 
 
 class PantonePaintTest(unittest.TestCase):

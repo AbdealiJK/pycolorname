@@ -4,8 +4,8 @@ import json
 import requests
 import unittest
 
-from pycolorname.ColorSystem import ColorSystem
-from pycolorname.Utilities import make_temp
+from pycolorname.color_system import ColorSystem
+from pycolorname.utilities import make_temp
 
 
 class ColorSystemTest(unittest.TestCase):

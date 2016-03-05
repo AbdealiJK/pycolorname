@@ -2,8 +2,8 @@
 
 import re
 
-from pycolorname.ColorSystem import ColorSystem
-from pycolorname.Utilities import u
+from pycolorname.color_system import ColorSystem
+from pycolorname.utilities import u
 
 
 class PantonePaint(ColorSystem):

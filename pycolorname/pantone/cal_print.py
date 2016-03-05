@@ -5,7 +5,7 @@ from colormath.color_objects import sRGBColor, LabColor
 from colormath.color_conversions import convert_color
 from colormath.color_diff import delta_e_cie1976
 
-from pycolorname.ColorSystem import ColorSystem
+from pycolorname.color_system import ColorSystem
 
 
 class CalPrint(ColorSystem):

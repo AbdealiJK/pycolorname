@@ -2,7 +2,7 @@
 
 import os
 
-from pycolorname.Utilities import PROJECT_PATH
+from pycolorname.utilities import PROJECT_PATH
 
 
 with open(os.path.join(PROJECT_PATH, "VERSION")) as fp:

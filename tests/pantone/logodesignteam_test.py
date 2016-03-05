@@ -2,7 +2,7 @@
 
 import unittest
 
-from pycolorname.pantone.LogoDesignTeam import LogoDesignTeam
+from pycolorname.pantone.logodesignteam import LogoDesignTeam
 
 
 class LogoDesignTeamTest(unittest.TestCase):

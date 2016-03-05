@@ -2,7 +2,7 @@
 
 import unittest
 
-from pycolorname.RAL.classic.Wikipedia import Wikipedia
+from pycolorname.ral.classic.wikipedia import Wikipedia
 
 
 class WikipediaTest(unittest.TestCase):

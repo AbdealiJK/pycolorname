@@ -5,7 +5,7 @@ import logging
 import re
 import requests
 
-from pycolorname.ColorSystem import ColorSystem
+from pycolorname.color_system import ColorSystem
 
 
 class LogoDesignTeam(ColorSystem):

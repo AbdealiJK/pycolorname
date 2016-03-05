@@ -2,7 +2,7 @@
 
 import re
 
-from pycolorname.ColorSystem import ColorSystem
+from pycolorname.color_system import ColorSystem
 
 
 class Wikipedia(ColorSystem):

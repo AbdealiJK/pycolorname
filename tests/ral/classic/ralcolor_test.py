@@ -2,8 +2,8 @@
 
 import unittest
 
-from pycolorname.RAL.classic.RALColor import RALColor
-from pycolorname.Utilities import u
+from pycolorname.ral.classic.ralcolor import RALColor
+from pycolorname.utilities import u
 
 
 class RALColorTest(unittest.TestCase):

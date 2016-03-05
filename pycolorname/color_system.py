@@ -5,7 +5,7 @@ import json
 import os
 import requests
 
-from pycolorname.Utilities import PROJECT_PATH
+from pycolorname.utilities import PROJECT_PATH
 
 
 class ColorSystem(dict):

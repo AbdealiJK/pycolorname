@@ -2,7 +2,7 @@
 
 import unittest
 
-from pycolorname.pantone.CalPrint import CalPrint
+from pycolorname.pantone.cal_print import CalPrint
 
 
 class CalPrintTest(unittest.TestCase):
