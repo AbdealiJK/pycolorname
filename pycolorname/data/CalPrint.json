@@ -1,0 +1,4962 @@
+{
+  "PMS 100 (Pantone Process Yellow)": [
+    244,
+    237,
+    124
+  ],
+  "PMS 101 (Pantone Process Yellow)": [
+    244,
+    237,
+    71
+  ],
+  "PMS 102 (Pantone Process Yellow)": [
+    249,
+    232,
+    20
+  ],
+  "PMS 103 (Pantone Yellow)": [
+    198,
+    173,
+    15
+  ],
+  "PMS 104 (Pantone Yellow)": [
+    173,
+    155,
+    12
+  ],
+  "PMS 105 (Pantone Warm Gray 10)": [
+    130,
+    117,
+    15
+  ],
+  "PMS 106 (Pantone Process Yellow)": [
+    247,
+    232,
+    89
+  ],
+  "PMS 107 (Pantone Process Yellow)": [
+    249,
+    229,
+    38
+  ],
+  "PMS 108 (Pantone Yellow)": [
+    247,
+    221,
+    22
+  ],
+  "PMS 109 (Pantone Yellow)": [
+    249,
+    214,
+    22
+  ],
+  "PMS 110 (Pantone Yellow)": [
+    216,
+    181,
+    17
+  ],
+  "PMS 111 (Pantone Yellow)": [
+    170,
+    147,
+    10
+  ],
+  "PMS 112 (Pantone Yellow)": [
+    153,
+    132,
+    10
+  ],
+  "PMS 113 (Pantone Process Yellow)": [
+    249,
+    229,
+    91
+  ],
+  "PMS 114 (Pantone Yellow)": [
+    249,
+    226,
+    76
+  ],
+  "PMS 115 (Pantone Yellow)": [
+    249,
+    224,
+    76
+  ],
+  "PMS 116 (Pantone Yellow)": [
+    252,
+    209,
+    22
+  ],
+  "PMS 116 2X (Pantone Yellow)": [
+    247,
+    181,
+    12
+  ],
+  "PMS 117 (Pantone Yellow)": [
+    198,
+    160,
+    12
+  ],
+  "PMS 118 (Pantone Yellow)": [
+    170,
+    142,
+    10
+  ],
+  "PMS 119 (Pantone Warm Gray 10)": [
+    137,
+    119,
+    25
+  ],
+  "PMS 120 (Pantone Yellow)": [
+    249,
+    226,
+    127
+  ],
+  "PMS 1205 (Pantone Warm Gray 1)": [
+    247,
+    232,
+    170
+  ],
+  "PMS 121 (Pantone Yellow)": [
+    249,
+    224,
+    112
+  ],
+  "PMS 1215 (Pantone Warm Gray 2)": [
+    249,
+    224,
+    140
+  ],
+  "PMS 122 (Pantone Yellow)": [
+    252,
+    216,
+    86
+  ],
+  "PMS 1225 (Pantone Yellow)": [
+    255,
+    204,
+    73
+  ],
+  "PMS 123 (Pantone Yellow)": [
+    255,
+    198,
+    30
+  ],
+  "PMS 1235 (Pantone Yellow)": [
+    252,
+    181,
+    20
+  ],
+  "PMS 124 (Pantone Yellow)": [
+    224,
+    170,
+    15
+  ],
+  "PMS 1245 (Pantone Yellow)": [
+    191,
+    145,
+    12
+  ],
+  "PMS 125 (Pantone Yellow)": [
+    181,
+    140,
+    10
+  ],
+  "PMS 1255 (Pantone Warm Gray 10)": [
+    163,
+    127,
+    20
+  ],
+  "PMS 1265 (Pantone Warm Gray 10)": [
+    124,
+    99,
+    22
+  ],
+  "PMS 127 (Pantone Yellow)": [
+    244,
+    226,
+    135
+  ],
+  "PMS 128 (Pantone Yellow)": [
+    244,
+    219,
+    96
+  ],
+  "PMS 129 (Pantone Yellow)": [
+    242,
+    209,
+    61
+  ],
+  "PMS 130 (Pantone Yellow)": [
+    234,
+    175,
+    15
+  ],
+  "PMS 130 2X (Pantone Orange 021)": [
+    226,
+    145,
+    0
+  ],
+  "PMS 131 (Pantone Yellow)": [
+    198,
+    147,
+    10
+  ],
+  "PMS 132 (Pantone Warm Gray 10)": [
+    158,
+    124,
+    10
+  ],
+  "PMS 133 (Pantone Warm Gray 11)": [
+    112,
+    91,
+    10
+  ],
+  "PMS 134 (Pantone Yellow)": [
+    255,
+    216,
+    127
+  ],
+  "PMS 1345 (Pantone Warm Gray 2)": [
+    255,
+    214,
+    145
+  ],
+  "PMS 135 (Pantone Yellow)": [
+    252,
+    201,
+    99
+  ],
+  "PMS 1355 (Pantone Warm Gray 2)": [
+    252,
+    206,
+    135
+  ],
+  "PMS 136 (Pantone Yellow)": [
+    252,
+    191,
+    73
+  ],
+  "PMS 1365 (Pantone Yellow)": [
+    252,
+    186,
+    94
+  ],
+  "PMS 137 (Pantone Orange 021)": [
+    252,
+    163,
+    17
+  ],
+  "PMS 1375 (Pantone Orange 021)": [
+    249,
+    155,
+    12
+  ],
+  "PMS 138 (Pantone Orange 021)": [
+    216,
+    140,
+    2
+  ],
+  "PMS 1385 (Pantone Orange 021)": [
+    204,
+    122,
+    2
+  ],
+  "PMS 139 (Pantone Orange 021)": [
+    175,
+    117,
+    5
+  ],
+  "PMS 1395 (Pantone Orange 021)": [
+    153,
+    96,
+    7
+  ],
+  "PMS 140 (Pantone Warm Gray 11)": [
+    122,
+    91,
+    17
+  ],
+  "PMS 1405 (Pantone Warm Gray 11)": [
+    107,
+    71,
+    20
+  ],
+  "PMS 141 (Pantone Yellow)": [
+    242,
+    206,
+    104
+  ],
+  "PMS 142 (Pantone Yellow)": [
+    242,
+    191,
+    73
+  ],
+  "PMS 143 (Pantone Yellow)": [
+    239,
+    178,
+    45
+  ],
+  "PMS 144 (Pantone Orange 021)": [
+    226,
+    140,
+    5
+  ],
+  "PMS 145 (Pantone Orange 021)": [
+    198,
+    127,
+    7
+  ],
+  "PMS 146 (Pantone Orange 021)": [
+    158,
+    107,
+    5
+  ],
+  "PMS 147 (Pantone Warm Gray 11)": [
+    114,
+    94,
+    38
+  ],
+  "PMS 148 (Pantone Warm Gray 2)": [
+    255,
+    214,
+    155
+  ],
+  "PMS 1485 (Pantone Warm Gray 4)": [
+    255,
+    183,
+    119
+  ],
+  "PMS 149 (Pantone Warm Gray 2)": [
+    252,
+    204,
+    147
+  ],
+  "PMS 1495 (Pantone Orange 021)": [
+    255,
+    153,
+    63
+  ],
+  "PMS 150 (Pantone Orange 021)": [
+    252,
+    173,
+    86
+  ],
+  "PMS 1505 (Pantone Orange 021)": [
+    244,
+    124,
+    0
+  ],
+  "PMS 151 (Pantone Orange 021)": [
+    247,
+    127,
+    0
+  ],
+  "PMS 152 (Pantone Orange 021)": [
+    221,
+    117,
+    0
+  ],
+  "PMS 1525 (Pantone Orange 021)": [
+    181,
+    84,
+    0
+  ],
+  "PMS 153 (Pantone Orange 021)": [
+    188,
+    109,
+    10
+  ],
+  "PMS 1535 (Pantone Orange 021)": [
+    140,
+    68,
+    0
+  ],
+  "PMS 154 (Pantone Orange 021)": [
+    153,
+    89,
+    5
+  ],
+  "PMS 1545 (Pantone Black 4)": [
+    76,
+    40,
+    15
+  ],
+  "PMS 155 (Pantone Warm Gray 2)": [
+    244,
+    219,
+    170
+  ],
+  "PMS 1555 (Pantone Warm Gray 2)": [
+    249,
+    191,
+    158
+  ],
+  "PMS 156 (Pantone Warm Gray 2)": [
+    242,
+    198,
+    140
+  ],
+  "PMS 1565 (Pantone Orange 021)": [
+    252,
+    165,
+    119
+  ],
+  "PMS 157 (Pantone Orange 021)": [
+    237,
+    160,
+    79
+  ],
+  "PMS 1575 (Pantone Orange 021)": [
+    252,
+    135,
+    68
+  ],
+  "PMS 158 (Pantone Orange 021)": [
+    232,
+    117,
+    17
+  ],
+  "PMS 1585 (Pantone Orange 021)": [
+    249,
+    107,
+    7
+  ],
+  "PMS 159 (Pantone Orange 021)": [
+    198,
+    96,
+    5
+  ],
+  "PMS 1595 (Pantone Orange 021)": [
+    209,
+    91,
+    5
+  ],
+  "PMS 160 (Pantone Orange 021)": [
+    158,
+    84,
+    10
+  ],
+  "PMS 1605 (Pantone Orange 021)": [
+    160,
+    79,
+    17
+  ],
+  "PMS 161 (Pantone Black 4)": [
+    99,
+    58,
+    17
+  ],
+  "PMS 1615 (Pantone Rubine Red 2X)": [
+    132,
+    63,
+    15
+  ],
+  "PMS 162 (Pantone Warm Gray 2)": [
+    249,
+    198,
+    170
+  ],
+  "PMS 1625 (Pantone Warm Gray 4)": [
+    249,
+    165,
+    140
+  ],
+  "PMS 163 (Pantone Orange 021)": [
+    252,
+    158,
+    112
+  ],
+  "PMS 1635 (Pantone Orange 021)": [
+    249,
+    142,
+    109
+  ],
+  "PMS 164 (Pantone Orange 021)": [
+    252,
+    127,
+    63
+  ],
+  "PMS 1645 (Pantone Orange 021)": [
+    249,
+    114,
+    66
+  ],
+  "PMS 165 (Pantone Orange 021)": [
+    249,
+    99,
+    2
+  ],
+  "PMS 165 2X (Pantone Warm Red 2X)": [
+    234,
+    79,
+    0
+  ],
+  "PMS 1655 (Pantone Warm Red 2X)": [
+    249,
+    86,
+    2
+  ],
+  "PMS 166 (Pantone Orange 021)": [
+    221,
+    89,
+    0
+  ],
+  "PMS 1665 (Pantone Warm Red 2X)": [
+    249,
+    86,
+    2
+  ],
+  "PMS 167 (Pantone Orange 021)": [
+    188,
+    79,
+    7
+  ],
+  "PMS 1675 (Pantone Warm Red 2X)": [
+    165,
+    63,
+    15
+  ],
+  "PMS 168 (Pantone Black 4)": [
+    109,
+    48,
+    17
+  ],
+  "PMS 1685 (Pantone Rubine Red 2X)": [
+    132,
+    53,
+    17
+  ],
+  "PMS 169 (Pantone Warm Gray 2)": [
+    249,
+    186,
+    170
+  ],
+  "PMS 170 (Pantone Rubine Red 2X)": [
+    249,
+    137,
+    114
+  ],
+  "PMS 171 (Pantone Warm Red 2X)": [
+    249,
+    96,
+    58
+  ],
+  "PMS 172 (Pantone Warm Red)": [
+    247,
+    73,
+    2
+  ],
+  "PMS 173 (Pantone Warm Red 2X)": [
+    209,
+    68,
+    20
+  ],
+  "PMS 174 (Pantone Rubine Red 2X)": [
+    147,
+    51,
+    17
+  ],
+  "PMS 175 (Pantone Black 4)": [
+    109,
+    51,
+    33
+  ],
+  "PMS 176 (Pantone Warm Gray 3)": [
+    249,
+    175,
+    173
+  ],
+  "PMS 1765 (Pantone Warm Gray 5)": [
+    249,
+    158,
+    163
+  ],
+  "PMS 1767 (Pantone Warm Gray 3)": [
+    249,
+    178,
+    183
+  ],
+  "PMS 177 (Pantone Rubine Red 2X)": [
+    249,
+    130,
+    127
+  ],
+  "PMS 1775 (Pantone Rubine Red)": [
+    249,
+    132,
+    142
+  ],
+  "PMS 1777 (Pantone Rubine Red)": [
+    252,
+    102,
+    117
+  ],
+  "PMS 178 (Pantone Rubine Red 2X)": [
+    249,
+    94,
+    89
+  ],
+  "PMS 1785 (Pantone Rubine Red 2X)": [
+    252,
+    79,
+    89
+  ],
+  "PMS 1787 (Pantone Rubine Red 2X)": [
+    244,
+    63,
+    79
+  ],
+  "PMS 1788 (Pantone Red 032)": [
+    239,
+    43,
+    45
+  ],
+  "PMS 1788 2X (Pantone Warm Red 2X)": [
+    214,
+    33,
+    0
+  ],
+  "PMS 179 (Pantone Warm Red 2X)": [
+    226,
+    61,
+    40
+  ],
+  "PMS 1795 (Pantone Red 032)": [
+    214,
+    40,
+    40
+  ],
+  "PMS 1797 (Pantone Rubine Red 2X)": [
+    204,
+    45,
+    48
+  ],
+  "PMS 180 (Pantone Rubine Red 2X)": [
+    193,
+    56,
+    40
+  ],
+  "PMS 1805 (Pantone Rubine Red 2X)": [
+    175,
+    38,
+    38
+  ],
+  "PMS 1807 (Pantone Rubine Red 2X)": [
+    160,
+    48,
+    51
+  ],
+  "PMS 181 (Pantone Rubine Red 2X)": [
+    124,
+    45,
+    35
+  ],
+  "PMS 1815 (Pantone Rubine Red 2X)": [
+    124,
+    33,
+    30
+  ],
+  "PMS 1817 (Pantone Black 5)": [
+    91,
+    45,
+    40
+  ],
+  "PMS 182 (Pantone Warm Gray 2)": [
+    249,
+    191,
+    193
+  ],
+  "PMS 183 (Pantone Rubine Red)": [
+    252,
+    140,
+    153
+  ],
+  "PMS 184 (Pantone Rubine Red)": [
+    252,
+    94,
+    114
+  ],
+  "PMS 185 (Pantone Red 032)": [
+    232,
+    17,
+    45
+  ],
+  "PMS 1852 2X (Pantone Warm Red 2X)": [
+    209,
+    22,
+    0
+  ],
+  "PMS 186 (Pantone Red 032)": [
+    206,
+    17,
+    38
+  ],
+  "PMS 187 (Pantone Rubine Red 2X)": [
+    175,
+    30,
+    45
+  ],
+  "PMS 188 (Pantone Rubine Red 2X)": [
+    124,
+    33,
+    40
+  ],
+  "PMS 189 (Pantone Warm Gray 4)": [
+    255,
+    163,
+    178
+  ],
+  "PMS 1895 (Pantone Warm Gray 2)": [
+    252,
+    191,
+    201
+  ],
+  "PMS 190 (Pantone Rubine Red)": [
+    252,
+    117,
+    142
+  ],
+  "PMS 1905 (Pantone Warm Gray 5)": [
+    252,
+    155,
+    178
+  ],
+  "PMS 191 (Pantone Rubine Red)": [
+    244,
+    71,
+    107
+  ],
+  "PMS 1915 (Pantone Rubine Red)": [
+    244,
+    84,
+    124
+  ],
+  "PMS 192 (Pantone Red 032)": [
+    229,
+    5,
+    58
+  ],
+  "PMS 1925 (Pantone Rubine Red 2X)": [
+    224,
+    7,
+    71
+  ],
+  "PMS 193 (Pantone Rubine Red 2X)": [
+    191,
+    10,
+    48
+  ],
+  "PMS 1935 (Pantone Rubine Red 2X)": [
+    193,
+    5,
+    56
+  ],
+  "PMS 194 (Pantone Rubine Red 2X)": [
+    153,
+    33,
+    53
+  ],
+  "PMS 1945 (Pantone Rubine Red 2X)": [
+    168,
+    12,
+    53
+  ],
+  "PMS 195 (Pantone Black 5)": [
+    119,
+    45,
+    53
+  ],
+  "PMS 1955 (Pantone Rubine Red 2X)": [
+    147,
+    22,
+    56
+  ],
+  "PMS 196 (Pantone Warm Gray 2)": [
+    244,
+    201,
+    201
+  ],
+  "PMS 197 (Pantone Warm Gray 5)": [
+    239,
+    153,
+    163
+  ],
+  "PMS 198 (Pantone Rubine Red)": [
+    229,
+    86,
+    109
+  ],
+  "PMS 199 (Pantone Rubine Red 2X)": [
+    216,
+    28,
+    63
+  ],
+  "PMS 200 (Pantone Rubine Red 2X)": [
+    196,
+    30,
+    58
+  ],
+  "PMS 201 (Pantone Rubine Red 2X)": [
+    163,
+    38,
+    56
+  ],
+  "PMS 202 (Pantone Rubine Red 2X)": [
+    140,
+    38,
+    51
+  ],
+  "PMS 203 (Pantone Warm Gray 3)": [
+    242,
+    175,
+    193
+  ],
+  "PMS 204 (Pantone Rhodamine Red 2X)": [
+    237,
+    122,
+    158
+  ],
+  "PMS 205 (Pantone Rhodamine Red 2X)": [
+    229,
+    76,
+    124
+  ],
+  "PMS 206 (Pantone Rubine Red 2X)": [
+    211,
+    5,
+    71
+  ],
+  "PMS 207 (Pantone Rubine Red 2X)": [
+    175,
+    0,
+    61
+  ],
+  "PMS 208 (Pantone Rubine Red)": [
+    142,
+    35,
+    68
+  ],
+  "PMS 209 (Pantone Black 5)": [
+    117,
+    38,
+    61
+  ],
+  "PMS 210 (Pantone Warm Gray 5)": [
+    255,
+    160,
+    191
+  ],
+  "PMS 211 (Pantone Rhodamine Red 2X)": [
+    255,
+    119,
+    168
+  ],
+  "PMS 212 (Pantone Rhodamine Red 2X)": [
+    249,
+    79,
+    142
+  ],
+  "PMS 213 (Pantone Rubine Red)": [
+    234,
+    15,
+    107
+  ],
+  "PMS 214 (Pantone Rubine Red)": [
+    204,
+    2,
+    86
+  ],
+  "PMS 215 (Pantone Rubine Red)": [
+    165,
+    5,
+    68
+  ],
+  "PMS 216 (Pantone Black 5)": [
+    124,
+    30,
+    63
+  ],
+  "PMS 217 (Pantone Cool Gray 3)": [
+    244,
+    191,
+    209
+  ],
+  "PMS 218 (Pantone Rhodamine Red 2X)": [
+    237,
+    114,
+    170
+  ],
+  "PMS 219 (Pantone Rhodamine Red 2X)": [
+    226,
+    40,
+    130
+  ],
+  "PMS 220 (Pantone Rubine Red)": [
+    170,
+    0,
+    79
+  ],
+  "PMS 221 (Pantone Rubine Red)": [
+    147,
+    0,
+    66
+  ],
+  "PMS 222 (Pantone Black 5)": [
+    112,
+    25,
+    61
+  ],
+  "PMS 223 (Pantone Rhodamine Red 2X)": [
+    249,
+    147,
+    196
+  ],
+  "PMS 224 (Pantone Rhodamine Red)": [
+    244,
+    107,
+    175
+  ],
+  "PMS 225 (Pantone Rhodamine Red)": [
+    237,
+    40,
+    147
+  ],
+  "PMS 226 (Pantone Rhodamine Red 2X)": [
+    214,
+    2,
+    112
+  ],
+  "PMS 227 (Pantone Rhodamine Red 2X)": [
+    173,
+    0,
+    91
+  ],
+  "PMS 228 (Pantone Rhodamine Red 2X)": [
+    140,
+    0,
+    76
+  ],
+  "PMS 229 (Pantone Black 5)": [
+    109,
+    33,
+    63
+  ],
+  "PMS 230 (Pantone Rhodamine Red 2X)": [
+    255,
+    160,
+    204
+  ],
+  "PMS 231 (Pantone Rhodamine Red)": [
+    252,
+    112,
+    186
+  ],
+  "PMS 232 (Pantone Rhodamine Red)": [
+    244,
+    63,
+    165
+  ],
+  "PMS 233 (Pantone Rhodamine Red 2X)": [
+    206,
+    0,
+    124
+  ],
+  "PMS 234 (Pantone Rhodamine Red 2X)": [
+    170,
+    0,
+    102
+  ],
+  "PMS 235 (Pantone Rhodamine Red 2X)": [
+    142,
+    5,
+    84
+  ],
+  "PMS 236 (Pantone Cool Gray 4)": [
+    249,
+    175,
+    211
+  ],
+  "PMS 2365 (Pantone Cool Gray 3)": [
+    247,
+    196,
+    216
+  ],
+  "PMS 237 (Pantone Rhodamine Red)": [
+    244,
+    132,
+    196
+  ],
+  "PMS 2375 (Pantone Rhodamine Red)": [
+    234,
+    107,
+    191
+  ],
+  "PMS 238 (Pantone Rhodamine Red)": [
+    237,
+    79,
+    175
+  ],
+  "PMS 2385 (Pantone Rhodamine Red)": [
+    219,
+    40,
+    165
+  ],
+  "PMS 239 (Pantone Rhodamine Red)": [
+    224,
+    33,
+    158
+  ],
+  "PMS 239 2X (Pantone Rhodamine Red 2X)": [
+    196,
+    5,
+    124
+  ],
+  "PMS 2395 (Pantone Purple 2X)": [
+    196,
+    0,
+    140
+  ],
+  "PMS 240 (Pantone Rhodamine Red)": [
+    196,
+    15,
+    137
+  ],
+  "PMS 2405 (Pantone Purple 2X)": [
+    168,
+    0,
+    122
+  ],
+  "PMS 241 (Pantone Rhodamine Red 2X)": [
+    173,
+    0,
+    117
+  ],
+  "PMS 2415 (Pantone Purple 2X)": [
+    155,
+    0,
+    112
+  ],
+  "PMS 242 (Pantone Rhodamine Red 2X)": [
+    124,
+    28,
+    81
+  ],
+  "PMS 2425 (Pantone Rhodamine Red 2X)": [
+    135,
+    0,
+    91
+  ],
+  "PMS 243 (Pantone Cool Gray 4)": [
+    242,
+    186,
+    216
+  ],
+  "PMS 244 (Pantone Cool Gray 4)": [
+    237,
+    160,
+    211
+  ],
+  "PMS 245 (Pantone Purple)": [
+    232,
+    127,
+    201
+  ],
+  "PMS 246 (Pantone Purple 2X)": [
+    204,
+    0,
+    160
+  ],
+  "PMS 247 (Pantone Purple 2X)": [
+    183,
+    0,
+    142
+  ],
+  "PMS 248 (Pantone Purple 2X)": [
+    163,
+    5,
+    127
+  ],
+  "PMS 249 (Pantone Purple 2X)": [
+    127,
+    40,
+    96
+  ],
+  "PMS 250 (Pantone Cool Gray 4)": [
+    237,
+    196,
+    221
+  ],
+  "PMS 251 (Pantone Cool Gray 7)": [
+    226,
+    158,
+    214
+  ],
+  "PMS 252 (Pantone Purple)": [
+    211,
+    107,
+    198
+  ],
+  "PMS 253 (Pantone Purple 2X)": [
+    175,
+    35,
+    165
+  ],
+  "PMS 254 (Pantone Purple 2X)": [
+    160,
+    45,
+    150
+  ],
+  "PMS 255 (Pantone Purple 2X)": [
+    119,
+    45,
+    107
+  ],
+  "PMS 256 (Pantone Cool Gray 4)": [
+    229,
+    196,
+    214
+  ],
+  "PMS 2562 (Pantone Cool Gray 4)": [
+    216,
+    168,
+    216
+  ],
+  "PMS 2563 (Pantone Cool Gray 7)": [
+    209,
+    160,
+    204
+  ],
+  "PMS 2567 (Pantone Process Blue 2X)": [
+    191,
+    147,
+    204
+  ],
+  "PMS 257 (Pantone Cool Gray 7)": [
+    211,
+    165,
+    201
+  ],
+  "PMS 2572 (Pantone Purple)": [
+    198,
+    135,
+    209
+  ],
+  "PMS 2573 (Pantone Purple 2X)": [
+    186,
+    124,
+    188
+  ],
+  "PMS 2577 (Pantone Purple 2X)": [
+    170,
+    114,
+    191
+  ],
+  "PMS 258 (Pantone Purple 2X)": [
+    155,
+    79,
+    150
+  ],
+  "PMS 2582 (Pantone Purple)": [
+    170,
+    71,
+    186
+  ],
+  "PMS 2583 (Pantone Purple 2X)": [
+    158,
+    79,
+    165
+  ],
+  "PMS 2587 (Pantone Violet 2X)": [
+    142,
+    71,
+    173
+  ],
+  "PMS 259 (Pantone Purple 2X)": [
+    114,
+    22,
+    107
+  ],
+  "PMS 2592 (Pantone Purple)": [
+    147,
+    15,
+    165
+  ],
+  "PMS 2592 2X (Pantone Violet 2X)": [
+    114,
+    0,
+    130
+  ],
+  "PMS 2593 (Pantone Purple 2X)": [
+    135,
+    43,
+    147
+  ],
+  "PMS 2597 (Pantone Violet 2X)": [
+    102,
+    0,
+    140
+  ],
+  "PMS 260 (Pantone Purple 2X)": [
+    104,
+    30,
+    91
+  ],
+  "PMS 2602 (Pantone Purple 2X)": [
+    130,
+    12,
+    142
+  ],
+  "PMS 2603 (Pantone Violet 2X)": [
+    112,
+    20,
+    122
+  ],
+  "PMS 2607 (Pantone Violet 2X)": [
+    91,
+    2,
+    122
+  ],
+  "PMS 261 (Pantone Black 5)": [
+    94,
+    33,
+    84
+  ],
+  "PMS 2612 (Pantone Purple 2X)": [
+    112,
+    30,
+    114
+  ],
+  "PMS 2613 (Pantone Violet 2X)": [
+    102,
+    17,
+    109
+  ],
+  "PMS 2617 (Pantone Violet 2X)": [
+    86,
+    12,
+    112
+  ],
+  "PMS 262 (Pantone Black 5)": [
+    84,
+    35,
+    68
+  ],
+  "PMS 2622 (Pantone Black 5)": [
+    96,
+    45,
+    89
+  ],
+  "PMS 2623 (Pantone Violet 2X)": [
+    91,
+    25,
+    94
+  ],
+  "PMS 2627 (Pantone Reflex Blue 2X)": [
+    76,
+    20,
+    94
+  ],
+  "PMS 263 (Pantone Cool Gray 2)": [
+    224,
+    206,
+    224
+  ],
+  "PMS 2635 (Pantone Cool Gray 7)": [
+    201,
+    173,
+    216
+  ],
+  "PMS 264 (Pantone Cool Gray 7)": [
+    198,
+    170,
+    219
+  ],
+  "PMS 2645 (Pantone Process Blue 2X)": [
+    181,
+    145,
+    209
+  ],
+  "PMS 265 (Pantone Purple)": [
+    150,
+    99,
+    196
+  ],
+  "PMS 2655 (Pantone Purple)": [
+    155,
+    109,
+    198
+  ],
+  "PMS 266 (Pantone Violet)": [
+    109,
+    40,
+    170
+  ],
+  "PMS 2665 (Pantone Violet 2X)": [
+    137,
+    79,
+    191
+  ],
+  "PMS 267 (Pantone Violet 2X)": [
+    89,
+    17,
+    142
+  ],
+  "PMS 268 (Pantone Reflex Blue 2X)": [
+    79,
+    33,
+    112
+  ],
+  "PMS 2685 (Pantone Violet 2X)": [
+    86,
+    0,
+    140
+  ],
+  "PMS 269 (Pantone Reflex Blue 2X)": [
+    68,
+    35,
+    89
+  ],
+  "PMS 2695 (Pantone Reflex Blue 2X)": [
+    68,
+    35,
+    94
+  ],
+  "PMS 270 (Pantone Cool Gray 7)": [
+    186,
+    175,
+    211
+  ],
+  "PMS 2705 (Pantone Process Blue)": [
+    173,
+    158,
+    211
+  ],
+  "PMS 2706 (Pantone Cool Gray 4)": [
+    209,
+    206,
+    221
+  ],
+  "PMS 2707 (Pantone Cool Gray 4)": [
+    191,
+    209,
+    229
+  ],
+  "PMS 2708 (Pantone Cool Gray 4)": [
+    175,
+    188,
+    219
+  ],
+  "PMS 271 (Pantone Process Blue 2X)": [
+    158,
+    145,
+    198
+  ],
+  "PMS 2715 (Pantone Process Blue 2X)": [
+    147,
+    122,
+    204
+  ],
+  "PMS 2716 (Pantone Process Blue)": [
+    165,
+    160,
+    214
+  ],
+  "PMS 2717 (Pantone Cool Gray 4)": [
+    165,
+    186,
+    224
+  ],
+  "PMS 2718 (Pantone Process Blue 2X)": [
+    91,
+    119,
+    204
+  ],
+  "PMS 272 (Pantone Process Blue 2X)": [
+    137,
+    119,
+    186
+  ],
+  "PMS 2725 (Pantone Violet 2X)": [
+    114,
+    81,
+    188
+  ],
+  "PMS 2726 (Pantone Violet 2X)": [
+    102,
+    86,
+    188
+  ],
+  "PMS 2727 (Pantone Process Blue 2X)": [
+    94,
+    104,
+    196
+  ],
+  "PMS 2728 (Pantone Reflex Blue)": [
+    48,
+    68,
+    181
+  ],
+  "PMS 273 (Pantone Reflex Blue 2X)": [
+    56,
+    25,
+    122
+  ],
+  "PMS 2735 (Pantone Violet 2X)": [
+    79,
+    0,
+    147
+  ],
+  "PMS 2736 (Pantone Blue 072)": [
+    73,
+    48,
+    173
+  ],
+  "PMS 2738 (Pantone Blue 072)": [
+    45,
+    0,
+    142
+  ],
+  "PMS 274 (Pantone Reflex Blue 2X)": [
+    43,
+    17,
+    102
+  ],
+  "PMS 2745 (Pantone Reflex Blue 2X)": [
+    63,
+    0,
+    119
+  ],
+  "PMS 2746 (Pantone Reflex Blue)": [
+    63,
+    40,
+    147
+  ],
+  "PMS 2747 (Pantone Reflex Blue 2X)": [
+    28,
+    20,
+    107
+  ],
+  "PMS 2748 (Pantone Reflex Blue 2X)": [
+    30,
+    28,
+    119
+  ],
+  "PMS 275 (Pantone Reflex Blue 2X)": [
+    38,
+    15,
+    84
+  ],
+  "PMS 2755 (Pantone Reflex Blue 2X)": [
+    53,
+    0,
+    109
+  ],
+  "PMS 2756 (Pantone Reflex Blue 2X)": [
+    51,
+    40,
+    117
+  ],
+  "PMS 2757 (Pantone Reflex Blue 2X)": [
+    20,
+    22,
+    84
+  ],
+  "PMS 2758 (Pantone Reflex Blue 2X)": [
+    25,
+    33,
+    104
+  ],
+  "PMS 276 (Pantone Black 6)": [
+    43,
+    33,
+    71
+  ],
+  "PMS 2765 (Pantone Reflex Blue 2X)": [
+    43,
+    12,
+    86
+  ],
+  "PMS 2766 (Pantone Black 6)": [
+    43,
+    38,
+    91
+  ],
+  "PMS 2767 (Pantone Black 6)": [
+    20,
+    33,
+    61
+  ],
+  "PMS 2768 (Pantone Black 6)": [
+    17,
+    33,
+    81
+  ],
+  "PMS 277 (Pantone Cool Gray 4)": [
+    181,
+    209,
+    232
+  ],
+  "PMS 278 (Pantone Process Blue)": [
+    153,
+    186,
+    221
+  ],
+  "PMS 279 (Pantone Process Blue 2X)": [
+    102,
+    137,
+    204
+  ],
+  "PMS 280 (Pantone Reflex Blue 2X)": [
+    0,
+    43,
+    127
+  ],
+  "PMS 281 (Pantone Reflex Blue 2X)": [
+    0,
+    40,
+    104
+  ],
+  "PMS 282 (Pantone Black 6)": [
+    0,
+    38,
+    84
+  ],
+  "PMS 283 (Pantone Cool Gray 4)": [
+    155,
+    196,
+    226
+  ],
+  "PMS 284 (Pantone Process Blue)": [
+    117,
+    170,
+    219
+  ],
+  "PMS 285 (Pantone Process Blue 2X)": [
+    58,
+    117,
+    196
+  ],
+  "PMS 286 (Pantone Reflex Blue)": [
+    0,
+    56,
+    168
+  ],
+  "PMS 287 (Pantone Reflex Blue)": [
+    0,
+    56,
+    147
+  ],
+  "PMS 288 (Pantone Reflex Blue 2X)": [
+    0,
+    51,
+    127
+  ],
+  "PMS 289 (Pantone Black 6)": [
+    0,
+    38,
+    73
+  ],
+  "PMS 290 (Pantone Cool Gray 2)": [
+    196,
+    216,
+    226
+  ],
+  "PMS 2905 (Pantone Cool Gray 4)": [
+    147,
+    198,
+    224
+  ],
+  "PMS 291 (Pantone Cool Gray 4)": [
+    168,
+    206,
+    226
+  ],
+  "PMS 2915 (Pantone Process Blue)": [
+    96,
+    175,
+    221
+  ],
+  "PMS 292 (Pantone Process Blue)": [
+    117,
+    178,
+    221
+  ],
+  "PMS 2925 (Pantone Process Blue 2X)": [
+    0,
+    142,
+    214
+  ],
+  "PMS 293 (Pantone Reflex Blue)": [
+    0,
+    81,
+    186
+  ],
+  "PMS 2935 (Pantone Process Blue 2X)": [
+    0,
+    91,
+    191
+  ],
+  "PMS 294 (Pantone Process Blue 2X)": [
+    0,
+    63,
+    135
+  ],
+  "PMS 2945 (Pantone Process Blue 2X)": [
+    0,
+    84,
+    160
+  ],
+  "PMS 295 (Pantone Process Blue 2X)": [
+    0,
+    56,
+    107
+  ],
+  "PMS 2955 (Pantone Black 6)": [
+    0,
+    61,
+    107
+  ],
+  "PMS 296 (Pantone Black 6)": [
+    0,
+    45,
+    71
+  ],
+  "PMS 2965 (Pantone Black 6)": [
+    0,
+    51,
+    76
+  ],
+  "PMS 297 (Pantone Process Blue)": [
+    130,
+    198,
+    226
+  ],
+  "PMS 2975 (Pantone Cool Gray 2)": [
+    186,
+    224,
+    226
+  ],
+  "PMS 298 (Pantone Process Blue)": [
+    81,
+    181,
+    224
+  ],
+  "PMS 2985 (Pantone Process Blue)": [
+    81,
+    191,
+    226
+  ],
+  "PMS 299 (Pantone Process Blue)": [
+    0,
+    163,
+    221
+  ],
+  "PMS 299 2X (Pantone Process Blue 2X)": [
+    0,
+    127,
+    204
+  ],
+  "PMS 2995 (Pantone Process Blue)": [
+    0,
+    165,
+    219
+  ],
+  "PMS 300 (Pantone Process Blue 2X)": [
+    0,
+    114,
+    198
+  ],
+  "PMS 3005 (Pantone Process Blue 2X)": [
+    0,
+    132,
+    201
+  ],
+  "PMS 301 (Pantone Process Blue 2X)": [
+    0,
+    91,
+    153
+  ],
+  "PMS 3015 (Pantone Process Blue)": [
+    0,
+    112,
+    158
+  ],
+  "PMS 302 (Pantone Black 6)": [
+    0,
+    79,
+    109
+  ],
+  "PMS 3025 (Pantone Black 6)": [
+    0,
+    84,
+    107
+  ],
+  "PMS 303 (Pantone Black 6)": [
+    0,
+    63,
+    84
+  ],
+  "PMS 3035 (Pantone Black 6)": [
+    0,
+    68,
+    84
+  ],
+  "PMS 304 (Pantone Cool Gray 4)": [
+    165,
+    221,
+    226
+  ],
+  "PMS 305 (Pantone Process Blue)": [
+    112,
+    206,
+    226
+  ],
+  "PMS 306 (Pantone Process Blue)": [
+    0,
+    188,
+    226
+  ],
+  "PMS 306 2X (Pantone Process Blue)": [
+    0,
+    163,
+    209
+  ],
+  "PMS 307 (Pantone Process Blue)": [
+    0,
+    122,
+    165
+  ],
+  "PMS 308 (Pantone Process Blue)": [
+    0,
+    96,
+    124
+  ],
+  "PMS 309 (Pantone Black 6)": [
+    0,
+    63,
+    73
+  ],
+  "PMS 310 (Pantone Green)": [
+    114,
+    209,
+    221
+  ],
+  "PMS 3105 (Pantone Green)": [
+    127,
+    214,
+    219
+  ],
+  "PMS 311 (Pantone Green)": [
+    40,
+    196,
+    216
+  ],
+  "PMS 3115 (Pantone Green)": [
+    45,
+    198,
+    214
+  ],
+  "PMS 312 (Pantone Process Blue)": [
+    0,
+    173,
+    198
+  ],
+  "PMS 3125 (Pantone Green)": [
+    0,
+    183,
+    198
+  ],
+  "PMS 313 (Pantone Process Blue)": [
+    0,
+    153,
+    181
+  ],
+  "PMS 3135 (Pantone Process Blue)": [
+    0,
+    155,
+    170
+  ],
+  "PMS 314 (Pantone Process Blue)": [
+    0,
+    130,
+    155
+  ],
+  "PMS 3145 (Pantone Green 2X)": [
+    0,
+    132,
+    142
+  ],
+  "PMS 315 (Pantone Cool Gray 11)": [
+    0,
+    107,
+    119
+  ],
+  "PMS 3155 (Pantone Cool Gray 11)": [
+    0,
+    109,
+    117
+  ],
+  "PMS 316 (Pantone Black 6)": [
+    0,
+    73,
+    79
+  ],
+  "PMS 3165 (Pantone Cool Gray 11)": [
+    0,
+    86,
+    91
+  ],
+  "PMS 317 (Pantone Cool Gray 1)": [
+    201,
+    232,
+    221
+  ],
+  "PMS 318 (Pantone Cool Gray 4)": [
+    147,
+    221,
+    219
+  ],
+  "PMS 319 (Pantone Green)": [
+    76,
+    206,
+    209
+  ],
+  "PMS 320 (Pantone Green)": [
+    0,
+    158,
+    160
+  ],
+  "PMS 320 2X (Pantone Green 2X)": [
+    0,
+    127,
+    130
+  ],
+  "PMS 321 (Pantone Green 2X)": [
+    0,
+    135,
+    137
+  ],
+  "PMS 322 (Pantone Green 2X)": [
+    0,
+    114,
+    114
+  ],
+  "PMS 323 (Pantone Cool Gray 11)": [
+    0,
+    102,
+    99
+  ],
+  "PMS 324 (Pantone Cool Gray 2)": [
+    170,
+    221,
+    214
+  ],
+  "PMS 3242 (Pantone Green)": [
+    135,
+    221,
+    209
+  ],
+  "PMS 3245 (Pantone Green)": [
+    140,
+    224,
+    209
+  ],
+  "PMS 3248 (Pantone Green)": [
+    122,
+    211,
+    193
+  ],
+  "PMS 325 (Pantone Green)": [
+    86,
+    201,
+    193
+  ],
+  "PMS 3252 (Pantone Green)": [
+    86,
+    214,
+    201
+  ],
+  "PMS 3255 (Pantone Green)": [
+    71,
+    214,
+    193
+  ],
+  "PMS 3258 (Pantone Green)": [
+    53,
+    196,
+    175
+  ],
+  "PMS 326 (Pantone Green)": [
+    0,
+    178,
+    170
+  ],
+  "PMS 3262 (Pantone Green)": [
+    0,
+    193,
+    181
+  ],
+  "PMS 3265 (Pantone Green)": [
+    0,
+    198,
+    178
+  ],
+  "PMS 3268 (Pantone Green)": [
+    0,
+    175,
+    153
+  ],
+  "PMS 327 (Pantone Green 2X)": [
+    0,
+    140,
+    130
+  ],
+  "PMS 327 2X (Pantone Green 2X)": [
+    0,
+    137,
+    119
+  ],
+  "PMS 3272 (Pantone Green)": [
+    0,
+    170,
+    158
+  ],
+  "PMS 3275 (Pantone Green)": [
+    0,
+    178,
+    160
+  ],
+  "PMS 3278 (Pantone Green 2X)": [
+    0,
+    155,
+    132
+  ],
+  "PMS 328 (Pantone Green 2X)": [
+    0,
+    119,
+    112
+  ],
+  "PMS 3282 (Pantone Green 2X)": [
+    0,
+    140,
+    130
+  ],
+  "PMS 3285 (Pantone Green 2X)": [
+    0,
+    153,
+    135
+  ],
+  "PMS 3288 (Pantone Green 2X)": [
+    0,
+    130,
+    112
+  ],
+  "PMS 329 (Pantone Green 2X)": [
+    0,
+    109,
+    102
+  ],
+  "PMS 3292 (Pantone Cool Gray 11)": [
+    0,
+    96,
+    86
+  ],
+  "PMS 3295 (Pantone Green 2X)": [
+    0,
+    130,
+    114
+  ],
+  "PMS 3298 (Pantone Green 2X)": [
+    0,
+    107,
+    91
+  ],
+  "PMS 330 (Pantone Cool Gray 11)": [
+    0,
+    89,
+    81
+  ],
+  "PMS 3302 (Pantone Black 3)": [
+    0,
+    73,
+    63
+  ],
+  "PMS 3305 (Pantone Black 3)": [
+    0,
+    79,
+    66
+  ],
+  "PMS 3308 (Pantone Black 3)": [
+    0,
+    68,
+    56
+  ],
+  "PMS 331 (Pantone Cool Gray 1)": [
+    186,
+    234,
+    214
+  ],
+  "PMS 332 (Pantone Cool Gray 2)": [
+    160,
+    229,
+    206
+  ],
+  "PMS 333 (Pantone Green)": [
+    94,
+    221,
+    193
+  ],
+  "PMS 334 (Pantone Green 2X)": [
+    0,
+    153,
+    124
+  ],
+  "PMS 335 (Pantone Green 2X)": [
+    0,
+    124,
+    102
+  ],
+  "PMS 336 (Pantone Green 2X)": [
+    0,
+    104,
+    84
+  ],
+  "PMS 337 (Pantone Green)": [
+    155,
+    219,
+    193
+  ],
+  "PMS 3375 (Pantone Green)": [
+    142,
+    226,
+    188
+  ],
+  "PMS 338 (Pantone Green)": [
+    122,
+    209,
+    181
+  ],
+  "PMS 3385 (Pantone Green)": [
+    84,
+    216,
+    168
+  ],
+  "PMS 339 (Pantone Green)": [
+    0,
+    178,
+    140
+  ],
+  "PMS 3395 (Pantone Green)": [
+    0,
+    201,
+    147
+  ],
+  "PMS 340 (Pantone Green 2X)": [
+    0,
+    153,
+    119
+  ],
+  "PMS 3405 (Pantone Green)": [
+    0,
+    178,
+    122
+  ],
+  "PMS 341 (Pantone Green 2X)": [
+    0,
+    122,
+    94
+  ],
+  "PMS 3415 (Pantone Green 2X)": [
+    0,
+    124,
+    89
+  ],
+  "PMS 342 (Pantone Green 2X)": [
+    0,
+    107,
+    84
+  ],
+  "PMS 3425 (Pantone Green 2X)": [
+    0,
+    104,
+    71
+  ],
+  "PMS 343 (Pantone Green 2X)": [
+    0,
+    86,
+    63
+  ],
+  "PMS 3435 (Pantone Black 3)": [
+    2,
+    73,
+    48
+  ],
+  "PMS 344 (Pantone Cool Gray 2)": [
+    181,
+    226,
+    191
+  ],
+  "PMS 345 (Pantone Green)": [
+    150,
+    216,
+    175
+  ],
+  "PMS 346 (Pantone Green)": [
+    112,
+    206,
+    155
+  ],
+  "PMS 347 (Pantone Green 2X)": [
+    0,
+    158,
+    96
+  ],
+  "PMS 348 (Pantone Green 2X)": [
+    0,
+    135,
+    81
+  ],
+  "PMS 349 (Pantone Green 2X)": [
+    0,
+    107,
+    63
+  ],
+  "PMS 350 (Pantone Black 3)": [
+    35,
+    79,
+    51
+  ],
+  "PMS 351 (Pantone Cool Gray 1)": [
+    181,
+    232,
+    191
+  ],
+  "PMS 352 (Pantone Green)": [
+    153,
+    229,
+    178
+  ],
+  "PMS 353 (Pantone Green)": [
+    132,
+    226,
+    168
+  ],
+  "PMS 354 (Pantone Green)": [
+    0,
+    183,
+    96
+  ],
+  "PMS 354 2X (Pantone Green 2X)": [
+    0,
+    153,
+    68
+  ],
+  "PMS 355 (Pantone Green 2X)": [
+    0,
+    158,
+    73
+  ],
+  "PMS 356 (Pantone Green 2X)": [
+    0,
+    122,
+    61
+  ],
+  "PMS 357 (Pantone Green 2X)": [
+    33,
+    91,
+    51
+  ],
+  "PMS 358 (Pantone Green)": [
+    170,
+    221,
+    150
+  ],
+  "PMS 359 (Pantone Green)": [
+    160,
+    219,
+    142
+  ],
+  "PMS 360 (Pantone Green)": [
+    96,
+    198,
+    89
+  ],
+  "PMS 361 (Pantone Green 2X)": [
+    30,
+    181,
+    58
+  ],
+  "PMS 362 (Pantone Green 2X)": [
+    51,
+    158,
+    53
+  ],
+  "PMS 363 (Pantone Green 2X)": [
+    61,
+    142,
+    51
+  ],
+  "PMS 364 (Pantone Green 2X)": [
+    58,
+    119,
+    40
+  ],
+  "PMS 365 (Pantone Warm Gray 1)": [
+    211,
+    232,
+    163
+  ],
+  "PMS 366 (Pantone Warm Gray 2)": [
+    196,
+    229,
+    142
+  ],
+  "PMS 367 (Pantone Process Yellow)": [
+    170,
+    221,
+    109
+  ],
+  "PMS 368 (Pantone Process Yellow)": [
+    91,
+    191,
+    33
+  ],
+  "PMS 368 2X (Pantone Green 2X)": [
+    0,
+    158,
+    15
+  ],
+  "PMS 369 (Pantone Green 2X)": [
+    86,
+    170,
+    28
+  ],
+  "PMS 370 (Pantone Green 2X)": [
+    86,
+    142,
+    20
+  ],
+  "PMS 371 (Pantone Warm Gray 10)": [
+    86,
+    107,
+    33
+  ],
+  "PMS 372 (Pantone Warm Gray 1)": [
+    216,
+    237,
+    150
+  ],
+  "PMS 373 (Pantone Process Yellow)": [
+    206,
+    234,
+    130
+  ],
+  "PMS 374 (Pantone Process Yellow)": [
+    186,
+    232,
+    96
+  ],
+  "PMS 375 (Pantone Process Yellow)": [
+    140,
+    214,
+    0
+  ],
+  "PMS 375 2X (Pantone Process Yellow)": [
+    84,
+    188,
+    0
+  ],
+  "PMS 376 (Pantone Process Yellow)": [
+    127,
+    186,
+    0
+  ],
+  "PMS 377 (Pantone Process Yellow)": [
+    112,
+    147,
+    2
+  ],
+  "PMS 378 (Pantone Warm Gray 11)": [
+    86,
+    99,
+    20
+  ],
+  "PMS 379 (Pantone Process Yellow)": [
+    224,
+    234,
+    104
+  ],
+  "PMS 380 (Pantone Process Yellow)": [
+    214,
+    229,
+    66
+  ],
+  "PMS 381 (Pantone Process Yellow)": [
+    204,
+    226,
+    38
+  ],
+  "PMS 382 (Pantone Process Yellow)": [
+    186,
+    216,
+    10
+  ],
+  "PMS 382 2X (Pantone Process Yellow)": [
+    158,
+    196,
+    0
+  ],
+  "PMS 383 (Pantone Process Yellow)": [
+    163,
+    175,
+    7
+  ],
+  "PMS 384 (Pantone Process Yellow)": [
+    147,
+    153,
+    5
+  ],
+  "PMS 385 (Pantone Warm Gray 10)": [
+    112,
+    112,
+    20
+  ],
+  "PMS 386 (Pantone Process Yellow)": [
+    232,
+    237,
+    96
+  ],
+  "PMS 387 (Pantone Process Yellow)": [
+    224,
+    237,
+    68
+  ],
+  "PMS 388 (Pantone Process Yellow)": [
+    214,
+    232,
+    15
+  ],
+  "PMS 389 (Pantone Process Yellow)": [
+    206,
+    224,
+    7
+  ],
+  "PMS 390 (Pantone Process Yellow)": [
+    186,
+    196,
+    5
+  ],
+  "PMS 391 (Pantone Process Yellow)": [
+    158,
+    158,
+    7
+  ],
+  "PMS 392 (Pantone Warm Gray 10)": [
+    132,
+    130,
+    5
+  ],
+  "PMS 393 (Pantone Process Yellow)": [
+    242,
+    239,
+    135
+  ],
+  "PMS 3935 (Pantone Process Yellow)": [
+    242,
+    237,
+    109
+  ],
+  "PMS 394 (Pantone Process Yellow)": [
+    234,
+    237,
+    53
+  ],
+  "PMS 3945 (Pantone Process Yellow)": [
+    239,
+    234,
+    7
+  ],
+  "PMS 395 (Pantone Process Yellow)": [
+    229,
+    232,
+    17
+  ],
+  "PMS 3955 (Pantone Process Yellow)": [
+    237,
+    226,
+    17
+  ],
+  "PMS 396 (Pantone Process Yellow)": [
+    224,
+    226,
+    12
+  ],
+  "PMS 3965 (Pantone Process Yellow)": [
+    232,
+    221,
+    17
+  ],
+  "PMS 397 (Pantone Process Yellow)": [
+    193,
+    191,
+    10
+  ],
+  "PMS 3975 (Pantone Process Yellow)": [
+    181,
+    168,
+    12
+  ],
+  "PMS 398 (Pantone Process Yellow)": [
+    175,
+    168,
+    10
+  ],
+  "PMS 3985 (Pantone Yellow)": [
+    153,
+    140,
+    10
+  ],
+  "PMS 399 (Pantone Yellow)": [
+    153,
+    142,
+    7
+  ],
+  "PMS 3995 (Pantone Warm Gray 11)": [
+    109,
+    96,
+    2
+  ],
+  "PMS 400 (Pantone Warm Gray 3)": [
+    209,
+    198,
+    181
+  ],
+  "PMS 401 (Pantone Warm Gray 4)": [
+    193,
+    181,
+    165
+  ],
+  "PMS 402 (Pantone Warm Gray 6)": [
+    175,
+    165,
+    147
+  ],
+  "PMS 403 (Pantone Warm Gray 8)": [
+    153,
+    140,
+    124
+  ],
+  "PMS 404 (Pantone Warm Gray 10)": [
+    130,
+    117,
+    102
+  ],
+  "PMS 405 (Pantone Warm Gray 11)": [
+    107,
+    94,
+    79
+  ],
+  "PMS 406 (Pantone Warm Gray 3)": [
+    206,
+    193,
+    181
+  ],
+  "PMS 407 (Pantone Warm Gray 5)": [
+    186,
+    170,
+    158
+  ],
+  "PMS 408 (Pantone Warm Gray 7)": [
+    168,
+    153,
+    140
+  ],
+  "PMS 409 (Pantone Warm Gray 8)": [
+    153,
+    137,
+    124
+  ],
+  "PMS 410 (Pantone Warm Gray 10)": [
+    124,
+    109,
+    99
+  ],
+  "PMS 411 (Pantone Warm Gray 11)": [
+    102,
+    89,
+    76
+  ],
+  "PMS 412 (Pantone Black)": [
+    61,
+    48,
+    40
+  ],
+  "PMS 413 (Pantone Warm Gray 3)": [
+    198,
+    193,
+    178
+  ],
+  "PMS 414 (Pantone Warm Gray 5)": [
+    181,
+    175,
+    160
+  ],
+  "PMS 415 (Pantone Warm Gray 6)": [
+    163,
+    158,
+    140
+  ],
+  "PMS 416 (Pantone Warm Gray 8)": [
+    142,
+    140,
+    122
+  ],
+  "PMS 417 (Pantone Warm Gray 10)": [
+    119,
+    114,
+    99
+  ],
+  "PMS 418 (Pantone Warm Gray 11)": [
+    96,
+    94,
+    79
+  ],
+  "PMS 419 (Pantone Black 3)": [
+    40,
+    40,
+    33
+  ],
+  "PMS 420 (Pantone Cool Gray 3)": [
+    209,
+    204,
+    191
+  ],
+  "PMS 421 (Pantone Cool Gray 5)": [
+    191,
+    186,
+    175
+  ],
+  "PMS 422 (Pantone Cool Gray 6)": [
+    175,
+    170,
+    163
+  ],
+  "PMS 423 (Pantone Cool Gray 8)": [
+    150,
+    147,
+    142
+  ],
+  "PMS 424 (Pantone Cool Gray 10)": [
+    130,
+    127,
+    119
+  ],
+  "PMS 425 (Pantone Cool Gray 11)": [
+    96,
+    96,
+    91
+  ],
+  "PMS 426 (Pantone Black 7 2X)": [
+    43,
+    43,
+    40
+  ],
+  "PMS 427 (Pantone Cool Gray 2)": [
+    221,
+    219,
+    209
+  ],
+  "PMS 428 (Pantone Cool Gray 3)": [
+    209,
+    206,
+    198
+  ],
+  "PMS 429 (Pantone Cool Gray 6)": [
+    173,
+    175,
+    170
+  ],
+  "PMS 430 (Pantone Cool Gray 8)": [
+    145,
+    150,
+    147
+  ],
+  "PMS 431 (Pantone Cool Gray 11)": [
+    102,
+    109,
+    112
+  ],
+  "PMS 432 (Pantone Black 7)": [
+    68,
+    79,
+    81
+  ],
+  "PMS 433 (Pantone Black 7 2X)": [
+    48,
+    56,
+    58
+  ],
+  "PMS 433 2X (Pantone Black 6 2X)": [
+    10,
+    12,
+    17
+  ],
+  "PMS 434 (Pantone Warm Gray 2)": [
+    224,
+    209,
+    198
+  ],
+  "PMS 435 (Pantone Warm Gray 3)": [
+    211,
+    191,
+    183
+  ],
+  "PMS 436 (Pantone Warm Gray 5)": [
+    188,
+    165,
+    158
+  ],
+  "PMS 437 (Pantone Warm Gray 10)": [
+    140,
+    112,
+    107
+  ],
+  "PMS 438 (Pantone Black 5)": [
+    89,
+    63,
+    61
+  ],
+  "PMS 439 (Pantone Black 5)": [
+    73,
+    53,
+    51
+  ],
+  "PMS 440 (Pantone Black)": [
+    63,
+    48,
+    43
+  ],
+  "PMS 441 (Pantone Cool Gray 3)": [
+    209,
+    209,
+    198
+  ],
+  "PMS 442 (Pantone Cool Gray 4)": [
+    186,
+    191,
+    183
+  ],
+  "PMS 443 (Pantone Cool Gray 7)": [
+    163,
+    168,
+    163
+  ],
+  "PMS 444 (Pantone Cool Gray 9)": [
+    137,
+    142,
+    140
+  ],
+  "PMS 445 (Pantone Cool Gray 11)": [
+    86,
+    89,
+    89
+  ],
+  "PMS 446 (Pantone Black 7)": [
+    73,
+    76,
+    73
+  ],
+  "PMS 447 (Pantone Black 7)": [
+    63,
+    63,
+    56
+  ],
+  "PMS 448 (Pantone Black 2)": [
+    84,
+    71,
+    45
+  ],
+  "PMS 4485 (Pantone Black 2)": [
+    96,
+    76,
+    17
+  ],
+  "PMS 449 (Pantone Black 2)": [
+    84,
+    71,
+    38
+  ],
+  "PMS 4495 (Pantone Warm Gray 10)": [
+    135,
+    117,
+    48
+  ],
+  "PMS 450 (Pantone Warm Gray 11)": [
+    96,
+    84,
+    43
+  ],
+  "PMS 4505 (Pantone Warm Gray 8)": [
+    160,
+    145,
+    81
+  ],
+  "PMS 451 (Pantone Warm Gray 6)": [
+    173,
+    160,
+    122
+  ],
+  "PMS 4515 (Pantone Warm Gray 6)": [
+    188,
+    173,
+    117
+  ],
+  "PMS 452 (Pantone Warm Gray 4)": [
+    196,
+    183,
+    150
+  ],
+  "PMS 4525 (Pantone Warm Gray 4)": [
+    204,
+    191,
+    142
+  ],
+  "PMS 453 (Pantone Warm Gray 2)": [
+    214,
+    204,
+    175
+  ],
+  "PMS 4535 (Pantone Warm Gray 2)": [
+    219,
+    206,
+    165
+  ],
+  "PMS 454 (Pantone Warm Gray 2)": [
+    226,
+    216,
+    191
+  ],
+  "PMS 4545 (Pantone Warm Gray 2)": [
+    229,
+    219,
+    186
+  ],
+  "PMS 455 (Pantone Warm Gray 11)": [
+    102,
+    86,
+    20
+  ],
+  "PMS 456 (Pantone Yellow)": [
+    153,
+    135,
+    20
+  ],
+  "PMS 457 (Pantone Yellow)": [
+    181,
+    155,
+    12
+  ],
+  "PMS 458 (Pantone Yellow)": [
+    221,
+    204,
+    107
+  ],
+  "PMS 459 (Pantone Yellow)": [
+    226,
+    214,
+    124
+  ],
+  "PMS 460 (Pantone Warm Gray 2)": [
+    234,
+    221,
+    150
+  ],
+  "PMS 461 (Pantone Warm Gray 1)": [
+    237,
+    229,
+    173
+  ],
+  "PMS 462 (Pantone Black 2)": [
+    91,
+    71,
+    35
+  ],
+  "PMS 4625 (Pantone Black 4)": [
+    71,
+    35,
+    17
+  ],
+  "PMS 463 (Pantone Warm Gray 11)": [
+    117,
+    84,
+    38
+  ],
+  "PMS 4635 (Pantone Warm Gray 11)": [
+    140,
+    89,
+    51
+  ],
+  "PMS 464 (Pantone Warm Gray 10)": [
+    135,
+    96,
+    40
+  ],
+  "PMS 464 2X (Pantone Warm Gray 11)": [
+    112,
+    66,
+    20
+  ],
+  "PMS 4645 (Pantone Warm Gray 8)": [
+    178,
+    130,
+    96
+  ],
+  "PMS 465 (Pantone Warm Gray 6)": [
+    193,
+    168,
+    117
+  ],
+  "PMS 4655 (Pantone Warm Gray 6)": [
+    196,
+    153,
+    119
+  ],
+  "PMS 466 (Pantone Warm Gray 4)": [
+    209,
+    191,
+    145
+  ],
+  "PMS 4665 (Pantone Warm Gray 4)": [
+    216,
+    181,
+    150
+  ],
+  "PMS 467 (Pantone Warm Gray 2)": [
+    221,
+    204,
+    165
+  ],
+  "PMS 4675 (Pantone Warm Gray 2)": [
+    229,
+    198,
+    170
+  ],
+  "PMS 468 (Pantone Warm Gray 2)": [
+    226,
+    214,
+    181
+  ],
+  "PMS 4685 (Pantone Warm Gray 2)": [
+    237,
+    211,
+    188
+  ],
+  "PMS 469 (Pantone Black 4)": [
+    96,
+    51,
+    17
+  ],
+  "PMS 4695 (Pantone Black 5)": [
+    81,
+    38,
+    28
+  ],
+  "PMS 4705 (Pantone Warm Gray 11)": [
+    124,
+    81,
+    61
+  ],
+  "PMS 471 2X (Pantone Orange 021)": [
+    163,
+    68,
+    2
+  ],
+  "PMS 4715 (Pantone Warm Gray 10)": [
+    153,
+    112,
+    91
+  ],
+  "PMS 4725 (Pantone Warm Gray 7)": [
+    181,
+    145,
+    124
+  ],
+  "PMS 4735 (Pantone Warm Gray 4)": [
+    204,
+    175,
+    155
+  ],
+  "PMS 4745 (Pantone Warm Gray 3)": [
+    216,
+    191,
+    170
+  ],
+  "PMS 4755 (Pantone Warm Gray 2)": [
+    226,
+    204,
+    186
+  ],
+  "PMS 476 (Pantone Black 4)": [
+    89,
+    61,
+    43
+  ],
+  "PMS 477 (Pantone Black 4)": [
+    99,
+    56,
+    38
+  ],
+  "PMS 478 (Pantone Warm Gray 11)": [
+    122,
+    63,
+    40
+  ],
+  "PMS 479 (Pantone Warm Gray 8)": [
+    175,
+    137,
+    112
+  ],
+  "PMS 480 (Pantone Warm Gray 4)": [
+    211,
+    183,
+    163
+  ],
+  "PMS 481 (Pantone Warm Gray 2)": [
+    224,
+    204,
+    186
+  ],
+  "PMS 482 (Pantone Warm Gray 2)": [
+    229,
+    211,
+    193
+  ],
+  "PMS 483 (Pantone Black 5)": [
+    107,
+    48,
+    33
+  ],
+  "PMS 484 (Pantone Rubine Red 2X)": [
+    155,
+    48,
+    28
+  ],
+  "PMS 485 (Pantone Warm Red 2X)": [
+    216,
+    30,
+    5
+  ],
+  "PMS 485 2X (Pantone Warm Red 2X)": [
+    204,
+    12,
+    0
+  ],
+  "PMS 486 (Pantone Warm Gray 5)": [
+    237,
+    158,
+    132
+  ],
+  "PMS 487 (Pantone Warm Gray 4)": [
+    239,
+    181,
+    160
+  ],
+  "PMS 488 (Pantone Warm Gray 2)": [
+    242,
+    196,
+    175
+  ],
+  "PMS 489 (Pantone Warm Gray 2)": [
+    242,
+    209,
+    191
+  ],
+  "PMS 490 (Pantone Black 5)": [
+    91,
+    38,
+    38
+  ],
+  "PMS 491 (Pantone Black 5)": [
+    117,
+    40,
+    40
+  ],
+  "PMS 492 (Pantone Rubine Red 2X)": [
+    145,
+    51,
+    56
+  ],
+  "PMS 493 (Pantone Warm Gray 7)": [
+    219,
+    130,
+    140
+  ],
+  "PMS 494 (Pantone Warm Gray 4)": [
+    242,
+    173,
+    178
+  ],
+  "PMS 495 (Pantone Warm Gray 2)": [
+    244,
+    188,
+    191
+  ],
+  "PMS 496 (Pantone Warm Gray 2)": [
+    247,
+    201,
+    198
+  ],
+  "PMS 497 (Pantone Black 5)": [
+    81,
+    40,
+    38
+  ],
+  "PMS 4975 (Pantone Black 5)": [
+    68,
+    30,
+    28
+  ],
+  "PMS 498 (Pantone Black 5)": [
+    109,
+    51,
+    43
+  ],
+  "PMS 4985 (Pantone Warm Gray 11)": [
+    132,
+    73,
+    73
+  ],
+  "PMS 499 (Pantone Black 5)": [
+    122,
+    56,
+    45
+  ],
+  "PMS 4995 (Pantone Warm Gray 10)": [
+    165,
+    107,
+    109
+  ],
+  "PMS 500 (Pantone Warm Gray 7)": [
+    206,
+    137,
+    140
+  ],
+  "PMS 5005 (Pantone Warm Gray 7)": [
+    188,
+    135,
+    135
+  ],
+  "PMS 501 (Pantone Warm Gray 3)": [
+    234,
+    178,
+    178
+  ],
+  "PMS 5015 (Pantone Warm Gray 4)": [
+    216,
+    173,
+    168
+  ],
+  "PMS 502 (Pantone Warm Gray 2)": [
+    242,
+    198,
+    196
+  ],
+  "PMS 5025 (Pantone Warm Gray 3)": [
+    226,
+    188,
+    183
+  ],
+  "PMS 503 (Pantone Warm Gray 2)": [
+    244,
+    209,
+    204
+  ],
+  "PMS 5035 (Pantone Warm Gray 2)": [
+    237,
+    206,
+    198
+  ],
+  "PMS 504 (Pantone Black 5)": [
+    81,
+    30,
+    38
+  ],
+  "PMS 505 (Pantone Black 5)": [
+    102,
+    30,
+    43
+  ],
+  "PMS 506 (Pantone Black 5)": [
+    122,
+    38,
+    56
+  ],
+  "PMS 507 (Pantone Warm Gray 7)": [
+    216,
+    137,
+    155
+  ],
+  "PMS 508 (Pantone Warm Gray 5)": [
+    232,
+    165,
+    175
+  ],
+  "PMS 509 (Pantone Warm Gray 3)": [
+    242,
+    186,
+    191
+  ],
+  "PMS 510 (Pantone Warm Gray 2)": [
+    244,
+    198,
+    201
+  ],
+  "PMS 511 (Pantone Black 5)": [
+    96,
+    33,
+    68
+  ],
+  "PMS 5115 (Pantone Black 5)": [
+    79,
+    33,
+    58
+  ],
+  "PMS 512 (Pantone Purple 2X)": [
+    132,
+    33,
+    107
+  ],
+  "PMS 5125 (Pantone Black 5)": [
+    117,
+    71,
+    96
+  ],
+  "PMS 513 (Pantone Purple 2X)": [
+    158,
+    35,
+    135
+  ],
+  "PMS 5135 (Pantone Cool Gray 11)": [
+    147,
+    107,
+    127
+  ],
+  "PMS 514 (Pantone Rhodamine Red 2X)": [
+    216,
+    132,
+    188
+  ],
+  "PMS 5145 (Pantone Cool Gray 9)": [
+    173,
+    135,
+    153
+  ],
+  "PMS 515 (Pantone Cool Gray 4)": [
+    232,
+    163,
+    201
+  ],
+  "PMS 5155 (Pantone Cool Gray 5)": [
+    204,
+    175,
+    183
+  ],
+  "PMS 516 (Pantone Cool Gray 4)": [
+    242,
+    186,
+    211
+  ],
+  "PMS 5165 (Pantone Cool Gray 3)": [
+    224,
+    201,
+    204
+  ],
+  "PMS 517 (Pantone Cool Gray 2)": [
+    244,
+    204,
+    216
+  ],
+  "PMS 5175 (Pantone Cool Gray 2)": [
+    232,
+    214,
+    209
+  ],
+  "PMS 518 (Pantone Black 5)": [
+    81,
+    45,
+    68
+  ],
+  "PMS 5185 (Pantone Black 5)": [
+    71,
+    40,
+    53
+  ],
+  "PMS 519 (Pantone Black 5)": [
+    99,
+    48,
+    94
+  ],
+  "PMS 5195 (Pantone Black 5)": [
+    89,
+    51,
+    68
+  ],
+  "PMS 520 (Pantone Purple 2X)": [
+    112,
+    53,
+    114
+  ],
+  "PMS 5205 (Pantone Cool Gray 11)": [
+    142,
+    104,
+    119
+  ],
+  "PMS 521 (Pantone Cool Gray 7)": [
+    181,
+    140,
+    178
+  ],
+  "PMS 5215 (Pantone Cool Gray 7)": [
+    181,
+    147,
+    155
+  ],
+  "PMS 522 (Pantone Cool Gray 7)": [
+    198,
+    163,
+    193
+  ],
+  "PMS 5225 (Pantone Warm Gray 5)": [
+    204,
+    173,
+    175
+  ],
+  "PMS 523 (Pantone Cool Gray 4)": [
+    211,
+    183,
+    204
+  ],
+  "PMS 5235 (Pantone Cool Gray 3)": [
+    221,
+    198,
+    196
+  ],
+  "PMS 524 (Pantone Cool Gray 3)": [
+    226,
+    204,
+    211
+  ],
+  "PMS 5245 (Pantone Cool Gray 2)": [
+    229,
+    211,
+    204
+  ],
+  "PMS 525 (Pantone Black 5)": [
+    81,
+    38,
+    84
+  ],
+  "PMS 5255 (Pantone Black 6)": [
+    53,
+    38,
+    79
+  ],
+  "PMS 526 (Pantone Violet 2X)": [
+    104,
+    33,
+    122
+  ],
+  "PMS 5265 (Pantone Black 6)": [
+    73,
+    61,
+    99
+  ],
+  "PMS 527 (Pantone Violet 2X)": [
+    122,
+    30,
+    153
+  ],
+  "PMS 5275 (Pantone Cool Gray 11)": [
+    96,
+    86,
+    119
+  ],
+  "PMS 528 (Pantone Purple 2X)": [
+    175,
+    114,
+    193
+  ],
+  "PMS 5285 (Pantone Cool Gray 9)": [
+    140,
+    130,
+    153
+  ],
+  "PMS 529 (Pantone Cool Gray 7)": [
+    206,
+    163,
+    211
+  ],
+  "PMS 5295 (Pantone Cool Gray 7)": [
+    178,
+    168,
+    181
+  ],
+  "PMS 530 (Pantone Cool Gray 4)": [
+    214,
+    175,
+    214
+  ],
+  "PMS 5305 (Pantone Cool Gray 4)": [
+    204,
+    193,
+    198
+  ],
+  "PMS 531 (Pantone Cool Gray 4)": [
+    229,
+    198,
+    219
+  ],
+  "PMS 5315 (Pantone Cool Gray 2)": [
+    219,
+    211,
+    211
+  ],
+  "PMS 532 (Pantone Black 6)": [
+    53,
+    56,
+    66
+  ],
+  "PMS 533 (Pantone Black 6)": [
+    53,
+    63,
+    91
+  ],
+  "PMS 534 (Pantone Black 6)": [
+    58,
+    73,
+    114
+  ],
+  "PMS 535 (Pantone Cool Gray 7)": [
+    155,
+    163,
+    183
+  ],
+  "PMS 536 (Pantone Cool Gray 7)": [
+    173,
+    178,
+    193
+  ],
+  "PMS 537 (Pantone Cool Gray 4)": [
+    196,
+    198,
+    206
+  ],
+  "PMS 538 (Pantone Cool Gray 2)": [
+    214,
+    211,
+    214
+  ],
+  "PMS 539 (Pantone Black 6)": [
+    0,
+    48,
+    73
+  ],
+  "PMS 5395 (Pantone Black 6)": [
+    2,
+    40,
+    58
+  ],
+  "PMS 540 (Pantone Black 6)": [
+    0,
+    51,
+    91
+  ],
+  "PMS 5405 (Pantone Cool Gray 11)": [
+    63,
+    96,
+    117
+  ],
+  "PMS 541 (Pantone Process Blue 2X)": [
+    0,
+    63,
+    119
+  ],
+  "PMS 5415 (Pantone Cool Gray 10)": [
+    96,
+    124,
+    140
+  ],
+  "PMS 542 (Pantone Process Blue)": [
+    102,
+    147,
+    188
+  ],
+  "PMS 5425 (Pantone Cool Gray 8)": [
+    132,
+    153,
+    165
+  ],
+  "PMS 543 (Pantone Cool Gray 7)": [
+    147,
+    183,
+    209
+  ],
+  "PMS 5435 (Pantone Cool Gray 5)": [
+    175,
+    188,
+    191
+  ],
+  "PMS 544 (Pantone Cool Gray 4)": [
+    183,
+    204,
+    219
+  ],
+  "PMS 5445 (Pantone Cool Gray 4)": [
+    196,
+    204,
+    204
+  ],
+  "PMS 545 (Pantone Cool Gray 4)": [
+    196,
+    211,
+    221
+  ],
+  "PMS 5455 (Pantone Cool Gray 2)": [
+    214,
+    216,
+    211
+  ],
+  "PMS 546 (Pantone Black 6)": [
+    12,
+    56,
+    68
+  ],
+  "PMS 5463 (Pantone Black 6)": [
+    0,
+    53,
+    58
+  ],
+  "PMS 5467 (Pantone Black 3)": [
+    25,
+    56,
+    51
+  ],
+  "PMS 547 (Pantone Black 6)": [
+    0,
+    63,
+    84
+  ],
+  "PMS 5473 (Pantone Cool Gray 11)": [
+    38,
+    104,
+    109
+  ],
+  "PMS 5477 (Pantone Cool Gray 11)": [
+    58,
+    86,
+    79
+  ],
+  "PMS 548 (Pantone Black 6)": [
+    0,
+    68,
+    89
+  ],
+  "PMS 5483 (Pantone Cool Gray 9)": [
+    96,
+    145,
+    145
+  ],
+  "PMS 5487 (Pantone Cool Gray 10)": [
+    102,
+    124,
+    114
+  ],
+  "PMS 549 (Pantone Process Blue)": [
+    94,
+    153,
+    170
+  ],
+  "PMS 5493 (Pantone Cool Gray 7)": [
+    140,
+    175,
+    173
+  ],
+  "PMS 5497 (Pantone Cool Gray 8)": [
+    145,
+    163,
+    153
+  ],
+  "PMS 550 (Pantone Cool Gray 7)": [
+    135,
+    175,
+    191
+  ],
+  "PMS 5503 (Pantone Cool Gray 4)": [
+    170,
+    196,
+    191
+  ],
+  "PMS 5507 (Pantone Cool Gray 5)": [
+    175,
+    186,
+    178
+  ],
+  "PMS 551 (Pantone Cool Gray 4)": [
+    163,
+    193,
+    201
+  ],
+  "PMS 5513 (Pantone Cool Gray 2)": [
+    206,
+    216,
+    209
+  ],
+  "PMS 5517 (Pantone Cool Gray 3)": [
+    201,
+    206,
+    196
+  ],
+  "PMS 552 (Pantone Cool Gray 3)": [
+    196,
+    214,
+    214
+  ],
+  "PMS 5523 (Pantone Cool Gray 2)": [
+    214,
+    221,
+    214
+  ],
+  "PMS 5527 (Pantone Cool Gray 3)": [
+    206,
+    209,
+    198
+  ],
+  "PMS 553 (Pantone Black 3)": [
+    35,
+    68,
+    53
+  ],
+  "PMS 5535 (Pantone Black 3)": [
+    33,
+    61,
+    48
+  ],
+  "PMS 554 (Pantone Green 2X)": [
+    25,
+    94,
+    71
+  ],
+  "PMS 5545 (Pantone Cool Gray 11)": [
+    79,
+    109,
+    94
+  ],
+  "PMS 555 (Pantone Green 2X)": [
+    7,
+    109,
+    84
+  ],
+  "PMS 5555 (Pantone Cool Gray 9)": [
+    119,
+    145,
+    130
+  ],
+  "PMS 556 (Pantone Cool Gray 8)": [
+    122,
+    168,
+    145
+  ],
+  "PMS 5565 (Pantone Cool Gray 7)": [
+    150,
+    170,
+    153
+  ],
+  "PMS 557 (Pantone Cool Gray 5)": [
+    163,
+    193,
+    173
+  ],
+  "PMS 5575 (Pantone Cool Gray 5)": [
+    175,
+    191,
+    173
+  ],
+  "PMS 558 (Pantone Cool Gray 3)": [
+    183,
+    206,
+    188
+  ],
+  "PMS 5585 (Pantone Cool Gray 3)": [
+    196,
+    206,
+    191
+  ],
+  "PMS 559 (Pantone Cool Gray 3)": [
+    198,
+    214,
+    196
+  ],
+  "PMS 5595 (Pantone Cool Gray 2)": [
+    216,
+    219,
+    204
+  ],
+  "PMS 560 (Pantone Black 3)": [
+    43,
+    76,
+    63
+  ],
+  "PMS 5605 (Pantone Black 3)": [
+    35,
+    58,
+    45
+  ],
+  "PMS 561 (Pantone Green 2X)": [
+    38,
+    102,
+    89
+  ],
+  "PMS 5615 (Pantone Cool Gray 11)": [
+    84,
+    104,
+    86
+  ],
+  "PMS 562 (Pantone Green 2X)": [
+    30,
+    122,
+    109
+  ],
+  "PMS 5625 (Pantone Cool Gray 10)": [
+    114,
+    132,
+    112
+  ],
+  "PMS 563 (Pantone Green)": [
+    127,
+    188,
+    170
+  ],
+  "PMS 5635 (Pantone Cool Gray 7)": [
+    158,
+    170,
+    153
+  ],
+  "PMS 564 (Pantone Cool Gray 4)": [
+    160,
+    206,
+    188
+  ],
+  "PMS 5645 (Pantone Cool Gray 4)": [
+    188,
+    193,
+    178
+  ],
+  "PMS 565 (Pantone Cool Gray 2)": [
+    188,
+    219,
+    204
+  ],
+  "PMS 5655 (Pantone Cool Gray 3)": [
+    198,
+    204,
+    186
+  ],
+  "PMS 566 (Pantone Cool Gray 2)": [
+    209,
+    226,
+    211
+  ],
+  "PMS 568 (Pantone Cool Gray 2)": [
+    214,
+    214,
+    198
+  ],
+  "PMS 569 (Pantone Green 2X)": [
+    5,
+    112,
+    94
+  ],
+  "PMS 570 (Pantone Green 2X)": [
+    0,
+    135,
+    114
+  ],
+  "PMS 571 (Pantone Green)": [
+    127,
+    198,
+    178
+  ],
+  "PMS 572 (Pantone Cool Gray 3)": [
+    170,
+    219,
+    198
+  ],
+  "PMS 573 (Pantone Cool Gray 2)": [
+    188,
+    226,
+    206
+  ],
+  "PMS 574 (Pantone Cool Gray 1)": [
+    204,
+    229,
+    214
+  ],
+  "PMS 5743 (Pantone Warm Gray 2)": [
+    216,
+    221,
+    181
+  ],
+  "PMS 5747 (Pantone Warm Gray 2)": [
+    216,
+    214,
+    183
+  ],
+  "PMS 575 (Pantone Black 2)": [
+    73,
+    89,
+    40
+  ],
+  "PMS 5753 (Pantone Black 2)": [
+    63,
+    73,
+    38
+  ],
+  "PMS 5757 (Pantone Black 2)": [
+    66,
+    71,
+    22
+  ],
+  "PMS 576 (Pantone Green 2X)": [
+    84,
+    119,
+    48
+  ],
+  "PMS 5763 (Pantone Warm Gray 11)": [
+    94,
+    102,
+    58
+  ],
+  "PMS 5767 (Pantone Warm Gray 10)": [
+    107,
+    112,
+    43
+  ],
+  "PMS 577 (Pantone Green 2X)": [
+    96,
+    142,
+    58
+  ],
+  "PMS 5773 (Pantone Warm Gray 9)": [
+    119,
+    124,
+    79
+  ],
+  "PMS 5777 (Pantone Warm Gray 8)": [
+    140,
+    145,
+    79
+  ],
+  "PMS 578 (Pantone Warm Gray 3)": [
+    181,
+    204,
+    142
+  ],
+  "PMS 5783 (Pantone Warm Gray 6)": [
+    155,
+    158,
+    114
+  ],
+  "PMS 5787 (Pantone Warm Gray 6)": [
+    170,
+    173,
+    117
+  ],
+  "PMS 579 (Pantone Warm Gray 2)": [
+    198,
+    214,
+    160
+  ],
+  "PMS 5793 (Pantone Warm Gray 4)": [
+    181,
+    181,
+    142
+  ],
+  "PMS 5797 (Pantone Warm Gray 3)": [
+    198,
+    198,
+    153
+  ],
+  "PMS 580 (Pantone Warm Gray 2)": [
+    201,
+    214,
+    163
+  ],
+  "PMS 5807 (Pantone Warm Gray 2)": [
+    211,
+    209,
+    170
+  ],
+  "PMS 581 (Pantone Warm Gray 1)": [
+    224,
+    221,
+    188
+  ],
+  "PMS 5815 (Pantone Black 2)": [
+    73,
+    68,
+    17
+  ],
+  "PMS 582 (Pantone Warm Gray 11)": [
+    96,
+    94,
+    17
+  ],
+  "PMS 5825 (Pantone Warm Gray 10)": [
+    117,
+    112,
+    43
+  ],
+  "PMS 583 (Pantone Process Yellow)": [
+    135,
+    137,
+    5
+  ],
+  "PMS 5835 (Pantone Warm Gray 7)": [
+    158,
+    153,
+    89
+  ],
+  "PMS 584 (Pantone Process Yellow)": [
+    170,
+    186,
+    10
+  ],
+  "PMS 5845 (Pantone Warm Gray 6)": [
+    178,
+    170,
+    112
+  ],
+  "PMS 585 (Pantone Process Yellow)": [
+    219,
+    224,
+    107
+  ],
+  "PMS 5855 (Pantone Warm Gray 3)": [
+    204,
+    198,
+    147
+  ],
+  "PMS 586 (Pantone Process Yellow)": [
+    226,
+    229,
+    132
+  ],
+  "PMS 5865 (Pantone Warm Gray 2)": [
+    214,
+    206,
+    163
+  ],
+  "PMS 587 (Pantone Warm Gray 2)": [
+    232,
+    232,
+    155
+  ],
+  "PMS 5875 (Pantone Warm Gray 2)": [
+    224,
+    219,
+    181
+  ],
+  "PMS 600 (Pantone Warm Gray 1)": [
+    244,
+    237,
+    175
+  ],
+  "PMS 601 (Pantone Warm Gray 1)": [
+    242,
+    237,
+    158
+  ],
+  "PMS 602 (Pantone Process Yellow)": [
+    242,
+    234,
+    135
+  ],
+  "PMS 603 (Pantone Process Yellow)": [
+    237,
+    232,
+    91
+  ],
+  "PMS 604 (Pantone Process Yellow)": [
+    232,
+    221,
+    33
+  ],
+  "PMS 605 (Pantone Process Yellow)": [
+    221,
+    206,
+    17
+  ],
+  "PMS 606 (Pantone Yellow)": [
+    211,
+    191,
+    17
+  ],
+  "PMS 607 (Pantone Warm Gray 1)": [
+    242,
+    234,
+    188
+  ],
+  "PMS 608 (Pantone Warm Gray 1)": [
+    239,
+    232,
+    173
+  ],
+  "PMS 609 (Pantone Warm Gray 2)": [
+    234,
+    229,
+    150
+  ],
+  "PMS 610 (Pantone Process Yellow)": [
+    226,
+    219,
+    114
+  ],
+  "PMS 611 (Pantone Process Yellow)": [
+    214,
+    206,
+    73
+  ],
+  "PMS 612 (Pantone Process Yellow)": [
+    196,
+    186,
+    0
+  ],
+  "PMS 613 (Pantone Yellow)": [
+    175,
+    160,
+    12
+  ],
+  "PMS 614 (Pantone Warm Gray 1)": [
+    234,
+    226,
+    183
+  ],
+  "PMS 615 (Pantone Warm Gray 2)": [
+    226,
+    219,
+    170
+  ],
+  "PMS 616 (Pantone Warm Gray 2)": [
+    221,
+    214,
+    155
+  ],
+  "PMS 617 (Pantone Warm Gray 4)": [
+    204,
+    196,
+    124
+  ],
+  "PMS 618 (Pantone Warm Gray 6)": [
+    181,
+    170,
+    89
+  ],
+  "PMS 619 (Pantone Warm Gray 8)": [
+    150,
+    140,
+    40
+  ],
+  "PMS 620 (Pantone Warm Gray 10)": [
+    132,
+    119,
+    17
+  ],
+  "PMS 621 (Pantone Cool Gray 2)": [
+    216,
+    221,
+    206
+  ],
+  "PMS 622 (Pantone Cool Gray 3)": [
+    193,
+    209,
+    191
+  ],
+  "PMS 623 (Pantone Cool Gray 5)": [
+    165,
+    191,
+    170
+  ],
+  "PMS 624 (Pantone Cool Gray 8)": [
+    127,
+    160,
+    140
+  ],
+  "PMS 625 (Pantone Green 2X)": [
+    91,
+    135,
+    114
+  ],
+  "PMS 626 (Pantone Black 3)": [
+    33,
+    84,
+    63
+  ],
+  "PMS 627 (Pantone Black 3)": [
+    12,
+    48,
+    38
+  ],
+  "PMS 628 (Pantone Cool Gray 2)": [
+    204,
+    226,
+    221
+  ],
+  "PMS 629 (Pantone Cool Gray 4)": [
+    178,
+    216,
+    216
+  ],
+  "PMS 630 (Pantone Cool Gray 4)": [
+    140,
+    204,
+    211
+  ],
+  "PMS 631 (Pantone Green)": [
+    84,
+    183,
+    198
+  ],
+  "PMS 632 (Pantone Process Blue)": [
+    0,
+    160,
+    186
+  ],
+  "PMS 633 (Pantone Process Blue)": [
+    0,
+    127,
+    153
+  ],
+  "PMS 634 (Pantone Process Blue)": [
+    0,
+    102,
+    127
+  ],
+  "PMS 635 (Pantone Cool Gray 2)": [
+    186,
+    224,
+    224
+  ],
+  "PMS 636 (Pantone Cool Gray 4)": [
+    153,
+    214,
+    221
+  ],
+  "PMS 637 (Pantone Process Blue)": [
+    107,
+    201,
+    219
+  ],
+  "PMS 638 (Pantone Process Blue)": [
+    0,
+    181,
+    214
+  ],
+  "PMS 639 (Pantone Process Blue)": [
+    0,
+    160,
+    196
+  ],
+  "PMS 640 (Pantone Process Blue)": [
+    0,
+    140,
+    178
+  ],
+  "PMS 641 (Pantone Process Blue)": [
+    0,
+    122,
+    165
+  ],
+  "PMS 642 (Pantone Cool Gray 2)": [
+    209,
+    216,
+    216
+  ],
+  "PMS 643 (Pantone Cool Gray 4)": [
+    198,
+    209,
+    214
+  ],
+  "PMS 644 (Pantone Cool Gray 7)": [
+    155,
+    175,
+    196
+  ],
+  "PMS 645 (Pantone Process Blue)": [
+    119,
+    150,
+    178
+  ],
+  "PMS 646 (Pantone Process Blue)": [
+    94,
+    130,
+    163
+  ],
+  "PMS 647 (Pantone Process Blue 2X)": [
+    38,
+    84,
+    124
+  ],
+  "PMS 648 (Pantone Black 6)": [
+    0,
+    48,
+    94
+  ],
+  "PMS 649 (Pantone Cool Gray 2)": [
+    214,
+    214,
+    216
+  ],
+  "PMS 650 (Pantone Cool Gray 4)": [
+    191,
+    198,
+    209
+  ],
+  "PMS 651 (Pantone Cool Gray 7)": [
+    155,
+    170,
+    191
+  ],
+  "PMS 652 (Pantone Process Blue)": [
+    109,
+    135,
+    168
+  ],
+  "PMS 653 (Pantone Process Blue 2X)": [
+    51,
+    86,
+    135
+  ],
+  "PMS 654 (Pantone Black 6)": [
+    15,
+    43,
+    91
+  ],
+  "PMS 655 (Pantone Black 6)": [
+    12,
+    28,
+    71
+  ],
+  "PMS 656 (Pantone Cool Gray 2)": [
+    214,
+    219,
+    224
+  ],
+  "PMS 657 (Pantone Cool Gray 4)": [
+    193,
+    201,
+    221
+  ],
+  "PMS 658 (Pantone Cool Gray 7)": [
+    165,
+    175,
+    214
+  ],
+  "PMS 659 (Pantone Process Blue)": [
+    127,
+    140,
+    191
+  ],
+  "PMS 660 (Pantone Process Blue 2X)": [
+    89,
+    96,
+    168
+  ],
+  "PMS 661 (Pantone Reflex Blue)": [
+    45,
+    51,
+    142
+  ],
+  "PMS 662 (Pantone Reflex Blue 2X)": [
+    12,
+    25,
+    117
+  ],
+  "PMS 663 (Pantone Cool Gray 2)": [
+    226,
+    211,
+    214
+  ],
+  "PMS 664 (Pantone Cool Gray 3)": [
+    216,
+    204,
+    209
+  ],
+  "PMS 665 (Pantone Cool Gray 4)": [
+    198,
+    181,
+    196
+  ],
+  "PMS 666 (Pantone Cool Gray 7)": [
+    168,
+    147,
+    173
+  ],
+  "PMS 667 (Pantone Cool Gray 11)": [
+    127,
+    102,
+    137
+  ],
+  "PMS 668 (Pantone Black 5)": [
+    102,
+    73,
+    117
+  ],
+  "PMS 669 (Pantone Black 6)": [
+    71,
+    43,
+    89
+  ],
+  "PMS 670 (Pantone Cool Gray 2)": [
+    242,
+    214,
+    216
+  ],
+  "PMS 671 (Pantone Cool Gray 3)": [
+    239,
+    198,
+    211
+  ],
+  "PMS 672 (Pantone Cool Gray 4)": [
+    234,
+    170,
+    196
+  ],
+  "PMS 673 (Pantone Warm Gray 5)": [
+    224,
+    140,
+    178
+  ],
+  "PMS 674 (Pantone Rhodamine Red 2X)": [
+    211,
+    107,
+    158
+  ],
+  "PMS 675 (Pantone Rhodamine Red 2X)": [
+    188,
+    56,
+    119
+  ],
+  "PMS 676 (Pantone Rhodamine Red 2X)": [
+    160,
+    0,
+    84
+  ],
+  "PMS 677 (Pantone Cool Gray 2)": [
+    237,
+    214,
+    214
+  ],
+  "PMS 678 (Pantone Cool Gray 3)": [
+    234,
+    204,
+    206
+  ],
+  "PMS 679 (Pantone Cool Gray 4)": [
+    229,
+    191,
+    198
+  ],
+  "PMS 680 (Pantone Warm Gray 5)": [
+    211,
+    158,
+    175
+  ],
+  "PMS 681 (Pantone Warm Gray 10)": [
+    183,
+    114,
+    142
+  ],
+  "PMS 682 (Pantone Rhodamine Red 2X)": [
+    160,
+    81,
+    117
+  ],
+  "PMS 683 (Pantone Rhodamine Red 2X)": [
+    127,
+    40,
+    79
+  ],
+  "PMS 684 (Pantone Warm Gray 2)": [
+    239,
+    204,
+    206
+  ],
+  "PMS 685 (Pantone Warm Gray 3)": [
+    234,
+    191,
+    196
+  ],
+  "PMS 686 (Pantone Warm Gray 4)": [
+    224,
+    170,
+    186
+  ],
+  "PMS 687 (Pantone Warm Gray 7)": [
+    201,
+    137,
+    158
+  ],
+  "PMS 688 (Pantone Warm Gray 10)": [
+    178,
+    102,
+    132
+  ],
+  "PMS 689 (Pantone Rhodamine Red 2X)": [
+    147,
+    66,
+    102
+  ],
+  "PMS 690 (Pantone Black 5)": [
+    112,
+    35,
+    66
+  ],
+  "PMS 691 (Pantone Warm Gray 2)": [
+    239,
+    209,
+    201
+  ],
+  "PMS 692 (Pantone Warm Gray 3)": [
+    232,
+    191,
+    186
+  ],
+  "PMS 693 (Pantone Warm Gray 5)": [
+    219,
+    168,
+    165
+  ],
+  "PMS 694 (Pantone Warm Gray 7)": [
+    201,
+    140,
+    140
+  ],
+  "PMS 695 (Pantone Warm Gray 10)": [
+    178,
+    107,
+    112
+  ],
+  "PMS 696 (Pantone Warm Gray 11)": [
+    142,
+    71,
+    73
+  ],
+  "PMS 697 (Pantone Black 5)": [
+    127,
+    56,
+    58
+  ],
+  "PMS 698 (Pantone Warm Gray 2)": [
+    247,
+    209,
+    204
+  ],
+  "PMS 699 (Pantone Warm Gray 2)": [
+    247,
+    191,
+    191
+  ],
+  "PMS 700 (Pantone Warm Gray 4)": [
+    242,
+    165,
+    170
+  ],
+  "PMS 701 (Pantone Rubine Red)": [
+    232,
+    135,
+    142
+  ],
+  "PMS 702 (Pantone Rubine Red)": [
+    214,
+    96,
+    109
+  ],
+  "PMS 703 (Pantone Rubine Red 2X)": [
+    183,
+    56,
+    68
+  ],
+  "PMS 704 (Pantone Rubine Red 2X)": [
+    158,
+    40,
+    40
+  ],
+  "PMS 705 (Pantone Warm Gray 1)": [
+    249,
+    221,
+    214
+  ],
+  "PMS 706 (Pantone Warm Gray 2)": [
+    252,
+    201,
+    198
+  ],
+  "PMS 707 (Pantone Warm Gray 3)": [
+    252,
+    173,
+    175
+  ],
+  "PMS 708 (Pantone Rubine Red)": [
+    249,
+    142,
+    153
+  ],
+  "PMS 709 (Pantone Rubine Red)": [
+    242,
+    104,
+    119
+  ],
+  "PMS 710 (Pantone Rubine Red 2X)": [
+    224,
+    66,
+    81
+  ],
+  "PMS 711 (Pantone Rubine Red 2X)": [
+    209,
+    45,
+    51
+  ],
+  "PMS 712 (Pantone Warm Gray 2)": [
+    255,
+    211,
+    170
+  ],
+  "PMS 713 (Pantone Warm Gray 2)": [
+    249,
+    201,
+    163
+  ],
+  "PMS 714 (Pantone Warm Gray 4)": [
+    249,
+    186,
+    130
+  ],
+  "PMS 715 (Pantone Orange 021)": [
+    252,
+    158,
+    73
+  ],
+  "PMS 716 (Pantone Orange 021)": [
+    242,
+    132,
+    17
+  ],
+  "PMS 717 (Pantone Orange 021)": [
+    211,
+    109,
+    0
+  ],
+  "PMS 718 (Pantone Orange 021)": [
+    191,
+    91,
+    0
+  ],
+  "PMS 719 (Pantone Warm Gray 2)": [
+    244,
+    209,
+    175
+  ],
+  "PMS 720 (Pantone Warm Gray 2)": [
+    239,
+    196,
+    158
+  ],
+  "PMS 721 (Pantone Warm Gray 4)": [
+    232,
+    178,
+    130
+  ],
+  "PMS 722 (Pantone Warm Gray 7)": [
+    209,
+    142,
+    84
+  ],
+  "PMS 723 (Pantone Orange 021)": [
+    186,
+    117,
+    48
+  ],
+  "PMS 724 (Pantone Orange 021)": [
+    142,
+    73,
+    5
+  ],
+  "PMS 725 (Pantone Black 4)": [
+    117,
+    56,
+    2
+  ],
+  "PMS 726 (Pantone Warm Gray 2)": [
+    237,
+    211,
+    181
+  ],
+  "PMS 727 (Pantone Warm Gray 3)": [
+    226,
+    191,
+    155
+  ],
+  "PMS 728 (Pantone Warm Gray 5)": [
+    211,
+    168,
+    124
+  ],
+  "PMS 729 (Pantone Warm Gray 7)": [
+    193,
+    142,
+    96
+  ],
+  "PMS 730 (Pantone Warm Gray 10)": [
+    170,
+    117,
+    63
+  ],
+  "PMS 731 (Pantone Warm Gray 11)": [
+    114,
+    63,
+    10
+  ],
+  "PMS 732 (Pantone Black 4)": [
+    96,
+    51,
+    10
+  ],
+  "PMS 801 (Pantone Process Blue)": [
+    0,
+    170,
+    204
+  ],
+  "PMS 801 2X (Pantone Process Blue)": [
+    0,
+    137,
+    175
+  ],
+  "PMS 802 (Pantone Process Yellow)": [
+    96,
+    221,
+    73
+  ],
+  "PMS 802 2X (Pantone Process Yellow)": [
+    28,
+    206,
+    40
+  ],
+  "PMS 803 (Pantone Process Yellow)": [
+    255,
+    237,
+    56
+  ],
+  "PMS 803 2X (Pantone Yellow)": [
+    255,
+    216,
+    22
+  ],
+  "PMS 804 (Pantone Orange 021)": [
+    255,
+    147,
+    56
+  ],
+  "PMS 804 2X (Pantone Orange 021)": [
+    255,
+    127,
+    30
+  ],
+  "PMS 805 (Pantone Red 032)": [
+    249,
+    89,
+    81
+  ],
+  "PMS 805 2X (Pantone Warm Red)": [
+    249,
+    58,
+    43
+  ],
+  "PMS 806 (Pantone Rhodamine Red)": [
+    255,
+    0,
+    147
+  ],
+  "PMS 806 2X (Pantone Rhodamine Red 2X)": [
+    247,
+    2,
+    124
+  ],
+  "PMS 807 (Pantone Rhodamine Red)": [
+    214,
+    0,
+    158
+  ],
+  "PMS 807 2X (Pantone Purple 2X)": [
+    191,
+    0,
+    140
+  ],
+  "PMS 808 (Pantone Green)": [
+    0,
+    181,
+    155
+  ],
+  "PMS 808 2X (Pantone Green 2X)": [
+    0,
+    160,
+    135
+  ],
+  "PMS 809 (Pantone Process Yellow)": [
+    221,
+    224,
+    15
+  ],
+  "PMS 809 2X (Pantone Process Yellow)": [
+    214,
+    214,
+    12
+  ],
+  "PMS 810 (Pantone Yellow)": [
+    255,
+    204,
+    30
+  ],
+  "PMS 810 2X (Pantone Yellow)": [
+    255,
+    188,
+    33
+  ],
+  "PMS 811 (Pantone Orange 021)": [
+    255,
+    114,
+    71
+  ],
+  "PMS 811 2X (Pantone Warm Red)": [
+    255,
+    84,
+    22
+  ],
+  "PMS 812 (Pantone Rubine Red)": [
+    252,
+    35,
+    102
+  ],
+  "PMS 812 2X (Pantone Red 032)": [
+    252,
+    7,
+    79
+  ],
+  "PMS 813 (Pantone Rhodamine Red)": [
+    229,
+    0,
+    153
+  ],
+  "PMS 813 2X (Pantone Rhodamine Red)": [
+    209,
+    0,
+    132
+  ],
+  "PMS 814 (Pantone Violet 2X)": [
+    140,
+    96,
+    193
+  ],
+  "PMS 814 2X (Pantone Violet 2X)": [
+    112,
+    63,
+    175
+  ],
+  "Pantone Black (Pantone Black)": [
+    61,
+    51,
+    43
+  ],
+  "Pantone Black 2 (Pantone Black 2)": [
+    58,
+    51,
+    33
+  ],
+  "Pantone Black 2 2X (Pantone Black 2 2X)": [
+    17,
+    17,
+    17
+  ],
+  "Pantone Black 3 (Pantone Black 3)": [
+    40,
+    45,
+    38
+  ],
+  "Pantone Black 3 2X (Pantone Black 3 2X)": [
+    17,
+    17,
+    20
+  ],
+  "Pantone Black 4 (Pantone Black 4)": [
+    61,
+    48,
+    35
+  ],
+  "Pantone Black 4 2X (Pantone Black 4 2X)": [
+    15,
+    15,
+    15
+  ],
+  "Pantone Black 5 (Pantone Black 5)": [
+    66,
+    45,
+    45
+  ],
+  "Pantone Black 5 2X (Pantone Black 5 2X)": [
+    17,
+    12,
+    15
+  ],
+  "Pantone Black 6 (Pantone Black 6)": [
+    28,
+    38,
+    48
+  ],
+  "Pantone Black 6 2X (Pantone Black 6 2X)": [
+    7,
+    12,
+    15
+  ],
+  "Pantone Black 7 (Pantone Black 7)": [
+    68,
+    61,
+    56
+  ],
+  "Pantone Black 7 2X (Pantone Black 7 2X)": [
+    51,
+    48,
+    43
+  ],
+  "Pantone Blue 072 (Pantone Blue 072)": [
+    56,
+    0,
+    150
+  ],
+  "Pantone Cool Gray 1 (Pantone Cool Gray 1)": [
+    232,
+    226,
+    214
+  ],
+  "Pantone Cool Gray 10 (Pantone Cool Gray 10)": [
+    119,
+    119,
+    114
+  ],
+  "Pantone Cool Gray 11 (Pantone Cool Gray 11)": [
+    104,
+    102,
+    99
+  ],
+  "Pantone Cool Gray 2 (Pantone Cool Gray 2)": [
+    221,
+    216,
+    206
+  ],
+  "Pantone Cool Gray 3 (Pantone Cool Gray 3)": [
+    211,
+    206,
+    196
+  ],
+  "Pantone Cool Gray 4 (Pantone Cool Gray 4)": [
+    196,
+    193,
+    186
+  ],
+  "Pantone Cool Gray 5 (Pantone Cool Gray 5)": [
+    186,
+    183,
+    175
+  ],
+  "Pantone Cool Gray 6 (Pantone Cool Gray 6)": [
+    181,
+    178,
+    170
+  ],
+  "Pantone Cool Gray 7 (Pantone Cool Gray 7)": [
+    165,
+    163,
+    158
+  ],
+  "Pantone Cool Gray 8 (Pantone Cool Gray 8)": [
+    155,
+    153,
+    147
+  ],
+  "Pantone Cool Gray 9 (Pantone Cool Gray 9)": [
+    140,
+    137,
+    132
+  ],
+  "Pantone Green (Pantone Green)": [
+    0,
+    175,
+    147
+  ],
+  "Pantone Green 2X (Pantone Green 2X)": [
+    0,
+    150,
+    119
+  ],
+  "Pantone Orange 021 (Pantone Orange 021)": [
+    239,
+    107,
+    0
+  ],
+  "Pantone Process Blue (Pantone Process Blue)": [
+    0,
+    145,
+    201
+  ],
+  "Pantone Process Blue 2X (Pantone Process Blue 2X)": [
+    0,
+    119,
+    191
+  ],
+  "Pantone Process Yellow (Pantone Process Yellow)": [
+    247,
+    226,
+    20
+  ],
+  "Pantone Purple (Pantone Purple)": [
+    191,
+    48,
+    181
+  ],
+  "Pantone Purple 2X (Pantone Purple 2X)": [
+    170,
+    0,
+    150
+  ],
+  "Pantone Red 032 (Pantone Red 032)": [
+    239,
+    43,
+    45
+  ],
+  "Pantone Reflex Blue (Pantone Reflex Blue)": [
+    12,
+    28,
+    140
+  ],
+  "Pantone Reflex Blue 2X (Pantone Reflex Blue 2X)": [
+    28,
+    0,
+    122
+  ],
+  "Pantone Rhodamine Red (Pantone Rhodamine Red)": [
+    237,
+    0,
+    145
+  ],
+  "Pantone Rhodamine Red 2X (Pantone Rhodamine Red 2X)": [
+    209,
+    5,
+    114
+  ],
+  "Pantone Rubine Red (Pantone Rubine Red)": [
+    209,
+    0,
+    86
+  ],
+  "Pantone Rubine Red 2X (Pantone Rubine Red 2X)": [
+    198,
+    0,
+    61
+  ],
+  "Pantone Violet (Pantone Violet)": [
+    102,
+    7,
+    165
+  ],
+  "Pantone Violet 2X (Pantone Violet 2X)": [
+    89,
+    0,
+    142
+  ],
+  "Pantone Warm Gray 1 (Pantone Warm Gray 1)": [
+    229,
+    219,
+    204
+  ],
+  "Pantone Warm Gray 10 (Pantone Warm Gray 10)": [
+    130,
+    114,
+    99
+  ],
+  "Pantone Warm Gray 11 (Pantone Warm Gray 11)": [
+    109,
+    94,
+    81
+  ],
+  "Pantone Warm Gray 2 (Pantone Warm Gray 2)": [
+    221,
+    209,
+    193
+  ],
+  "Pantone Warm Gray 3 (Pantone Warm Gray 3)": [
+    204,
+    193,
+    178
+  ],
+  "Pantone Warm Gray 4 (Pantone Warm Gray 4)": [
+    193,
+    181,
+    165
+  ],
+  "Pantone Warm Gray 5 (Pantone Warm Gray 5)": [
+    181,
+    168,
+    153
+  ],
+  "Pantone Warm Gray 6 (Pantone Warm Gray 6)": [
+    175,
+    163,
+    147
+  ],
+  "Pantone Warm Gray 7 (Pantone Warm Gray 7)": [
+    163,
+    150,
+    135
+  ],
+  "Pantone Warm Gray 8 (Pantone Warm Gray 8)": [
+    150,
+    137,
+    122
+  ],
+  "Pantone Warm Gray 9 (Pantone Warm Gray 9)": [
+    140,
+    127,
+    112
+  ],
+  "Pantone Warm Red (Pantone Warm Red)": [
+    249,
+    63,
+    38
+  ],
+  "Pantone Warm Red 2X (Pantone Warm Red 2X)": [
+    224,
+    58,
+    0
+  ],
+  "Pantone Yellow (Pantone Yellow)": [
+    252,
+    224,
+    22
+  ],
+  "Pantone Yellow 2X (Pantone Yellow 2X)": [
+    252,
+    226,
+    22
+  ],
+  "White (White)": [
+    255,
+    255,
+    255
+  ]
+}
