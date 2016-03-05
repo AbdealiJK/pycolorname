@@ -15,9 +15,9 @@ class ColorSystemTest(unittest.TestCase):
     def test_dict(self):
         self.uut['test_key'] = 'test_val'
         self.assertEqual(len(self.uut), 1)
-        self.assertEqual(self.uut.keys(), ['test_key'])
-        self.assertEqual(self.uut.values(), ['test_val'])
-        self.assertEqual(self.uut.items()[0], ('test_key', 'test_val'))
+        self.assertEqual(list(self.uut.keys()), ['test_key'])
+        self.assertEqual(list(self.uut.values()), ['test_val'])
+        self.assertEqual(list(self.uut.items())[0], ('test_key', 'test_val'))
         self.assertIn('test_key', self.uut)
 
         self.uut.clear()
@@ -25,7 +25,7 @@ class ColorSystemTest(unittest.TestCase):
         self.assertNotIn('test_key', self.uut)
 
         self.uut.update({"test_key": "test_val"})
-        self.assertEqual(self.uut.items()[0], ('test_key', 'test_val'))
+        self.assertEqual(list(self.uut.items())[0], ('test_key', 'test_val'))
 
     def test_load(self):
         old_refresh = self.uut.refresh
