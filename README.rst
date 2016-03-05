@@ -41,7 +41,7 @@ the PantonePaint source can be used in the following manner:
     >>> from pycolorname.pantone.pantonepaint import PantonePaint
     >>> pantone_colors = PantonePaint()
     >>> pantone_colors["PMS 19-4914 TPX (Deep Teal)"]
-    [23, 73, 80]
+    (23, 73, 80)
 
 Another example using the RAL-Classic color system from the Wikipedia source:
 
@@ -50,7 +50,7 @@ Another example using the RAL-Classic color system from the Wikipedia source:
     >>> from pycolorname.ral.classic.wikipedia import Wikipedia
     >>> ral_colors = Wikipedia()
     >>> ral_colors["RAL 1000 (Green beige)"]
-    [204, 197, 143]
+    (204, 197, 143)
 
 Development
 ===========

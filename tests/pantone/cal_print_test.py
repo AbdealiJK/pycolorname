@@ -17,15 +17,15 @@ class CalPrintTest(unittest.TestCase):
 
         # We check a few random colors to be sure that things are fine.
         self.assertEqual(self.uut['PMS 245 (Pantone Purple)'],
-                         [232, 127, 201])
+                         (232, 127, 201))
         self.assertEqual(self.uut['PMS 202 (Pantone Rubine Red 2X)'],
-                         [140, 38, 51])
+                         (140, 38, 51))
         self.assertEqual(self.uut['Pantone Cool Gray 5 (Pantone Cool Gray 5)'],
-                         [186, 183, 175])
+                         (186, 183, 175))
         self.assertEqual(self.uut['PMS 1345 (Pantone Warm Gray 2)'],
-                         [255, 214, 145])
+                         (255, 214, 145))
         self.assertEqual(self.uut['Pantone Purple (Pantone Purple)'],
-                         [191, 48, 181])
+                         (191, 48, 181))
 
         # Check that the nearest color to named colors are themselves.
         # As, delta_e for named colors with themselves should be minimum.

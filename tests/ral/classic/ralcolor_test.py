@@ -16,12 +16,12 @@ class RALColorTest(unittest.TestCase):
 
         # We check a few random colors to be sure that things are fine.
         self.assertEqual(self.uut['RAL 1000 (Green beige)'],
-                         [190, 189, 127])
+                         (190, 189, 127))
         self.assertEqual(self.uut['RAL 3016 (Coral red)'],
-                         [179, 40, 33])
+                         (179, 40, 33))
         self.assertEqual(self.uut['RAL 5021 (Water blue)'],
-                         [37, 109, 123])
+                         (37, 109, 123))
         self.assertEqual(self.uut['RAL 7009 (Green grey)'],
-                         [77, 86, 69])
+                         (77, 86, 69))
         self.assertEqual(self.uut['RAL 9023 (Pearl dark grey)'],
-                         [130, 130, 130])
+                         (130, 130, 130))

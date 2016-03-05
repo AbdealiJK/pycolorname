@@ -58,5 +58,5 @@ class LogoDesignTeam(ColorSystem):
                     name = re.sub(r'Pantone (?P<ID>\d+)', r'PMS \g<ID>', name)
                     data[name] = color
                     break
-        data['White'] = [255, 255, 255]  # Add white
+        data['White'] = (255, 255, 255)  # Add white
         return data

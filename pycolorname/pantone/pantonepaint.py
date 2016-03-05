@@ -32,6 +32,6 @@ class PantonePaint(ColorSystem):
                                                  li['attr_name'])
             rgb = re.findall(style_regex, li['style'])[0]
             rgb = map(lambda x: int(x.strip()), rgb.split(","))
-            color = list(rgb)
+            color = tuple(rgb)
             data[name] = color
         return data

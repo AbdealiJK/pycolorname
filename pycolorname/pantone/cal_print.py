@@ -35,7 +35,7 @@ class CalPrint(ColorSystem):
             if not name.startswith('PMS'):
                 known_names.append(name)
         # Add white
-        raw_data['White'] = [255, 255, 255]
+        raw_data['White'] = (255, 255, 255)
         known_names.append('White')
 
         # Find distance between colors and find better names for unnamed

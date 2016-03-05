@@ -13,6 +13,12 @@ class ColorSystem(dict):
     Provides an interface for a color system.
     """
 
+    def __getitem__(self, key):
+        val = dict.__getitem__(self, key)
+        if isinstance(val, list) and len(val) == 3:
+            return tuple(val)
+        return val
+
     def data_file(self):
         modulename = self.__module__
         return os.path.join(PROJECT_PATH, "data", modulename + ".json")
@@ -85,4 +91,4 @@ class ColorSystem(dict):
         else:
             raise ValueError("Invalid value given for hex {0}".format(value))
 
-        return [int(v, 16) for v in val]
+        return tuple(int(v, 16) for v in val)

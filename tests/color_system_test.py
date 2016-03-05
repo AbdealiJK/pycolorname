@@ -77,9 +77,9 @@ class ColorSystemTest(unittest.TestCase):
             requests.request = old_request
 
     def test_hex_to_rgb(self):
-        self.assertEqual(self.uut.hex_to_rgb("#000"), [0, 0, 0])
-        self.assertEqual(self.uut.hex_to_rgb("#010101"), [1, 1, 1])
-        self.assertEqual(self.uut.hex_to_rgb("#aaa"), [170, 170, 170])
-        self.assertEqual(self.uut.hex_to_rgb("fff"), [255, 255, 255])
+        self.assertEqual(self.uut.hex_to_rgb("#000"), (0, 0, 0))
+        self.assertEqual(self.uut.hex_to_rgb("#010101"), (1, 1, 1))
+        self.assertEqual(self.uut.hex_to_rgb("#aaa"), (170, 170, 170))
+        self.assertEqual(self.uut.hex_to_rgb("fff"), (255, 255, 255))
         with self.assertRaises(ValueError):
             self.uut.hex_to_rgb("a")
