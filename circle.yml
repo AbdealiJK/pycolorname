@@ -16,3 +16,4 @@ test:
     # Make sure that no data file has changed when running tests.
     # This makes circleci fail if our json is not up to date.
     - if [ "a$(git ls-files -m | wc -l)" != "a0" ] ; then exit 1; fi
+    - pip install .

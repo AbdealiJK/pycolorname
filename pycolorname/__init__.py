@@ -1,26 +1,9 @@
 # -*- coding: utf-8 -*-
 
-# TODO:
-# List of color systems to add:
+import os
 
-# Pantone color standard
-# - cal-print:
-#   - URL: http://www.cal-print.com/InkColorChart.htm
-# - logodesignteam:
-#   - URL: http://www.logodesignteam.com/logo-design-pantone-color-chart.html
-#          http://www.logodesignteam.com/css/all.css
-# - ackerdesign:
-#   - URL: http://www.ackerdesign.com/acker-design-pantone-chart.html
-# - materialsworld:
-#   - URL: http://www.materials-world.com/pantone/pantone.htm
-# - pantonepaint:
-#   - URL: http://www.pantonepaint.co.kr/color/colorchipsearch.asp?cmp=TPX
+from pycolorname.Utilities import PROJECT_PATH
 
-# RAL
-# - wikipedia
-#   - URL: http://de.wikipedia.org/wiki/RAL-Farbe
 
-# DIC Color System Guide
-
-# NCS (Natural Color system)
-# URL: http://de.wikipedia.org/wiki/Natural_Color_System)
+with open(os.path.join(PROJECT_PATH, "VERSION")) as fp:
+    __version__ = fp.read().strip()
