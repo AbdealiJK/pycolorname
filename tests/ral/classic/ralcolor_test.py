@@ -6,13 +6,14 @@ from pycolorname.ral.classic.ralcolor import RALColor
 
 
 class RALColorTest(unittest.TestCase):
+
     def setUp(self):
         self.uut = RALColor()
         self.uut.load(refresh=True)
 
     def test_data(self):
         self.assertEqual(len(self.uut), 213)
-        
+
         # We check a few random colors to be sure that things are fine.
         self.assertEqual(self.uut['RAL 1000 (Green beige)'],
                          [190, 189, 127])

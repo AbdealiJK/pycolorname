@@ -6,6 +6,7 @@ from pycolorname.pantone.cal_print import CalPrint
 
 
 class CalPrintTest(unittest.TestCase):
+
     def setUp(self):
         self.uut = CalPrint()
         self.uut.load(refresh=True)
@@ -25,7 +26,6 @@ class CalPrintTest(unittest.TestCase):
                          [255, 214, 145])
         self.assertEqual(self.uut['Pantone Purple (Pantone Purple)'],
                          [191, 48, 181])
-
 
         # Check that the nearest color to named colors are themselves.
         # As, delta_e for named colors with themselves should be minimum.

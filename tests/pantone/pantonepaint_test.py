@@ -7,13 +7,14 @@ from pycolorname.utilities import u
 
 
 class PantonePaintTest(unittest.TestCase):
+
     def setUp(self):
         self.uut = PantonePaint()
         self.uut.load(refresh=True)
 
     def test_data(self):
         self.assertEqual(len(self.uut), 2095)
-        
+
         # We check a few random colors to be sure that things are fine.
         self.assertEqual(self.uut['PMS 19-5918 TPX (Mountain View)'],
                          [48, 65, 54])

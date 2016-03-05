@@ -6,6 +6,7 @@ from pycolorname.pantone.logodesignteam import LogoDesignTeam
 
 
 class LogoDesignTeamTest(unittest.TestCase):
+
     def setUp(self):
         self.uut = LogoDesignTeam()
         self.uut.load(refresh=True)

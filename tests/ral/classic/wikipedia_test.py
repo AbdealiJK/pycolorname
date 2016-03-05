@@ -6,13 +6,14 @@ from pycolorname.ral.classic.wikipedia import Wikipedia
 
 
 class WikipediaTest(unittest.TestCase):
+
     def setUp(self):
         self.uut = Wikipedia()
         self.uut.load(refresh=True)
 
     def test_data(self):
         self.assertEqual(len(self.uut), 213)
-        
+
         # We check a few random colors to be sure that things are fine.
         self.assertEqual(self.uut['RAL 1000 (Green beige)'],
                          [204, 197, 143])

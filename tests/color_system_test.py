@@ -9,6 +9,7 @@ from pycolorname.utilities import make_temp
 
 
 class ColorSystemTest(unittest.TestCase):
+
     def setUp(self):
         self.uut = ColorSystem()
 
@@ -59,8 +60,10 @@ class ColorSystemTest(unittest.TestCase):
 
     def test_request(self):
         test_url = "http://a_url_to_test_with.org"
+
         def mock_request(url):
             self.assertEqual(url, test_url)
+
             class MockResponse:
                 text = "<title>Test title</title>"
             return MockResponse()
