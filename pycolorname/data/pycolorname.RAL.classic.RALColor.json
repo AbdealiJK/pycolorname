@@ -1,0 +1,1067 @@
+{
+  "RAL 1000 (Green beige)": [
+    190,
+    189,
+    127
+  ],
+  "RAL 1001 (Beige)": [
+    194,
+    176,
+    120
+  ],
+  "RAL 1002 (Sand yellow)": [
+    198,
+    166,
+    100
+  ],
+  "RAL 1003 (Signal yellow)": [
+    229,
+    190,
+    1
+  ],
+  "RAL 1004 (Golden yellow)": [
+    205,
+    164,
+    52
+  ],
+  "RAL 1005 (Honey yellow)": [
+    169,
+    131,
+    7
+  ],
+  "RAL 1006 (Maize yellow)": [
+    228,
+    160,
+    16
+  ],
+  "RAL 1007 (Daffodil yellow)": [
+    220,
+    157,
+    0
+  ],
+  "RAL 1011 (Brown beige)": [
+    138,
+    102,
+    66
+  ],
+  "RAL 1012 (Lemon yellow)": [
+    199,
+    180,
+    70
+  ],
+  "RAL 1013 (Oyster white)": [
+    234,
+    230,
+    202
+  ],
+  "RAL 1014 (Ivory)": [
+    225,
+    204,
+    79
+  ],
+  "RAL 1015 (Light ivory)": [
+    230,
+    214,
+    144
+  ],
+  "RAL 1016 (Sulfur yellow)": [
+    237,
+    255,
+    33
+  ],
+  "RAL 1017 (Saffron yellow)": [
+    245,
+    208,
+    51
+  ],
+  "RAL 1018 (Zinc yellow)": [
+    248,
+    243,
+    43
+  ],
+  "RAL 1019 (Grey beige)": [
+    158,
+    151,
+    100
+  ],
+  "RAL 1020 (Olive yellow)": [
+    153,
+    153,
+    80
+  ],
+  "RAL 1021 (Rape yellow)": [
+    243,
+    218,
+    11
+  ],
+  "RAL 1023 (Traffic yellow)": [
+    250,
+    210,
+    1
+  ],
+  "RAL 1024 (Ochre yellow)": [
+    174,
+    160,
+    75
+  ],
+  "RAL 1026 (Luminous yellow)": [
+    255,
+    255,
+    0
+  ],
+  "RAL 1027 (Curry)": [
+    157,
+    145,
+    1
+  ],
+  "RAL 1028 (Melon yellow)": [
+    244,
+    169,
+    0
+  ],
+  "RAL 1032 (Broom yellow)": [
+    214,
+    174,
+    1
+  ],
+  "RAL 1033 (Dahlia yellow)": [
+    243,
+    165,
+    5
+  ],
+  "RAL 1034 (Pastel yellow)": [
+    239,
+    169,
+    74
+  ],
+  "RAL 1035 (Pearl beige)": [
+    106,
+    93,
+    77
+  ],
+  "RAL 1036 (Pearl gold)": [
+    112,
+    83,
+    53
+  ],
+  "RAL 1037 (Sun yellow)": [
+    243,
+    159,
+    24
+  ],
+  "RAL 2000 (Yellow orange)": [
+    237,
+    118,
+    14
+  ],
+  "RAL 2001 (Red orange)": [
+    201,
+    60,
+    32
+  ],
+  "RAL 2002 (Vermilion)": [
+    203,
+    40,
+    33
+  ],
+  "RAL 2003 (Pastel orange)": [
+    255,
+    117,
+    20
+  ],
+  "RAL 2004 (Pure orange)": [
+    244,
+    70,
+    17
+  ],
+  "RAL 2005 (Luminous orange)": [
+    255,
+    35,
+    1
+  ],
+  "RAL 2007 (Luminous bright orange)": [
+    255,
+    164,
+    32
+  ],
+  "RAL 2008 (Bright red orange)": [
+    247,
+    94,
+    37
+  ],
+  "RAL 2009 (Traffic orange)": [
+    245,
+    64,
+    33
+  ],
+  "RAL 2010 (Signal orange)": [
+    216,
+    75,
+    32
+  ],
+  "RAL 2011 (Deep orange)": [
+    236,
+    124,
+    38
+  ],
+  "RAL 2012 (Salmon range)": [
+    229,
+    81,
+    55
+  ],
+  "RAL 2013 (Pearl orange)": [
+    195,
+    88,
+    49
+  ],
+  "RAL 3000 (Flame red)": [
+    175,
+    43,
+    30
+  ],
+  "RAL 3001 (Signal red)": [
+    165,
+    32,
+    25
+  ],
+  "RAL 3002 (Carmine red)": [
+    162,
+    35,
+    29
+  ],
+  "RAL 3003 (Ruby red)": [
+    155,
+    17,
+    30
+  ],
+  "RAL 3004 (Purple red)": [
+    117,
+    21,
+    30
+  ],
+  "RAL 3005 (Wine red)": [
+    94,
+    33,
+    41
+  ],
+  "RAL 3007 (Black red)": [
+    65,
+    34,
+    39
+  ],
+  "RAL 3009 (Oxide red)": [
+    100,
+    36,
+    36
+  ],
+  "RAL 3011 (Brown red)": [
+    120,
+    31,
+    25
+  ],
+  "RAL 3012 (Beige red)": [
+    193,
+    135,
+    107
+  ],
+  "RAL 3013 (Tomato red)": [
+    161,
+    35,
+    18
+  ],
+  "RAL 3014 (Antique pink)": [
+    211,
+    110,
+    112
+  ],
+  "RAL 3015 (Light pink)": [
+    234,
+    137,
+    154
+  ],
+  "RAL 3016 (Coral red)": [
+    179,
+    40,
+    33
+  ],
+  "RAL 3017 (Rose)": [
+    230,
+    50,
+    68
+  ],
+  "RAL 3018 (Strawberry red)": [
+    213,
+    48,
+    50
+  ],
+  "RAL 3020 (Traffic red)": [
+    204,
+    6,
+    5
+  ],
+  "RAL 3022 (Salmon pink)": [
+    217,
+    80,
+    48
+  ],
+  "RAL 3024 (Luminous red)": [
+    248,
+    0,
+    0
+  ],
+  "RAL 3026 (Luminous bright red)": [
+    254,
+    0,
+    0
+  ],
+  "RAL 3027 (Raspberry red)": [
+    197,
+    29,
+    52
+  ],
+  "RAL 3028 (Pure red)": [
+    203,
+    50,
+    52
+  ],
+  "RAL 3031 (Orient red)": [
+    179,
+    36,
+    40
+  ],
+  "RAL 3032 (Pearl ruby red)": [
+    114,
+    20,
+    34
+  ],
+  "RAL 3033 (Pearl pink)": [
+    180,
+    76,
+    67
+  ],
+  "RAL 4001 (Red lilac)": [
+    109,
+    63,
+    91
+  ],
+  "RAL 4002 (Red violet)": [
+    146,
+    43,
+    62
+  ],
+  "RAL 4003 (Heather violet)": [
+    222,
+    76,
+    138
+  ],
+  "RAL 4004 (Claret violet)": [
+    100,
+    28,
+    52
+  ],
+  "RAL 4005 (Blue lilac)": [
+    108,
+    70,
+    117
+  ],
+  "RAL 4006 (Traffic purple)": [
+    160,
+    52,
+    114
+  ],
+  "RAL 4007 (Purple violet)": [
+    74,
+    25,
+    44
+  ],
+  "RAL 4008 (Signal violet)": [
+    146,
+    78,
+    125
+  ],
+  "RAL 4009 (Pastel violet)": [
+    161,
+    133,
+    148
+  ],
+  "RAL 4010 (Telemagenta)": [
+    207,
+    52,
+    118
+  ],
+  "RAL 4011 (Pearl violet)": [
+    134,
+    115,
+    161
+  ],
+  "RAL 4012 (Pearl black berry)": [
+    108,
+    104,
+    116
+  ],
+  "RAL 5000 (Violet blue)": [
+    53,
+    77,
+    115
+  ],
+  "RAL 5001 (Green blue)": [
+    31,
+    52,
+    56
+  ],
+  "RAL 5002 (Ultramarine blue)": [
+    32,
+    33,
+    79
+  ],
+  "RAL 5003 (Saphire blue)": [
+    29,
+    30,
+    51
+  ],
+  "RAL 5004 (Black blue)": [
+    24,
+    23,
+    28
+  ],
+  "RAL 5005 (Signal blue)": [
+    30,
+    36,
+    96
+  ],
+  "RAL 5007 (Brillant blue)": [
+    62,
+    95,
+    138
+  ],
+  "RAL 5008 (Grey blue)": [
+    38,
+    37,
+    45
+  ],
+  "RAL 5009 (Azure blue)": [
+    2,
+    86,
+    105
+  ],
+  "RAL 5010 (Gentian blue)": [
+    14,
+    41,
+    75
+  ],
+  "RAL 5011 (Steel blue)": [
+    35,
+    26,
+    36
+  ],
+  "RAL 5012 (Light blue)": [
+    59,
+    131,
+    189
+  ],
+  "RAL 5013 (Cobalt blue)": [
+    30,
+    33,
+    61
+  ],
+  "RAL 5014 (Pigeon blue)": [
+    96,
+    110,
+    140
+  ],
+  "RAL 5015 (Sky blue)": [
+    34,
+    113,
+    179
+  ],
+  "RAL 5017 (Traffic blue)": [
+    6,
+    57,
+    113
+  ],
+  "RAL 5018 (Turquoise blue)": [
+    63,
+    136,
+    143
+  ],
+  "RAL 5019 (Capri blue)": [
+    27,
+    85,
+    131
+  ],
+  "RAL 5020 (Ocean blue)": [
+    29,
+    51,
+    74
+  ],
+  "RAL 5021 (Water blue)": [
+    37,
+    109,
+    123
+  ],
+  "RAL 5022 (Night blue)": [
+    37,
+    40,
+    80
+  ],
+  "RAL 5023 (Distant blue)": [
+    73,
+    103,
+    141
+  ],
+  "RAL 5024 (Pastel blue)": [
+    93,
+    155,
+    155
+  ],
+  "RAL 5025 (Pearl gentian blue)": [
+    42,
+    100,
+    120
+  ],
+  "RAL 5026 (Pearl night blue)": [
+    16,
+    44,
+    84
+  ],
+  "RAL 6000 (Patina green)": [
+    49,
+    102,
+    80
+  ],
+  "RAL 6001 (Emerald green)": [
+    40,
+    114,
+    51
+  ],
+  "RAL 6002 (Leaf green)": [
+    45,
+    87,
+    44
+  ],
+  "RAL 6003 (Olive green)": [
+    66,
+    70,
+    50
+  ],
+  "RAL 6004 (Blue green)": [
+    31,
+    58,
+    61
+  ],
+  "RAL 6005 (Moss green)": [
+    47,
+    69,
+    56
+  ],
+  "RAL 6006 (Grey olive)": [
+    62,
+    59,
+    50
+  ],
+  "RAL 6007 (Bottle green)": [
+    52,
+    59,
+    41
+  ],
+  "RAL 6008 (Brown green)": [
+    57,
+    53,
+    42
+  ],
+  "RAL 6009 (Fir green)": [
+    49,
+    55,
+    43
+  ],
+  "RAL 6010 (Grass green)": [
+    53,
+    104,
+    45
+  ],
+  "RAL 6011 (Reseda green)": [
+    88,
+    114,
+    70
+  ],
+  "RAL 6012 (Black green)": [
+    52,
+    62,
+    64
+  ],
+  "RAL 6013 (Reed green)": [
+    108,
+    113,
+    86
+  ],
+  "RAL 6014 (Yellow olive)": [
+    71,
+    64,
+    46
+  ],
+  "RAL 6015 (Black olive)": [
+    59,
+    60,
+    54
+  ],
+  "RAL 6016 (Turquoise green)": [
+    30,
+    89,
+    69
+  ],
+  "RAL 6017 (May green)": [
+    76,
+    145,
+    65
+  ],
+  "RAL 6018 (Yellow green)": [
+    87,
+    166,
+    57
+  ],
+  "RAL 6019 (Pastel green)": [
+    189,
+    236,
+    182
+  ],
+  "RAL 6020 (Chrome green)": [
+    46,
+    58,
+    35
+  ],
+  "RAL 6021 (Pale green)": [
+    137,
+    172,
+    118
+  ],
+  "RAL 6022 (Olive drab)": [
+    37,
+    34,
+    27
+  ],
+  "RAL 6024 (Traffic green)": [
+    48,
+    132,
+    70
+  ],
+  "RAL 6025 (Fern green)": [
+    61,
+    100,
+    45
+  ],
+  "RAL 6026 (Opal green)": [
+    1,
+    93,
+    82
+  ],
+  "RAL 6027 (Light green)": [
+    132,
+    195,
+    190
+  ],
+  "RAL 6028 (Pine green)": [
+    44,
+    85,
+    69
+  ],
+  "RAL 6029 (Mint green)": [
+    32,
+    96,
+    61
+  ],
+  "RAL 6032 (Signal green)": [
+    49,
+    127,
+    67
+  ],
+  "RAL 6033 (Mint turquoise)": [
+    73,
+    126,
+    118
+  ],
+  "RAL 6034 (Pastel turquoise)": [
+    127,
+    181,
+    181
+  ],
+  "RAL 6035 (Pearl green)": [
+    28,
+    84,
+    45
+  ],
+  "RAL 6036 (Pearl opal green)": [
+    25,
+    55,
+    55
+  ],
+  "RAL 6037 (Pure green)": [
+    0,
+    143,
+    57
+  ],
+  "RAL 6038 (Luminous green)": [
+    0,
+    187,
+    45
+  ],
+  "RAL 7000 (Squirrel grey)": [
+    120,
+    133,
+    139
+  ],
+  "RAL 7001 (Silver grey)": [
+    138,
+    149,
+    151
+  ],
+  "RAL 7002 (Olive grey)": [
+    126,
+    123,
+    82
+  ],
+  "RAL 7003 (Moss grey)": [
+    108,
+    112,
+    89
+  ],
+  "RAL 7004 (Signal grey)": [
+    150,
+    153,
+    146
+  ],
+  "RAL 7005 (Mouse grey)": [
+    100,
+    107,
+    99
+  ],
+  "RAL 7006 (Beige grey)": [
+    109,
+    101,
+    82
+  ],
+  "RAL 7008 (Khaki grey)": [
+    106,
+    95,
+    49
+  ],
+  "RAL 7009 (Green grey)": [
+    77,
+    86,
+    69
+  ],
+  "RAL 7010 (Tarpaulin grey)": [
+    76,
+    81,
+    74
+  ],
+  "RAL 7011 (Iron grey)": [
+    67,
+    75,
+    77
+  ],
+  "RAL 7012 (Basalt grey)": [
+    78,
+    87,
+    84
+  ],
+  "RAL 7013 (Brown grey)": [
+    70,
+    69,
+    49
+  ],
+  "RAL 7015 (Slate grey)": [
+    67,
+    71,
+    80
+  ],
+  "RAL 7016 (Anthracite grey)": [
+    41,
+    49,
+    51
+  ],
+  "RAL 7021 (Black grey)": [
+    35,
+    40,
+    43
+  ],
+  "RAL 7022 (Umbra grey)": [
+    51,
+    47,
+    44
+  ],
+  "RAL 7023 (Concrete grey)": [
+    104,
+    108,
+    94
+  ],
+  "RAL 7024 (Graphite grey)": [
+    71,
+    74,
+    81
+  ],
+  "RAL 7026 (Granite grey)": [
+    47,
+    53,
+    59
+  ],
+  "RAL 7030 (Stone grey)": [
+    139,
+    140,
+    122
+  ],
+  "RAL 7031 (Blue grey)": [
+    71,
+    75,
+    78
+  ],
+  "RAL 7032 (Pebble grey)": [
+    184,
+    183,
+    153
+  ],
+  "RAL 7033 (Cement grey)": [
+    125,
+    132,
+    113
+  ],
+  "RAL 7034 (Yellow grey)": [
+    143,
+    139,
+    102
+  ],
+  "RAL 7035 (Light grey)": [
+    215,
+    215,
+    215
+  ],
+  "RAL 7036 (Platinum grey)": [
+    127,
+    118,
+    121
+  ],
+  "RAL 7037 (Dusty grey)": [
+    125,
+    127,
+    125
+  ],
+  "RAL 7038 (Agate grey)": [
+    181,
+    184,
+    177
+  ],
+  "RAL 7039 (Quartz grey)": [
+    108,
+    105,
+    96
+  ],
+  "RAL 7040 (Window grey)": [
+    157,
+    161,
+    170
+  ],
+  "RAL 7042 (Traffic grey A)": [
+    141,
+    148,
+    141
+  ],
+  "RAL 7043 (Traffic grey B)": [
+    78,
+    84,
+    82
+  ],
+  "RAL 7044 (Silk grey)": [
+    202,
+    196,
+    176
+  ],
+  "RAL 7045 (Telegrey 1)": [
+    144,
+    144,
+    144
+  ],
+  "RAL 7046 (Telegrey 2)": [
+    130,
+    137,
+    143
+  ],
+  "RAL 7047 (Telegrey 4)": [
+    208,
+    208,
+    208
+  ],
+  "RAL 7048 (Pearl mouse grey)": [
+    137,
+    129,
+    118
+  ],
+  "RAL 8000 (Green brown)": [
+    130,
+    108,
+    52
+  ],
+  "RAL 8001 (Ochre brown)": [
+    149,
+    95,
+    32
+  ],
+  "RAL 8002 (Signal brown)": [
+    108,
+    59,
+    42
+  ],
+  "RAL 8003 (Clay brown)": [
+    115,
+    66,
+    34
+  ],
+  "RAL 8004 (Copper brown)": [
+    142,
+    64,
+    42
+  ],
+  "RAL 8007 (Fawn brown)": [
+    89,
+    53,
+    31
+  ],
+  "RAL 8008 (Olive brown)": [
+    111,
+    79,
+    40
+  ],
+  "RAL 8011 (Nut brown)": [
+    91,
+    58,
+    41
+  ],
+  "RAL 8012 (Red brown)": [
+    89,
+    35,
+    33
+  ],
+  "RAL 8014 (Sepia brown)": [
+    56,
+    44,
+    30
+  ],
+  "RAL 8015 (Chestnut brown)": [
+    99,
+    58,
+    52
+  ],
+  "RAL 8016 (Mahogany brown)": [
+    76,
+    47,
+    39
+  ],
+  "RAL 8017 (Chocolate brown)": [
+    69,
+    50,
+    46
+  ],
+  "RAL 8019 (Grey brown)": [
+    64,
+    58,
+    58
+  ],
+  "RAL 8022 (Black brown)": [
+    33,
+    33,
+    33
+  ],
+  "RAL 8023 (Orange brown)": [
+    166,
+    94,
+    46
+  ],
+  "RAL 8024 (Beige brown)": [
+    121,
+    85,
+    61
+  ],
+  "RAL 8025 (Pale brown)": [
+    117,
+    92,
+    72
+  ],
+  "RAL 8028 (Terra brown)": [
+    78,
+    59,
+    49
+  ],
+  "RAL 8029 (Pearl copper)": [
+    118,
+    60,
+    40
+  ],
+  "RAL 9001 (Cream)": [
+    253,
+    244,
+    227
+  ],
+  "RAL 9002 (Grey white)": [
+    231,
+    235,
+    218
+  ],
+  "RAL 9003 (Signal white)": [
+    244,
+    244,
+    244
+  ],
+  "RAL 9004 (Signal black)": [
+    40,
+    40,
+    40
+  ],
+  "RAL 9005 (Jet black)": [
+    10,
+    10,
+    10
+  ],
+  "RAL 9006 (White aluminium)": [
+    165,
+    165,
+    165
+  ],
+  "RAL 9007 (Grey aluminium)": [
+    143,
+    143,
+    143
+  ],
+  "RAL 9010 (Pure white)": [
+    255,
+    255,
+    255
+  ],
+  "RAL 9011 (Graphite black)": [
+    28,
+    28,
+    28
+  ],
+  "RAL 9016 (Traffic white)": [
+    246,
+    246,
+    246
+  ],
+  "RAL 9017 (Traffic black)": [
+    30,
+    30,
+    30
+  ],
+  "RAL 9018 (Papyrus white)": [
+    215,
+    215,
+    215
+  ],
+  "RAL 9022 (Pearl light grey)": [
+    156,
+    156,
+    156
+  ],
+  "RAL 9023 (Pearl dark grey)": [
+    130,
+    130,
+    130
+  ]
+}

@@ -12,3 +12,4 @@ scraped from various sites.
 
  - RAL
    - https://en.wikipedia.org
+   - http://www.ralcolor.com
