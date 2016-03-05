@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
+import json
 import requests
 import unittest
 
 from pycolorname.ColorSystem import ColorSystem
+from pycolorname.Utilities import make_temp
 
 
 class ColorSystemTest(unittest.TestCase):
@@ -24,6 +26,30 @@ class ColorSystemTest(unittest.TestCase):
 
         self.uut.update({"test_key": "test_val"})
         self.assertEqual(self.uut.items()[0], ('test_key', 'test_val'))
+
+    def test_load(self):
+        old_refresh = self.uut.refresh
+        test_data = {"name": "color"}
+        try:
+            self.uut.refresh = lambda: test_data
+            with make_temp() as filename:
+                self.uut.load(filename)
+
+                # Test if data loaded into class
+                self.assertEqual(dict(self.uut), test_data)
+
+                # Test if data saved into file
+                with open(filename) as fp:
+                    json_data = json.load(fp)
+                self.assertEqual(json_data, test_data)
+
+                # Test if data is being read from file
+                self.uut.clear()
+                self.uut.refresh = lambda: {}
+                self.uut.load(filename)
+                self.assertEqual(json_data, test_data)
+        finally:
+            self.uut.refresh = old_refresh
 
     def test_request(self):
         test_url = "http://a_url_to_test_with.org"

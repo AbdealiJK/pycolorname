@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 
 import bs4 as BeautifulSoup
+import json
+import os
 import requests
+
+from pycolorname.Utilities import PROJECT_PATH
 
 
 class ColorSystem(dict):
@@ -9,13 +13,44 @@ class ColorSystem(dict):
     Provides an interface for a color system.
     """
 
-    def load(self):
+    def data_file(self):
+        classname = self.__class__.__name__
+        return os.path.join(PROJECT_PATH, "data", classname + ".json")
+
+    def load(self, filename=None):
         """
-        Try to load the data from a pre existing cache file if it exists.
-        If the cache does not exist, auto fetch the data and save it in
-        the cache for future use.
+        Try to load the data from a pre existing data file if it exists.
+        If the data file does not exist, refresh the data and save it in
+        the data file for future use.
+        The data file is a json file.
+
+        :param filename: The filename to save or fetch the data from.
         """
-        raise NotImplementedError
+        filename = filename or self.data_file()
+        dirname = os.path.dirname(filename)
+
+        try:
+            data = None
+            with open(filename) as fp:
+                data = json.load(fp)
+            self.clear()
+            self.update(data)
+            return
+        except (ValueError, IOError) as err:
+            # Refresh data if reading gave errors
+            pass
+
+        data = self.refresh()
+        self.clear()
+        self.update(data)
+
+        if not os.path.isdir(dirname):
+            os.makedirs(dirname)
+        with open(filename, 'w') as fp:
+            json.dump(data, fp,
+                      sort_keys=True,
+                      indent=2,
+                      separators=(',', ': '))
 
     def refresh(self):
         """
