@@ -9,10 +9,10 @@ merge:
   fast-forward: only
   script:
     - python3 .ci/adjust_version_number.py pycolorname/VERSION -b `date --utc +%Y%m%d%H%M%S`
-    - bash .misc/deploy.pypi.sh
+    - bash .ci/deploy.pypi.sh
 
 release:
-  script: bash .misc/release.sh
+  script: bash .ci/release.sh
 
 decrypt:
-  rultor_secrets.sh: "repo/.misc/rultor_secrets.sh.asc"
+  rultor_secrets.sh: "repo/.ci/rultor_secrets.sh.asc"
