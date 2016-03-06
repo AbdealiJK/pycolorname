@@ -70,10 +70,23 @@ and then execute:
 
     $ python -m pytest
 
+Running tests will automatically update the database of files used by
+the color systems by fetching it from the respective sources.
+
 Build status
 ------------
 
 |CircleCI Status|
+
+Credits
+-------
+
+This package has been derived from
+`pywikibot/pycolorname <http://git.wikimedia.org/log/pywikibot%2Fpycolorname.git>`__.
+Which in turn was extracted out of
+`pywikibot/compat <http://git.wikimedia.org/log/pywikibot%2Fcompat.git>`__.
+These packages were created by `DrTrigon <mailto:dr.trigon@surfeu.ch>`__ who
+is the original author of this package.
 
 LICENSE
 =======
