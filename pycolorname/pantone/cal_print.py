@@ -3,7 +3,7 @@
 import re
 from colormath.color_objects import sRGBColor, LabColor
 from colormath.color_conversions import convert_color
-from colormath.color_diff import delta_e_cie1976
+from colormath.color_diff import delta_e_cie2000
 
 from pycolorname.color_system import ColorSystem
 
@@ -51,7 +51,7 @@ class CalPrint(ColorSystem):
                 known_rgb = sRGBColor(*known_color)
                 known_lab = convert_color(known_rgb, LabColor,
                                           target_illuminant='D65')
-                diff = delta_e_cie1976(lab, known_lab)
+                diff = delta_e_cie2000(lab, known_lab)
                 if min_diff > diff:
                     min_diff = diff
                     min_name = known_name

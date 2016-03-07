@@ -94,10 +94,32 @@ class DeprecationTest(unittest.TestCase):
             new_comparable_colors[name] = color
         self.compare_dicts(pkl_colors, new_comparable_colors)
 
-    # def test_pantone_cal_print(self):
-    #     pkl_colors = self.get_pkl_colors("PMS_cal-print.pkl")
-    #     new_colors = CalPrint()
-    #     self.compare_dicts(pkl_colors, new_colors)
+    def test_pantone_cal_print(self):
+        pkl_colors = self.get_pkl_colors("PMS_cal-print.pkl")
+        new_colors = CalPrint()
+
+        common_color_names = set(pkl_colors.keys()) & set(new_colors.keys())
+        self.assertEqual(len(common_color_names), 656)
+        self.assertEqual(len(pkl_colors.keys()), 992)
+        self.assertEqual(len(new_colors.keys()), 992)
+
+        # Now get all the values which actually had variable names
+        # This is done because the delta_e implementation has changed in
+        # colormath
+        pkl_named_colors = {}
+        for name, color in pkl_colors.items():
+            if not name.startswith("Pantone"):
+                continue
+            pkl_named_colors[name] = color
+        new_named_colors = {}
+        for name, color in new_colors.items():
+            if not name.startswith("Pantone"):
+                continue
+            new_named_colors[name] = color
+
+        self.assertEqual(len(pkl_named_colors.keys()), 57)
+        self.assertEqual(len(new_named_colors.keys()), 57)
+        self.compare_dicts(pkl_named_colors, new_named_colors)
 
     def test_ral_classic_wikipedia(self):
         # The earlier names were wrong. They had the section names in
