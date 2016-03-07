@@ -1,0 +1,49 @@
+<style>
+.squarify-wrapper {
+  padding: 15px;
+}
+.squarify {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 100%;
+}
+.squarify > div {
+  display: table-cell;
+  vertical-align: middle;
+  position: absolute;
+  margin: 10%;
+  width: 80%;
+  height: 80%;
+  text-align: center;
+}
+.light {
+  color: #fff;
+}
+.dark {
+  color: #000;
+}
+</style>
+
+<h1 class="text-center">{{ chartName }}</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-md-2 squarify-wrapper"
+      ng-repeat="(name, color) in chartData"
+      data-color-rgb="{{ color.rgb }}"
+      data-color-hex="{{ color.hex }}"
+      data-name="{{ name }}">
+      <div class="squarify"
+        style="background: #{{ color.hex }};">
+        <div>
+          <span ng-class="{dark: ! color.isDark, light: color.isDark}"
+            class="name">
+            {{ name }}
+          </span>
+          <br>
+          <code>#{{ color.hex }}</code>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>

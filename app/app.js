@@ -9,6 +9,11 @@ angular
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
+      .when('/chart/:fileName', {
+        templateUrl: 'app/views/chart.html',
+        controller: 'ChartCtrl',
+        controllerAs: 'chart'
+      })
       .otherwise({
         redirectTo: '/'
       });
