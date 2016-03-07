@@ -99,7 +99,26 @@ class DeprecationTest(unittest.TestCase):
     #     new_colors = CalPrint()
     #     self.compare_dicts(pkl_colors, new_colors)
 
-    # def test_ral_classic_wikipedia(self):
-    #     pkl_colors = self.get_pkl_colors("RAL_wikipedia.pkl")
-    #     new_colors = Wikipedia()
-    #     self.compare_dicts(pkl_colors, new_colors)
+    def test_ral_classic_wikipedia(self):
+        # The earlier names were wrong. They had the section names in
+        # wikipedia. i.e. a lot of colors have the name "Yellow/Beige"
+        # while wikipedia does provide give better names like "Beige",
+        # "Sand yellow", etc. for those colors.
+        # So we're removing that part and not checking it.
+        comparable_chars = len("RAL 1000")
+
+        pkl_compatible_colors = {}
+        for name, color in self.get_pkl_colors("RAL_wikipedia.pkl").items():
+            name = name[:comparable_chars]
+            pkl_compatible_colors[name] = color
+
+        new_comparable_colors = {}
+        for name, color in Wikipedia().items():
+            name = name[:comparable_chars]
+            # 90xx arent there in the older version except 9003, 9005
+            if (name.startswith("RAL 90") and
+                    name not in ("RAL 9003", "RAL 9005")):
+                continue
+            new_comparable_colors[name] = color
+
+        self.compare_dicts(pkl_compatible_colors, new_comparable_colors)
