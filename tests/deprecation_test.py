@@ -87,10 +87,12 @@ class DeprecationTest(unittest.TestCase):
 
         self.compare_dicts(pkl_colors, new_comparable_colors)
 
-    # def test_pantone_logodesignteam(self):
-    #     pkl_colors = self.get_pkl_colors("PMS_logodesignteam_raw.pkl")
-    #     new_colors = LogoDesignTeam()
-    #     self.compare_dicts(pkl_colors, new_colors)
+    def test_pantone_logodesignteam(self):
+        pkl_colors = self.get_pkl_colors("PMS_logodesignteam_raw.pkl")
+        new_comparable_colors = {}
+        for name, color in LogoDesignTeam().items():
+            new_comparable_colors[name] = color
+        self.compare_dicts(pkl_colors, new_comparable_colors)
 
     # def test_pantone_cal_print(self):
     #     pkl_colors = self.get_pkl_colors("PMS_cal-print.pkl")
