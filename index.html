@@ -37,7 +37,24 @@
           <div class="collapse navbar-collapse" id="js-navbar-collapse">
 
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#/">Home</a></li>
+              <li><a href="#/">Home</a></li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown"
+                   id="drop_pantone" href="#/">Pantone</a>
+                <ul class="dropdown-menu" aria-labelledby="drop_pantone">
+                  <li><a href="#">PantonePaint</a></li>
+                  <li><a href="#">CalPrint</a></li>
+                  <li><a href="#">LogoDesignTeam</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown"
+                   id="drop_ral_classic" href="#/">RAL-Classic</a>
+                <ul class="dropdown-menu" aria-labelledby="drop_ral_classic">
+                  <li><a href="#">RALColor</a></li>
+                  <li><a href="#">Wikipedia</a></li>
+                </ul>
+              </li>
             </ul>
           </div>
         </div>
@@ -48,6 +65,8 @@
     <div ng-view=""></div>
     </div>
 
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-route/angular-route.js"></script>
     <script src="app/app.js"></script>
