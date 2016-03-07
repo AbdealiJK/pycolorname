@@ -16,11 +16,17 @@ class ColorSystem(dict):
     Provides an interface for a color system.
     """
 
+    def value_preprocess(self, value):
+        if isinstance(value, list) and len(value) == 3:
+            return tuple(value)
+        return value
+
     def __getitem__(self, key):
-        val = dict.__getitem__(self, key)
-        if isinstance(val, list) and len(val) == 3:
-            return tuple(val)
-        return val
+        return self.value_preprocess(dict.__getitem__(self, key))
+
+    def items(self):
+        return ((key, self.value_preprocess(val))
+                for key, val in dict.items(self))
 
     def data_file(self):
         modulename = self.__module__

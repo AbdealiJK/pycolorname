@@ -1,0 +1,5954 @@
+(dp0
+VPantone Warm Gray 11 (Pantone Warm Gray 11)
+p1
+(I109
+I94
+I81
+tp2
+sVPMS 3375 (Pantone Green)
+p3
+(I142
+I226
+I188
+tp4
+sVPMS 245 (Pantone Purple)
+p5
+(I232
+I127
+I201
+tp6
+sVPMS 410 (Pantone Warm Gray 10)
+p7
+(I124
+I109
+I99
+tp8
+sVPMS 700 (Pantone Rubine Red)
+p9
+(I242
+I165
+I170
+tp10
+sVPMS 502 (Pantone Cool Gray 3)
+p11
+(I242
+I198
+I196
+tp12
+sVPMS 1765 (Pantone Rubine Red)
+p13
+(I249
+I158
+I163
+tp14
+sVPMS 2747 (Pantone Reflex Blue 2X)
+p15
+(I28
+I20
+I107
+tp16
+sVPMS 116 (Pantone Yellow)
+p17
+(I252
+I209
+I22
+tp18
+sVPMS 2602 (Pantone Purple 2X)
+p19
+(I130
+I12
+I142
+tp20
+sVPMS 5615 (Pantone Green 2X)
+p21
+(I84
+I104
+I86
+tp22
+sVPantone Black 2 2X (Pantone Black 2 2X)
+p23
+(I17
+I17
+I17
+tp24
+sVPMS 5503 (Pantone Cool Gray 4)
+p25
+(I170
+I196
+I191
+tp26
+sVPMS 505 (Pantone Rubine Red 2X)
+p27
+(I102
+I30
+I43
+tp28
+sVPMS 813 (Pantone Rhodamine Red)
+p29
+(I229
+I0
+I153
+tp30
+sVPMS 712 (Pantone Warm Gray 2)
+p31
+(I255
+I211
+I170
+tp32
+sVPMS 406 (Pantone Warm Gray 3)
+p33
+(I206
+I193
+I181
+tp34
+sVPMS 1525 (Pantone Orange 021)
+p35
+(I181
+I84
+I0
+tp36
+sVPMS 5497 (Pantone Cool Gray 8)
+p37
+(I145
+I163
+I153
+tp38
+sVPMS 5777 (Pantone Process Yellow)
+p39
+(I140
+I145
+I79
+tp40
+sVPMS 157 (Pantone Orange 021)
+p41
+(I237
+I160
+I79
+tp42
+sVPMS 271 (Pantone Process Blue 2X)
+p43
+(I158
+I145
+I198
+tp44
+sVPMS 463 (Pantone Warm Gray 10)
+p45
+(I117
+I84
+I38
+tp46
+sVPMS 341 (Pantone Green 2X)
+p47
+(I0
+I122
+I94
+tp48
+sVPMS 510 (Pantone Cool Gray 3)
+p49
+(I244
+I198
+I201
+tp50
+sVPMS 536 (Pantone Cool Gray 7)
+p51
+(I173
+I178
+I193
+tp52
+sVPMS 550 (Pantone Process Blue)
+p53
+(I135
+I175
+I191
+tp54
+sVPMS 386 (Pantone Process Yellow)
+p55
+(I232
+I237
+I96
+tp56
+sVPantone Cool Gray 8 (Pantone Cool Gray 8)
+p57
+(I155
+I153
+I147
+tp58
+sVPMS 155 (Pantone Warm Gray 2)
+p59
+(I244
+I219
+I170
+tp60
+sVPantone Rhodamine Red (Pantone Rhodamine Red)
+p61
+(I237
+I0
+I145
+tp62
+sVPMS 2925 (Pantone Process Blue 2X)
+p63
+(I0
+I142
+I214
+tp64
+sVPMS 481 (Pantone Warm Gray 2)
+p65
+(I224
+I204
+I186
+tp66
+sVPMS 1815 (Pantone Rubine Red 2X)
+p67
+(I124
+I33
+I30
+tp68
+sVPMS 467 (Pantone Warm Gray 2)
+p69
+(I221
+I204
+I165
+tp70
+sVPMS 702 (Pantone Rubine Red)
+p71
+(I214
+I96
+I109
+tp72
+sVPMS 461 (Pantone Process Yellow)
+p73
+(I237
+I229
+I173
+tp74
+sVPMS 2716 (Pantone Process Blue 2X)
+p75
+(I165
+I160
+I214
+tp76
+sVPMS 2715 (Pantone Purple)
+p77
+(I147
+I122
+I204
+tp78
+sVPMS 611 (Pantone Process Yellow)
+p79
+(I214
+I206
+I73
+tp80
+sVPMS 202 (Pantone Rubine Red 2X)
+p81
+(I140
+I38
+I51
+tp82
+sVPMS 137 (Pantone Yellow)
+p83
+(I252
+I163
+I17
+tp84
+sVPMS 239 2X (Pantone Rhodamine Red 2X)
+p85
+(I196
+I5
+I124
+tp86
+sVPMS 1665 (Pantone Warm Red 2X)
+p87
+(I249
+I86
+I2
+tp88
+sVPMS 686 (Pantone Rhodamine Red)
+p89
+(I224
+I170
+I186
+tp90
+sVPMS 704 (Pantone Rubine Red 2X)
+p91
+(I158
+I40
+I40
+tp92
+sVPMS 560 (Pantone Green 2X)
+p93
+(I43
+I76
+I63
+tp94
+sVPMS 654 (Pantone Reflex Blue)
+p95
+(I15
+I43
+I91
+tp96
+sVPMS 3135 (Pantone Green)
+p97
+(I0
+I155
+I170
+tp98
+sVPMS 1615 (Pantone Orange 021)
+p99
+(I132
+I63
+I15
+tp100
+sVPMS 168 (Pantone Warm Red 2X)
+p101
+(I109
+I48
+I17
+tp102
+sVPMS 1235 (Pantone Yellow)
+p103
+(I252
+I181
+I20
+tp104
+sVPMS 650 (White)
+p105
+(I191
+I198
+I209
+tp106
+sVPMS 515 (Pantone Rhodamine Red)
+p107
+(I232
+I163
+I201
+tp108
+sVPMS 5165 (Pantone Cool Gray 4)
+p109
+(I224
+I201
+I204
+tp110
+sVPMS 391 (Pantone Process Yellow)
+p111
+(I158
+I158
+I7
+tp112
+sVPMS 690 (Pantone Rhodamine Red 2X)
+p113
+(I112
+I35
+I66
+tp114
+sVPMS 430 (Pantone Cool Gray 8)
+p115
+(I145
+I150
+I147
+tp116
+sVPMS 722 (Pantone Orange 021)
+p117
+(I209
+I142
+I84
+tp118
+sVPMS 3995 (Pantone Yellow)
+p119
+(I109
+I96
+I2
+tp120
+sVPMS 2736 (Pantone Violet)
+p121
+(I73
+I48
+I173
+tp122
+sVPMS 105 (Pantone Yellow)
+p123
+(I130
+I117
+I15
+tp124
+sVPMS 328 (Pantone Green 2X)
+p125
+(I0
+I119
+I112
+tp126
+sVPMS 627 (Pantone Black 3)
+p127
+(I12
+I48
+I38
+tp128
+sVPMS 3105 (Pantone Green)
+p129
+(I127
+I214
+I219
+tp130
+sVPMS 231 (Pantone Rhodamine Red)
+p131
+(I252
+I112
+I186
+tp132
+sVPMS 3395 (Pantone Green)
+p133
+(I0
+I201
+I147
+tp134
+sVPMS 1797 (Pantone Red 032)
+p135
+(I204
+I45
+I48
+tp136
+sVPMS 372 (Pantone Process Yellow)
+p137
+(I216
+I237
+I150
+tp138
+sVPMS 186 (Pantone Red 032)
+p139
+(I206
+I17
+I38
+tp140
+sVPMS 243 (Pantone Rhodamine Red)
+p141
+(I242
+I186
+I216
+tp142
+sVPMS 651 (Pantone Process Blue)
+p143
+(I155
+I170
+I191
+tp144
+sVPMS 662 (Pantone Reflex Blue)
+p145
+(I12
+I25
+I117
+tp146
+sVPMS 145 (Pantone Yellow)
+p147
+(I198
+I127
+I7
+tp148
+sVPMS 220 (Pantone Rubine Red)
+p149
+(I170
+I0
+I79
+tp150
+sVPMS 2768 (Pantone Reflex Blue)
+p151
+(I17
+I33
+I81
+tp152
+sVPantone Black 7 2X (Pantone Black 7 2X)
+p153
+(I51
+I48
+I43
+tp154
+sVPantone Rubine Red 2X (Pantone Rubine Red 2X)
+p155
+(I198
+I0
+I61
+tp156
+sVPantone Orange 021 (Pantone Orange 021)
+p157
+(I239
+I107
+I0
+tp158
+sVPMS 2717 (Pantone Process Blue)
+p159
+(I165
+I186
+I224
+tp160
+sVPMS 3155 (Pantone Green 2X)
+p161
+(I0
+I109
+I117
+tp162
+sVPMS 5655 (Pantone Cool Gray 3)
+p163
+(I198
+I204
+I186
+tp164
+sVPMS 349 (Pantone Green 2X)
+p165
+(I0
+I107
+I63
+tp166
+sVPMS 476 (Pantone Black 4)
+p167
+(I89
+I61
+I43
+tp168
+sVPMS 814 2X (Pantone Violet)
+p169
+(I112
+I63
+I175
+tp170
+sVPMS 159 (Pantone Orange 021)
+p171
+(I198
+I96
+I5
+tp172
+sVPantone Black 4 (Pantone Black 4)
+p173
+(I61
+I48
+I35
+tp174
+sVPMS 375 (Pantone Process Yellow)
+p175
+(I140
+I214
+I0
+tp176
+sVPMS 388 (Pantone Process Yellow)
+p177
+(I214
+I232
+I15
+tp178
+sVPMS 250 (Pantone Rhodamine Red)
+p179
+(I237
+I196
+I221
+tp180
+sVPMS 378 (Pantone Process Yellow)
+p181
+(I86
+I99
+I20
+tp182
+sVPMS 480 (Pantone Warm Gray 5)
+p183
+(I211
+I183
+I163
+tp184
+sVPantone Black 6 2X (Pantone Black 6 2X)
+p185
+(I7
+I12
+I15
+tp186
+sVPMS 601 (Pantone Process Yellow)
+p187
+(I242
+I237
+I158
+tp188
+sVPMS 130 (Pantone Yellow)
+p189
+(I234
+I175
+I15
+tp190
+sVPMS 604 (Pantone Process Yellow)
+p191
+(I232
+I221
+I33
+tp192
+sVPMS 4745 (Pantone Warm Gray 4)
+p193
+(I216
+I191
+I170
+tp194
+sVPMS 509 (Pantone Rhodamine Red)
+p195
+(I242
+I186
+I191
+tp196
+sVPMS 435 (Pantone Warm Gray 3)
+p197
+(I211
+I191
+I183
+tp198
+sVPMS 501 (Pantone Warm Gray 5)
+p199
+(I234
+I178
+I178
+tp200
+sVPMS 548 (Pantone Process Blue)
+p201
+(I0
+I68
+I89
+tp202
+sVPMS 238 (Pantone Rhodamine Red)
+p203
+(I237
+I79
+I175
+tp204
+sVPantone Warm Gray 7 (Pantone Warm Gray 7)
+p205
+(I163
+I150
+I135
+tp206
+sVPMS 4755 (Pantone Warm Gray 2)
+p207
+(I226
+I204
+I186
+tp208
+sVPMS 113 (Pantone Process Yellow)
+p209
+(I249
+I229
+I91
+tp210
+sVPMS 488 (Pantone Warm Gray 2)
+p211
+(I242
+I196
+I175
+tp212
+sVPMS 2985 (Pantone Process Blue)
+p213
+(I81
+I191
+I226
+tp214
+sVPMS 5175 (Pantone Cool Gray 2)
+p215
+(I232
+I214
+I209
+tp216
+sVPantone Cool Gray 2 (Pantone Cool Gray 2)
+p217
+(I221
+I216
+I206
+tp218
+sVPantone Black (Pantone Black)
+p219
+(I61
+I51
+I43
+tp220
+sVPMS 5035 (Pantone Warm Gray 2)
+p221
+(I237
+I206
+I198
+tp222
+sVPantone Warm Gray 6 (Pantone Warm Gray 6)
+p223
+(I175
+I163
+I147
+tp224
+sVPMS 1575 (Pantone Orange 021)
+p225
+(I252
+I135
+I68
+tp226
+sVPantone Process Yellow (Pantone Process Yellow)
+p227
+(I247
+I226
+I20
+tp228
+sVPMS 527 (Pantone Violet)
+p229
+(I122
+I30
+I153
+tp230
+sVPMS 3405 (Pantone Green)
+p231
+(I0
+I178
+I122
+tp232
+sVPMS 520 (Pantone Purple 2X)
+p233
+(I112
+I53
+I114
+tp234
+sVPantone Cool Gray 5 (Pantone Cool Gray 5)
+p235
+(I186
+I183
+I175
+tp236
+sVPMS 658 (Pantone Process Blue)
+p237
+(I165
+I175
+I214
+tp238
+sVPMS 458 (Pantone Yellow)
+p239
+(I221
+I204
+I107
+tp240
+sVPMS 4495 (Pantone Yellow)
+p241
+(I135
+I117
+I48
+tp242
+sVPMS 2577 (Pantone Purple)
+p243
+(I170
+I114
+I191
+tp244
+sVPMS 129 (Pantone Yellow)
+p245
+(I242
+I209
+I61
+tp246
+sVPMS 311 (Pantone Green)
+p247
+(I40
+I196
+I216
+tp248
+sVPMS 181 (Pantone Rubine Red 2X)
+p249
+(I124
+I45
+I35
+tp250
+sVPMS 3945 (Pantone Process Yellow)
+p251
+(I239
+I234
+I7
+tp252
+sVPMS 411 (Pantone Warm Gray 11)
+p253
+(I102
+I89
+I76
+tp254
+sVPMS 489 (Pantone Warm Gray 2)
+p255
+(I242
+I209
+I191
+tp256
+sVPMS 2758 (Pantone Reflex Blue)
+p257
+(I25
+I33
+I104
+tp258
+sVPMS 808 2X (Pantone Green)
+p259
+(I0
+I160
+I135
+tp260
+sVPMS 507 (Pantone Rhodamine Red 2X)
+p261
+(I216
+I137
+I155
+tp262
+sVPMS 108 (Pantone Yellow)
+p263
+(I247
+I221
+I22
+tp264
+sVPMS 393 (Pantone Process Yellow)
+p265
+(I242
+I239
+I135
+tp266
+sVPMS 5825 (Pantone Process Yellow)
+p267
+(I117
+I112
+I43
+tp268
+sVPMS 691 (Pantone Warm Gray 2)
+p269
+(I239
+I209
+I201
+tp270
+sVPMS 5135 (Pantone Rhodamine Red 2X)
+p271
+(I147
+I107
+I127
+tp272
+sVPMS 169 (Pantone Warm Gray 5)
+p273
+(I249
+I186
+I170
+tp274
+sVPMS 237 (Pantone Rhodamine Red)
+p275
+(I244
+I132
+I196
+tp276
+sVPMS 5155 (Pantone Cool Gray 4)
+p277
+(I204
+I175
+I183
+tp278
+sVPMS 255 (Pantone Purple 2X)
+p279
+(I119
+I45
+I107
+tp280
+sVPMS 354 2X (Pantone Green 2X)
+p281
+(I0
+I153
+I68
+tp282
+sVPMS 139 (Pantone Yellow)
+p283
+(I175
+I117
+I5
+tp284
+sVPMS 5545 (Pantone Green 2X)
+p285
+(I79
+I109
+I94
+tp286
+sVPMS 2583 (Pantone Purple)
+p287
+(I158
+I79
+I165
+tp288
+sVPMS 130 2X (Pantone Yellow)
+p289
+(I226
+I145
+I0
+tp290
+sVPMS 252 (Pantone Purple)
+p291
+(I211
+I107
+I198
+tp292
+sVPMS 192 (Pantone Rubine Red 2X)
+p293
+(I229
+I5
+I58
+tp294
+sVPantone Red 032 (Pantone Red 032)
+p295
+(I239
+I43
+I45
+tp296
+sVPMS 276 (Pantone Reflex Blue)
+p297
+(I43
+I33
+I71
+tp298
+sVPMS 1495 (Pantone Orange 021)
+p299
+(I255
+I153
+I63
+tp300
+sVPMS 547 (Pantone Black 6)
+p301
+(I0
+I63
+I84
+tp302
+sVPMS 387 (Pantone Process Yellow)
+p303
+(I224
+I237
+I68
+tp304
+sVPantone Violet 2X (Pantone Violet 2X)
+p305
+(I89
+I0
+I142
+tp306
+sVPMS 5025 (Pantone Warm Gray 3)
+p307
+(I226
+I188
+I183
+tp308
+sVPMS 716 (Pantone Orange 021)
+p309
+(I242
+I132
+I17
+tp310
+sVPMS 3115 (Pantone Green)
+p311
+(I45
+I198
+I214
+tp312
+sVPMS 2593 (Pantone Purple 2X)
+p313
+(I135
+I43
+I147
+tp314
+sVPMS 568 (Pantone Cool Gray 1)
+p315
+(I214
+I214
+I198
+tp316
+sVPantone Warm Gray 2 (Pantone Warm Gray 2)
+p317
+(I221
+I209
+I193
+tp318
+sVPMS 1785 (Pantone Red 032)
+p319
+(I252
+I79
+I89
+tp320
+sVPMS 1905 (Pantone Rhodamine Red)
+p321
+(I252
+I155
+I178
+tp322
+sVPMS 384 (Pantone Process Yellow)
+p323
+(I147
+I153
+I5
+tp324
+sVPMS 518 (Pantone Black 5)
+p325
+(I81
+I45
+I68
+tp326
+sVPMS 729 (Pantone Orange 021)
+p327
+(I193
+I142
+I96
+tp328
+sVPMS 706 (Pantone Warm Gray 2)
+p329
+(I252
+I201
+I198
+tp330
+sVPMS 3308 (Pantone Green 2X)
+p331
+(I0
+I68
+I56
+tp332
+sVPMS 305 (Pantone Process Blue)
+p333
+(I112
+I206
+I226
+tp334
+sVPantone Process Blue (Pantone Process Blue)
+p335
+(I0
+I145
+I201
+tp336
+sVPMS 660 (Pantone Process Blue 2X)
+p337
+(I89
+I96
+I168
+tp338
+sVPMS 193 (Pantone Rubine Red 2X)
+p339
+(I191
+I10
+I48
+tp340
+sVPMS 148 (Pantone Yellow)
+p341
+(I255
+I214
+I155
+tp342
+sVPMS 803 2X (Pantone Yellow)
+p343
+(I255
+I216
+I22
+tp344
+sVPMS 609 (Pantone Process Yellow)
+p345
+(I234
+I229
+I150
+tp346
+sVPMS 308 (Pantone Process Blue)
+p347
+(I0
+I96
+I124
+tp348
+sVPMS 453 (Pantone Warm Gray 2)
+p349
+(I214
+I204
+I175
+tp350
+sVPMS 2365 (Pantone Rhodamine Red)
+p351
+(I247
+I196
+I216
+tp352
+sVPMS 613 (Pantone Process Yellow)
+p353
+(I175
+I160
+I12
+tp354
+sVPMS 519 (Pantone Purple 2X)
+p355
+(I99
+I48
+I94
+tp356
+sVPMS 641 (Pantone Process Blue)
+p357
+(I0
+I122
+I165
+tp358
+sVPMS 657 (Pantone Process Blue)
+p359
+(I193
+I201
+I221
+tp360
+sVPMS 124 (Pantone Yellow)
+p361
+(I224
+I170
+I15
+tp362
+sVPMS 478 (Pantone Warm Red 2X)
+p363
+(I122
+I63
+I40
+tp364
+sVPMS 732 (Pantone Orange 021)
+p365
+(I96
+I51
+I10
+tp366
+sVPMS 2572 (Pantone Purple)
+p367
+(I198
+I135
+I209
+tp368
+sVPMS 534 (Pantone Process Blue 2X)
+p369
+(I58
+I73
+I114
+tp370
+sVPMS 170 (Pantone Warm Red)
+p371
+(I249
+I137
+I114
+tp372
+sVPMS 281 (Pantone Reflex Blue)
+p373
+(I0
+I40
+I104
+tp374
+sVPMS 284 (Pantone Process Blue)
+p375
+(I117
+I170
+I219
+tp376
+sVPMS 146 (Pantone Yellow)
+p377
+(I158
+I107
+I5
+tp378
+sVPMS 671 (Pantone Cool Gray 4)
+p379
+(I239
+I198
+I211
+tp380
+sVPMS 350 (Pantone Green 2X)
+p381
+(I35
+I79
+I51
+tp382
+sVPMS 365 (Pantone Process Yellow)
+p383
+(I211
+I232
+I163
+tp384
+sVPantone Warm Red 2X (Pantone Warm Red 2X)
+p385
+(I224
+I58
+I0
+tp386
+sVPMS 491 (Pantone Rubine Red 2X)
+p387
+(I117
+I40
+I40
+tp388
+sVPMS 225 (Pantone Rhodamine Red)
+p389
+(I237
+I40
+I147
+tp390
+sVPantone Blue 072 (Pantone Blue 072)
+p391
+(I56
+I0
+I150
+tp392
+sVPMS 806 (Pantone Rhodamine Red)
+p393
+(I255
+I0
+I147
+tp394
+sVPMS 5415 (Pantone Process Blue)
+p395
+(I96
+I124
+I140
+tp396
+sVPMS 679 (Pantone Cool Gray 4)
+p397
+(I229
+I191
+I198
+tp398
+sVPMS 687 (Pantone Rhodamine Red 2X)
+p399
+(I201
+I137
+I158
+tp400
+sVPMS 565 (Pantone Green)
+p401
+(I188
+I219
+I204
+tp402
+sVPMS 310 (Pantone Green)
+p403
+(I114
+I209
+I221
+tp404
+sVPantone Violet (Pantone Violet)
+p405
+(I102
+I7
+I165
+tp406
+sVPMS 3435 (Pantone Green 2X)
+p407
+(I2
+I73
+I48
+tp408
+sVPMS 4635 (Pantone Orange 021)
+p409
+(I140
+I89
+I51
+tp410
+sVPMS 607 (Pantone Warm Gray 2)
+p411
+(I242
+I234
+I188
+tp412
+sVPMS 640 (Pantone Process Blue)
+p413
+(I0
+I140
+I178
+tp414
+sVPantone Black 2 (Pantone Black 2)
+p415
+(I58
+I51
+I33
+tp416
+sVPMS 667 (Pantone Purple)
+p417
+(I127
+I102
+I137
+tp418
+sVPantone Cool Gray 1 (Pantone Cool Gray 1)
+p419
+(I232
+I226
+I214
+tp420
+sVPMS 174 (Pantone Warm Red 2X)
+p421
+(I147
+I51
+I17
+tp422
+sVPMS 101 (Pantone Process Yellow)
+p423
+(I244
+I237
+I71
+tp424
+sVPMS 675 (Pantone Rhodamine Red 2X)
+p425
+(I188
+I56
+I119
+tp426
+sVPMS 539 (Pantone Black 6)
+p427
+(I0
+I48
+I73
+tp428
+sVPMS 4645 (Pantone Warm Gray 10)
+p429
+(I178
+I130
+I96
+tp430
+sVPMS 239 (Pantone Rhodamine Red)
+p431
+(I224
+I33
+I158
+tp432
+sVPMS 2592 (Pantone Purple 2X)
+p433
+(I147
+I15
+I165
+tp434
+sVPMS 2746 (Pantone Reflex Blue)
+p435
+(I63
+I40
+I147
+tp436
+sVPMS 809 2X (Pantone Process Yellow)
+p437
+(I214
+I214
+I12
+tp438
+sVPMS 235 (Pantone Rhodamine Red 2X)
+p439
+(I142
+I5
+I84
+tp440
+sVPMS 251 (Pantone Purple)
+p441
+(I226
+I158
+I214
+tp442
+sVPMS 2385 (Pantone Rhodamine Red)
+p443
+(I219
+I40
+I165
+tp444
+sVPMS 4505 (Pantone Yellow)
+p445
+(I160
+I145
+I81
+tp446
+sVPMS 1625 (Pantone Warm Red)
+p447
+(I249
+I165
+I140
+tp448
+sVPMS 4535 (Pantone Warm Gray 2)
+p449
+(I219
+I206
+I165
+tp450
+sVPMS 715 (Pantone Orange 021)
+p451
+(I252
+I158
+I73
+tp452
+sVPMS 639 (Pantone Process Blue)
+p453
+(I0
+I160
+I196
+tp454
+sVPMS 5773 (Pantone Warm Gray 6)
+p455
+(I119
+I124
+I79
+tp456
+sVPMS 1215 (Pantone Yellow)
+p457
+(I249
+I224
+I140
+tp458
+sVPMS 542 (Pantone Process Blue)
+p459
+(I102
+I147
+I188
+tp460
+sVPMS 511 (Pantone Purple 2X)
+p461
+(I96
+I33
+I68
+tp462
+sVPMS 806 2X (Pantone Rhodamine Red 2X)
+p463
+(I247
+I2
+I124
+tp464
+sVPMS 1807 (Pantone Rubine Red 2X)
+p465
+(I160
+I48
+I51
+tp466
+sVPMS 449 (Pantone Black 2)
+p467
+(I84
+I71
+I38
+tp468
+sVPMS 516 (Pantone Rhodamine Red)
+p469
+(I242
+I186
+I211
+tp470
+sVPMS 106 (Pantone Process Yellow)
+p471
+(I247
+I232
+I89
+tp472
+sVPMS 5463 (Pantone Black 6)
+p473
+(I0
+I53
+I58
+tp474
+sVPMS 707 (Pantone Rubine Red)
+p475
+(I252
+I173
+I175
+tp476
+sVPMS 414 (Pantone Warm Gray 4)
+p477
+(I181
+I175
+I160
+tp478
+sVPMS 808 (Pantone Green)
+p479
+(I0
+I181
+I155
+tp480
+sVPMS 152 (Pantone Orange 021)
+p481
+(I221
+I117
+I0
+tp482
+sVPMS 2597 (Pantone Violet 2X)
+p483
+(I102
+I0
+I140
+tp484
+sVPMS 532 (Pantone Black 6)
+p485
+(I53
+I56
+I66
+tp486
+sVPMS 4485 (Pantone Black 2)
+p487
+(I96
+I76
+I17
+tp488
+sVPantone Purple 2X (Pantone Purple 2X)
+p489
+(I170
+I0
+I150
+tp490
+sVPMS 545 (White)
+p491
+(I196
+I211
+I221
+tp492
+sVPMS 140 (Pantone Yellow)
+p493
+(I122
+I91
+I17
+tp494
+sVPMS 573 (Pantone Green)
+p495
+(I188
+I226
+I206
+tp496
+sVPMS 334 (Pantone Green 2X)
+p497
+(I0
+I153
+I124
+tp498
+sVPMS 1205 (Pantone Yellow)
+p499
+(I247
+I232
+I170
+tp500
+sVPMS 643 (White)
+p501
+(I198
+I209
+I214
+tp502
+sVPMS 363 (Pantone Green 2X)
+p503
+(I61
+I142
+I51
+tp504
+sVPMS 164 (Pantone Orange 021)
+p505
+(I252
+I127
+I63
+tp506
+sVPMS 1775 (Pantone Rubine Red)
+p507
+(I249
+I132
+I142
+tp508
+sVPMS 455 (Pantone Black 2)
+p509
+(I102
+I86
+I20
+tp510
+sVPMS 401 (Pantone Warm Gray 4)
+p511
+(I193
+I181
+I165
+tp512
+sVPMS 371 (Pantone Green 2X)
+p513
+(I86
+I107
+I33
+tp514
+sVPMS 382 (Pantone Process Yellow)
+p515
+(I186
+I216
+I10
+tp516
+sVPMS 3262 (Pantone Green)
+p517
+(I0
+I193
+I181
+tp518
+sVPMS 3965 (Pantone Process Yellow)
+p519
+(I232
+I221
+I17
+tp520
+sVPMS 490 (Pantone Black 5)
+p521
+(I91
+I38
+I38
+tp522
+sVPMS 3425 (Pantone Green 2X)
+p523
+(I0
+I104
+I71
+tp524
+sVPMS 2935 (Pantone Process Blue 2X)
+p525
+(I0
+I91
+I191
+tp526
+sVPMS 485 (Pantone Warm Red)
+p527
+(I216
+I30
+I5
+tp528
+sVPantone Warm Gray 5 (Pantone Warm Gray 5)
+p529
+(I181
+I168
+I153
+tp530
+sVPMS 200 (Pantone Rubine Red 2X)
+p531
+(I196
+I30
+I58
+tp532
+sVPMS 3255 (Pantone Green)
+p533
+(I71
+I214
+I193
+tp534
+sVPMS 223 (Pantone Rhodamine Red)
+p535
+(I249
+I147
+I196
+tp536
+sVPMS 619 (Pantone Process Yellow)
+p537
+(I150
+I140
+I40
+tp538
+sVPMS 195 (Pantone Rubine Red 2X)
+p539
+(I119
+I45
+I53
+tp540
+sVPMS 727 (Pantone Warm Gray 4)
+p541
+(I226
+I191
+I155
+tp542
+sVPMS 5285 (Pantone Process Blue 2X)
+p543
+(I140
+I130
+I153
+tp544
+sVPMS 2718 (Pantone Process Blue 2X)
+p545
+(I91
+I119
+I204
+tp546
+sVPMS 262 (Pantone Purple 2X)
+p547
+(I84
+I35
+I68
+tp548
+sVPMS 320 (Pantone Green)
+p549
+(I0
+I158
+I160
+tp550
+sVPMS 368 (Pantone Process Yellow)
+p551
+(I91
+I191
+I33
+tp552
+sVPMS 275 (Pantone Reflex Blue 2X)
+p553
+(I38
+I15
+I84
+tp554
+sVPMS 531 (Pantone Cool Gray 4)
+p555
+(I229
+I198
+I219
+tp556
+sVPMS 663 (Pantone Cool Gray 4)
+p557
+(I226
+I211
+I214
+tp558
+sVPMS 2405 (Pantone Purple 2X)
+p559
+(I168
+I0
+I122
+tp560
+sVPMS 436 (Pantone Warm Gray 5)
+p561
+(I188
+I165
+I158
+tp562
+sVPMS 5767 (Pantone Process Yellow)
+p563
+(I107
+I112
+I43
+tp564
+sVPMS 1915 (Pantone Rubine Red)
+p565
+(I244
+I84
+I124
+tp566
+sVPMS 3955 (Pantone Process Yellow)
+p567
+(I237
+I226
+I17
+tp568
+sVPMS 581 (Pantone Warm Gray 1)
+p569
+(I224
+I221
+I188
+tp570
+sVPMS 803 (Pantone Process Yellow)
+p571
+(I255
+I237
+I56
+tp572
+sVPMS 294 (Pantone Process Blue 2X)
+p573
+(I0
+I63
+I135
+tp574
+sVPMS 177 (Pantone Red 032)
+p575
+(I249
+I130
+I127
+tp576
+sVPMS 4975 (Pantone Black 5)
+p577
+(I68
+I30
+I28
+tp578
+sVPMS 1852 2X (Pantone Warm Red)
+p579
+(I209
+I22
+I0
+tp580
+sVPMS 285 (Pantone Process Blue 2X)
+p581
+(I58
+I117
+I196
+tp582
+sVPMS 635 (Pantone Green)
+p583
+(I186
+I224
+I224
+tp584
+sVPMS 227 (Pantone Rhodamine Red 2X)
+p585
+(I173
+I0
+I91
+tp586
+sVPMS 118 (Pantone Yellow)
+p587
+(I170
+I142
+I10
+tp588
+sVPMS 694 (Pantone Rubine Red)
+p589
+(I201
+I140
+I140
+tp590
+sVPMS 434 (Pantone Warm Gray 2)
+p591
+(I224
+I209
+I198
+tp592
+sVPMS 306 2X (Pantone Process Blue)
+p593
+(I0
+I163
+I209
+tp594
+sVPMS 5605 (Pantone Black 3)
+p595
+(I35
+I58
+I45
+tp596
+sVPMS 5523 (Pantone Cool Gray 4)
+p597
+(I214
+I221
+I214
+tp598
+sVPantone Black 5 (Pantone Black 5)
+p599
+(I66
+I45
+I45
+tp600
+sVPantone Reflex Blue (Pantone Reflex Blue)
+p601
+(I12
+I28
+I140
+tp602
+sVPantone Cool Gray 7 (Pantone Cool Gray 7)
+p603
+(I165
+I163
+I158
+tp604
+sVPMS 2607 (Pantone Violet 2X)
+p605
+(I91
+I2
+I122
+tp606
+sVPMS 431 (Pantone Cool Gray 11)
+p607
+(I102
+I109
+I112
+tp608
+sVPMS 257 (Pantone Purple)
+p609
+(I211
+I165
+I201
+tp610
+sVPMS 5807 (Pantone Warm Gray 2)
+p611
+(I211
+I209
+I170
+tp612
+sVPMS 708 (Pantone Rubine Red)
+p613
+(I249
+I142
+I153
+tp614
+sVPMS 709 (Pantone Rubine Red)
+p615
+(I242
+I104
+I119
+tp616
+sVPMS 204 (Pantone Rhodamine Red 2X)
+p617
+(I237
+I122
+I158
+tp618
+sVPMS 462 (Pantone Black 2)
+p619
+(I91
+I71
+I35
+tp620
+sVPMS 5585 (Pantone Cool Gray 5)
+p621
+(I196
+I206
+I191
+tp622
+sVPMS 282 (Pantone Reflex Blue)
+p623
+(I0
+I38
+I84
+tp624
+sVPMS 194 (Pantone Rubine Red 2X)
+p625
+(I153
+I33
+I53
+tp626
+sVPMS 407 (Pantone Warm Gray 5)
+p627
+(I186
+I170
+I158
+tp628
+sVPMS 338 (Pantone Green)
+p629
+(I122
+I209
+I181
+tp630
+sVPMS 5405 (Pantone Process Blue)
+p631
+(I63
+I96
+I117
+tp632
+sVPMS 523 (Pantone Cool Gray 4)
+p633
+(I211
+I183
+I204
+tp634
+sVPantone Warm Gray 4 (Pantone Warm Gray 4)
+p635
+(I193
+I181
+I165
+tp636
+sVPMS 1485 (Pantone Orange 021)
+p637
+(I255
+I183
+I119
+tp638
+sVPMS 447 (Pantone Black 7)
+p639
+(I63
+I63
+I56
+tp640
+sVPMS 504 (Pantone Black 5)
+p641
+(I81
+I30
+I38
+tp642
+sVPMS 224 (Pantone Rhodamine Red)
+p643
+(I244
+I107
+I175
+tp644
+sVPMS 1535 (Pantone Orange 021)
+p645
+(I140
+I68
+I0
+tp646
+sVPMS 3415 (Pantone Green 2X)
+p647
+(I0
+I124
+I89
+tp648
+sVPMS 212 (Pantone Rhodamine Red 2X)
+p649
+(I249
+I79
+I142
+tp650
+sVPMS 166 (Pantone Orange 021)
+p651
+(I221
+I89
+I0
+tp652
+sVPMS 459 (Pantone Process Yellow)
+p653
+(I226
+I214
+I124
+tp654
+sVPMS 2965 (Pantone Black 6)
+p655
+(I0
+I51
+I76
+tp656
+sVPMS 674 (Pantone Rhodamine Red 2X)
+p657
+(I211
+I107
+I158
+tp658
+sVPMS 4715 (Pantone Warm Gray 10)
+p659
+(I153
+I112
+I91
+tp660
+sVPMS 652 (Pantone Process Blue)
+p661
+(I109
+I135
+I168
+tp662
+sVPMS 801 (Pantone Process Blue)
+p663
+(I0
+I170
+I204
+tp664
+sVPMS 465 (Pantone Warm Gray 6)
+p665
+(I193
+I168
+I117
+tp666
+sVPMS 370 (Pantone Process Yellow)
+p667
+(I86
+I142
+I20
+tp668
+sVPMS 5493 (Pantone Green)
+p669
+(I140
+I175
+I173
+tp670
+sVPMS 5145 (Pantone Rhodamine Red 2X)
+p671
+(I173
+I135
+I153
+tp672
+sVPMS 205 (Pantone Rubine Red)
+p673
+(I229
+I76
+I124
+tp674
+sVPMS 5747 (Pantone Warm Gray 1)
+p675
+(I216
+I214
+I183
+tp676
+sVPMS 610 (Pantone Process Yellow)
+p677
+(I226
+I219
+I114
+tp678
+sVPMS 3292 (Pantone Green 2X)
+p679
+(I0
+I96
+I86
+tp680
+sVPMS 167 (Pantone Orange 021)
+p681
+(I188
+I79
+I7
+tp682
+sVPMS 810 (Pantone Yellow)
+p683
+(I255
+I204
+I30
+tp684
+sVPMS 517 (Pantone Cool Gray 4)
+p685
+(I244
+I204
+I216
+tp686
+sVPMS 529 (Pantone Purple)
+p687
+(I206
+I163
+I211
+tp688
+sVPMS 807 2X (Pantone Purple 2X)
+p689
+(I191
+I0
+I140
+tp690
+sVPMS 664 (Pantone Cool Gray 4)
+p691
+(I216
+I204
+I209
+tp692
+sVPMS 228 (Pantone Rhodamine Red 2X)
+p693
+(I140
+I0
+I76
+tp694
+sVPMS 2767 (Pantone Black 6)
+p695
+(I20
+I33
+I61
+tp696
+sVPMS 699 (Pantone Warm Gray 3)
+p697
+(I247
+I191
+I191
+tp698
+sVPMS 412 (Pantone Black)
+p699
+(I61
+I48
+I40
+tp700
+sVPMS 1925 (Pantone Rubine Red 2X)
+p701
+(I224
+I7
+I71
+tp702
+sVPMS 5245 (Pantone Cool Gray 2)
+p703
+(I229
+I211
+I204
+tp704
+sVPMS 5315 (Pantone Cool Gray 4)
+p705
+(I219
+I211
+I211
+tp706
+sVPMS 390 (Pantone Process Yellow)
+p707
+(I186
+I196
+I5
+tp708
+sVPMS 600 (Pantone Process Yellow)
+p709
+(I244
+I237
+I175
+tp710
+sVPMS 191 (Pantone Rubine Red)
+p711
+(I244
+I71
+I107
+tp712
+sVPantone Black 3 2X (Pantone Black 3 2X)
+p713
+(I17
+I17
+I20
+tp714
+sVPMS 642 (White)
+p715
+(I209
+I216
+I216
+tp716
+sVPMS 622 (Pantone Cool Gray 5)
+p717
+(I193
+I209
+I191
+tp718
+sVPMS 3035 (Pantone Process Blue)
+p719
+(I0
+I68
+I84
+tp720
+sVPMS 484 (Pantone Red 032)
+p721
+(I155
+I48
+I28
+tp722
+sVPMS 693 (Pantone Warm Gray 5)
+p723
+(I219
+I168
+I165
+tp724
+sVPMS 721 (Pantone Orange 021)
+p725
+(I232
+I178
+I130
+tp726
+sVPMS 701 (Pantone Rubine Red)
+p727
+(I232
+I135
+I142
+tp728
+sVPMS 182 (Pantone Warm Gray 3)
+p729
+(I249
+I191
+I193
+tp730
+sVPantone Black 5 2X (Pantone Black 5 2X)
+p731
+(I17
+I12
+I15
+tp732
+sVPantone Process Blue 2X (Pantone Process Blue 2X)
+p733
+(I0
+I119
+I191
+tp734
+sVPMS 416 (Pantone Warm Gray 6)
+p735
+(I142
+I140
+I122
+tp736
+sVPMS 483 (Pantone Rubine Red 2X)
+p737
+(I107
+I48
+I33
+tp738
+sVPMS 373 (Pantone Process Yellow)
+p739
+(I206
+I234
+I130
+tp740
+sVPMS 1385 (Pantone Orange 021)
+p741
+(I204
+I122
+I2
+tp742
+sVPMS 336 (Pantone Green 2X)
+p743
+(I0
+I104
+I84
+tp744
+sVPMS 260 (Pantone Purple 2X)
+p745
+(I104
+I30
+I91
+tp746
+sVPMS 2645 (Pantone Purple)
+p747
+(I181
+I145
+I209
+tp748
+sVPMS 2623 (Pantone Violet 2X)
+p749
+(I91
+I25
+I94
+tp750
+sVPMS 244 (Pantone Rhodamine Red)
+p751
+(I237
+I160
+I211
+tp752
+sVPMS 630 (Pantone Green)
+p753
+(I140
+I204
+I211
+tp754
+sVPMS 3025 (Pantone Process Blue)
+p755
+(I0
+I84
+I107
+tp756
+sVPMS 2765 (Pantone Reflex Blue 2X)
+p757
+(I43
+I12
+I86
+tp758
+sVPMS 5425 (Pantone Process Blue)
+p759
+(I132
+I153
+I165
+tp760
+sVPMS 2567 (Pantone Purple)
+p761
+(I191
+I147
+I204
+tp762
+sVPMS 5225 (Pantone Cool Gray 4)
+p763
+(I204
+I173
+I175
+tp764
+sVPMS 4685 (Pantone Warm Gray 2)
+p765
+(I237
+I211
+I188
+tp766
+sVPMS 492 (Pantone Rubine Red 2X)
+p767
+(I145
+I51
+I56
+tp768
+sVPantone Rhodamine Red 2X (Pantone Rhodamine Red 2X)
+p769
+(I209
+I5
+I114
+tp770
+sVPMS 682 (Pantone Rhodamine Red 2X)
+p771
+(I160
+I81
+I117
+tp772
+sVPMS 653 (Pantone Process Blue 2X)
+p773
+(I51
+I86
+I135
+tp774
+sVPMS 317 (Pantone Cool Gray 4)
+p775
+(I201
+I232
+I221
+tp776
+sVPMS 302 (Pantone Process Blue)
+p777
+(I0
+I79
+I109
+tp778
+sVPMS 585 (Pantone Process Yellow)
+p779
+(I219
+I224
+I107
+tp780
+sVPMS 665 (Pantone Cool Gray 7)
+p781
+(I198
+I181
+I196
+tp782
+sVPMS 577 (Pantone Green 2X)
+p783
+(I96
+I142
+I58
+tp784
+sVPMS 647 (Pantone Process Blue 2X)
+p785
+(I38
+I84
+I124
+tp786
+sVPMS 112 (Pantone Yellow)
+p787
+(I153
+I132
+I10
+tp788
+sVPMS 1595 (Pantone Orange 021)
+p789
+(I209
+I91
+I5
+tp790
+sVPMS 298 (Pantone Process Blue)
+p791
+(I81
+I181
+I224
+tp792
+sVPMS 460 (Pantone Yellow)
+p793
+(I234
+I221
+I150
+tp794
+sVPMS 184 (Pantone Rubine Red)
+p795
+(I252
+I94
+I114
+tp796
+sVPMS 315 (Pantone Green 2X)
+p797
+(I0
+I107
+I119
+tp798
+sVPMS 669 (Pantone Violet 2X)
+p799
+(I71
+I43
+I89
+tp800
+sVPMS 4675 (Pantone Warm Gray 2)
+p801
+(I229
+I198
+I170
+tp802
+sVPMS 274 (Pantone Reflex Blue 2X)
+p803
+(I43
+I17
+I102
+tp804
+sVPMS 2612 (Pantone Purple 2X)
+p805
+(I112
+I30
+I114
+tp806
+sVPMS 382 2X (Pantone Process Yellow)
+p807
+(I158
+I196
+I0
+tp808
+sVPMS 359 (Pantone Green)
+p809
+(I160
+I219
+I142
+tp810
+sVPMS 2415 (Pantone Purple 2X)
+p811
+(I155
+I0
+I112
+tp812
+sVPMS 306 (Pantone Process Blue)
+p813
+(I0
+I188
+I226
+tp814
+sVPMS 185 (Pantone Red 032)
+p815
+(I232
+I17
+I45
+tp816
+sS'White (White)'
+p817
+(I255
+I255
+I255
+tp818
+sVPMS 323 (Pantone Green 2X)
+p819
+(I0
+I102
+I99
+tp820
+sVPMS 322 (Pantone Green 2X)
+p821
+(I0
+I114
+I114
+tp822
+sVPMS 438 (Pantone Black 5)
+p823
+(I89
+I63
+I61
+tp824
+sVPMS 804 (Pantone Orange 021)
+p825
+(I255
+I147
+I56
+tp826
+sVPMS 263 (Pantone Cool Gray 4)
+p827
+(I224
+I206
+I224
+tp828
+sVPMS 423 (Pantone Cool Gray 8)
+p829
+(I150
+I147
+I142
+tp830
+sVPMS 419 (Pantone Black 3)
+p831
+(I40
+I40
+I33
+tp832
+sVPMS 2582 (Pantone Purple)
+p833
+(I170
+I71
+I186
+tp834
+sVPMS 266 (Pantone Violet)
+p835
+(I109
+I40
+I170
+tp836
+sVPMS 2905 (Pantone Process Blue)
+p837
+(I147
+I198
+I224
+tp838
+sVPMS 256 (Pantone Cool Gray 4)
+p839
+(I229
+I196
+I214
+tp840
+sVPMS 710 (Pantone Rubine Red 2X)
+p841
+(I224
+I66
+I81
+tp842
+sVPMS 2665 (Pantone Purple)
+p843
+(I137
+I79
+I191
+tp844
+sVPMS 2685 (Pantone Violet 2X)
+p845
+(I86
+I0
+I140
+tp846
+sVPMS 5797 (Pantone Warm Gray 4)
+p847
+(I198
+I198
+I153
+tp848
+sVPMS 4515 (Pantone Yellow)
+p849
+(I188
+I173
+I117
+tp850
+sVPMS 450 (Pantone Black 2)
+p851
+(I96
+I84
+I43
+tp852
+sVPMS 537 (White)
+p853
+(I196
+I198
+I206
+tp854
+sVPMS 485 2X (Pantone Warm Red)
+p855
+(I204
+I12
+I0
+tp856
+sVPMS 561 (Pantone Green 2X)
+p857
+(I38
+I102
+I89
+tp858
+sVPMS 724 (Pantone Orange 021)
+p859
+(I142
+I73
+I5
+tp860
+sVPMS 3268 (Pantone Green)
+p861
+(I0
+I175
+I153
+tp862
+sVPMS 3305 (Pantone Green 2X)
+p863
+(I0
+I79
+I66
+tp864
+sVPMS 240 (Pantone Rhodamine Red)
+p865
+(I196
+I15
+I137
+tp866
+sVPMS 357 (Pantone Green 2X)
+p867
+(I33
+I91
+I51
+tp868
+sVPMS 582 (Pantone Process Yellow)
+p869
+(I96
+I94
+I17
+tp870
+sVPMS 379 (Pantone Process Yellow)
+p871
+(I224
+I234
+I104
+tp872
+sVPMS 2748 (Pantone Reflex Blue)
+p873
+(I30
+I28
+I119
+tp874
+sVPMS 147 (Pantone Warm Gray 10)
+p875
+(I114
+I94
+I38
+tp876
+sVPMS 2587 (Pantone Purple)
+p877
+(I142
+I71
+I173
+tp878
+sVPMS 188 (Pantone Rubine Red 2X)
+p879
+(I124
+I33
+I40
+tp880
+sVPMS 277 (Pantone Process Blue)
+p881
+(I181
+I209
+I232
+tp882
+sVPMS 312 (Pantone Process Blue)
+p883
+(I0
+I173
+I198
+tp884
+sVPMS 4625 (Pantone Black 4)
+p885
+(I71
+I35
+I17
+tp886
+sVPMS 2706 (White)
+p887
+(I209
+I206
+I221
+tp888
+sVPMS 2655 (Pantone Purple)
+p889
+(I155
+I109
+I198
+tp890
+sVPMS 300 (Pantone Process Blue 2X)
+p891
+(I0
+I114
+I198
+tp892
+sVPMS 247 (Pantone Purple 2X)
+p893
+(I183
+I0
+I142
+tp894
+sVPMS 344 (Pantone Green)
+p895
+(I181
+I226
+I191
+tp896
+sVPMS 530 (Pantone Purple)
+p897
+(I214
+I175
+I214
+tp898
+sVPMS 528 (Pantone Purple)
+p899
+(I175
+I114
+I193
+tp900
+sVPMS 645 (Pantone Process Blue)
+p901
+(I119
+I150
+I178
+tp902
+sVPMS 198 (Pantone Rubine Red)
+p903
+(I229
+I86
+I109
+tp904
+sVPMS 320 2X (Pantone Green 2X)
+p905
+(I0
+I127
+I130
+tp906
+sVPMS 121 (Pantone Yellow)
+p907
+(I249
+I224
+I112
+tp908
+sVPMS 2727 (Pantone Process Blue 2X)
+p909
+(I94
+I104
+I196
+tp910
+sVPMS 661 (Pantone Reflex Blue)
+p911
+(I45
+I51
+I142
+tp912
+sVPMS 408 (Pantone Warm Gray 7)
+p913
+(I168
+I153
+I140
+tp914
+sVPMS 134 (Pantone Yellow)
+p915
+(I255
+I216
+I127
+tp916
+sVPMS 163 (Pantone Orange 021)
+p917
+(I252
+I158
+I112
+tp918
+sVPMS 544 (Pantone Process Blue)
+p919
+(I183
+I204
+I219
+tp920
+sVPMS 178 (Pantone Red 032)
+p921
+(I249
+I94
+I89
+tp922
+sVPMS 499 (Pantone Rubine Red 2X)
+p923
+(I122
+I56
+I45
+tp924
+sVPMS 5455 (Pantone Cool Gray 4)
+p925
+(I214
+I216
+I211
+tp926
+sVPMS 563 (Pantone Green)
+p927
+(I127
+I188
+I170
+tp928
+sVPMS 543 (Pantone Process Blue)
+p929
+(I147
+I183
+I209
+tp930
+sVPMS 5815 (Pantone Black 2)
+p931
+(I73
+I68
+I17
+tp932
+sVPMS 1787 (Pantone Red 032)
+p933
+(I244
+I63
+I79
+tp934
+sVPMS 165 2X (Pantone Warm Red 2X)
+p935
+(I234
+I79
+I0
+tp936
+sVPMS 456 (Pantone Yellow)
+p937
+(I153
+I135
+I20
+tp938
+sVPMS 2635 (Pantone Purple)
+p939
+(I201
+I173
+I216
+tp940
+sVPMS 1795 (Pantone Red 032)
+p941
+(I214
+I40
+I40
+tp942
+sVPMS 327 2X (Pantone Green 2X)
+p943
+(I0
+I137
+I119
+tp944
+sVPMS 718 (Pantone Orange 021)
+p945
+(I191
+I91
+I0
+tp946
+sVPMS 553 (Pantone Black 3)
+p947
+(I35
+I68
+I53
+tp948
+sVPMS 5305 (Pantone Cool Gray 4)
+p949
+(I204
+I193
+I198
+tp950
+sVPMS 4545 (Pantone Warm Gray 2)
+p951
+(I229
+I219
+I186
+tp952
+sVPMS 102 (Pantone Process Yellow)
+p953
+(I249
+I232
+I20
+tp954
+sVPMS 297 (Pantone Process Blue)
+p955
+(I130
+I198
+I226
+tp956
+sVPMS 258 (Pantone Purple)
+p957
+(I155
+I79
+I150
+tp958
+sVPMS 540 (Pantone Process Blue 2X)
+p959
+(I0
+I51
+I91
+tp960
+sVPMS 433 (Pantone Black 3)
+p961
+(I48
+I56
+I58
+tp962
+sVPMS 292 (Pantone Process Blue)
+p963
+(I117
+I178
+I221
+tp964
+sVPMS 2735 (Pantone Violet 2X)
+p965
+(I79
+I0
+I147
+tp966
+sVPMS 513 (Pantone Purple 2X)
+p967
+(I158
+I35
+I135
+tp968
+sVPMS 265 (Pantone Purple)
+p969
+(I150
+I99
+I196
+tp970
+sVPMS 497 (Pantone Black 5)
+p971
+(I81
+I40
+I38
+tp972
+sVPMS 218 (Pantone Rhodamine Red)
+p973
+(I237
+I114
+I170
+tp974
+sVPMS 574 (Pantone Cool Gray 4)
+p975
+(I204
+I229
+I214
+tp976
+sVPMS 5645 (Pantone Cool Gray 5)
+p977
+(I188
+I193
+I178
+tp978
+sVPMS 454 (Pantone Warm Gray 2)
+p979
+(I226
+I216
+I191
+tp980
+sVPantone Purple (Pantone Purple)
+p981
+(I191
+I48
+I181
+tp982
+sVPMS 144 (Pantone Orange 021)
+p983
+(I226
+I140
+I5
+tp984
+sVPMS 2745 (Pantone Reflex Blue 2X)
+p985
+(I63
+I0
+I119
+tp986
+sVPMS 477 (Pantone Black 4)
+p987
+(I99
+I56
+I38
+tp988
+sVPMS 726 (Pantone Warm Gray 2)
+p989
+(I237
+I211
+I181
+tp990
+sVPMS 142 (Pantone Yellow)
+p991
+(I242
+I191
+I73
+tp992
+sVPMS 714 (Pantone Orange 021)
+p993
+(I249
+I186
+I130
+tp994
+sVPMS 100 (Pantone Process Yellow)
+p995
+(I244
+I237
+I124
+tp996
+sVPMS 496 (Pantone Warm Gray 2)
+p997
+(I247
+I201
+I198
+tp998
+sVPMS 810 2X (Pantone Yellow)
+p999
+(I255
+I188
+I33
+tp1000
+sVPMS 621 (Pantone Cool Gray 2)
+p1001
+(I216
+I221
+I206
+tp1002
+sVPMS 5235 (Pantone Cool Gray 4)
+p1003
+(I221
+I198
+I196
+tp1004
+sVPMS 398 (Pantone Process Yellow)
+p1005
+(I175
+I168
+I10
+tp1006
+sVPMS 427 (Pantone Cool Gray 2)
+p1007
+(I221
+I219
+I209
+tp1008
+sVPantone Black 4 2X (Pantone Black 4 2X)
+p1009
+(I15
+I15
+I15
+tp1010
+sVPMS 2613 (Pantone Violet 2X)
+p1011
+(I102
+I17
+I109
+tp1012
+sVPMS 342 (Pantone Green 2X)
+p1013
+(I0
+I107
+I84
+tp1014
+sVPMS 269 (Pantone Violet 2X)
+p1015
+(I68
+I35
+I89
+tp1016
+sVPantone Black 3 (Pantone Black 3)
+p1017
+(I40
+I45
+I38
+tp1018
+sVPMS 176 (Pantone Red 032)
+p1019
+(I249
+I175
+I173
+tp1020
+sVPMS 698 (Pantone Cool Gray 2)
+p1021
+(I247
+I209
+I204
+tp1022
+sVPantone Green 2X (Pantone Green 2X)
+p1023
+(I0
+I150
+I119
+tp1024
+sVPMS 162 (Pantone Warm Gray 2)
+p1025
+(I249
+I198
+I170
+tp1026
+sVPMS 330 (Pantone Green 2X)
+p1027
+(I0
+I89
+I81
+tp1028
+sVPMS 206 (Pantone Rubine Red 2X)
+p1029
+(I211
+I5
+I71
+tp1030
+sVPMS 556 (Pantone Green 2X)
+p1031
+(I122
+I168
+I145
+tp1032
+sVPMS 287 (Pantone Reflex Blue)
+p1033
+(I0
+I56
+I147
+tp1034
+sVPMS 348 (Pantone Green 2X)
+p1035
+(I0
+I135
+I81
+tp1036
+sVPantone Reflex Blue 2X (Pantone Reflex Blue 2X)
+p1037
+(I28
+I0
+I122
+tp1038
+sVPMS 180 (Pantone Red 032)
+p1039
+(I193
+I56
+I40
+tp1040
+sVPMS 183 (Pantone Rubine Red)
+p1041
+(I252
+I140
+I153
+tp1042
+sVPMS 5513 (Pantone Cool Gray 4)
+p1043
+(I206
+I216
+I209
+tp1044
+sVPMS 233 (Pantone Rhodamine Red 2X)
+p1045
+(I206
+I0
+I124
+tp1046
+sVPMS 321 (Pantone Green 2X)
+p1047
+(I0
+I135
+I137
+tp1048
+sVPMS 626 (Pantone Green 2X)
+p1049
+(I33
+I84
+I63
+tp1050
+sVPMS 805 (Pantone Red 032)
+p1051
+(I249
+I89
+I81
+tp1052
+sVPMS 464 2X (Pantone Orange 021)
+p1053
+(I112
+I66
+I20
+tp1054
+sVPMS 248 (Pantone Purple 2X)
+p1055
+(I163
+I5
+I127
+tp1056
+sVPantone Warm Gray 10 (Pantone Warm Gray 10)
+p1057
+(I130
+I114
+I99
+tp1058
+sVPMS 1355 (Pantone Yellow)
+p1059
+(I252
+I206
+I135
+tp1060
+sVPMS 208 (Pantone Rubine Red)
+p1061
+(I142
+I35
+I68
+tp1062
+sVPMS 432 (Pantone Cool Gray 11)
+p1063
+(I68
+I79
+I81
+tp1064
+sVPMS 301 (Pantone Process Blue 2X)
+p1065
+(I0
+I91
+I153
+tp1066
+sVPMS 288 (Pantone Reflex Blue)
+p1067
+(I0
+I51
+I127
+tp1068
+sVPMS 143 (Pantone Yellow)
+p1069
+(I239
+I178
+I45
+tp1070
+sVPMS 5865 (Pantone Warm Gray 2)
+p1071
+(I214
+I206
+I163
+tp1072
+sVPMS 3278 (Pantone Green 2X)
+p1073
+(I0
+I155
+I132
+tp1074
+sVPMS 3385 (Pantone Green)
+p1075
+(I84
+I216
+I168
+tp1076
+sVPMS 104 (Pantone Yellow)
+p1077
+(I173
+I155
+I12
+tp1078
+sVPMS 4985 (Pantone Rubine Red 2X)
+p1079
+(I132
+I73
+I73
+tp1080
+sVPMS 346 (Pantone Green)
+p1081
+(I112
+I206
+I155
+tp1082
+sVPMS 339 (Pantone Green)
+p1083
+(I0
+I178
+I140
+tp1084
+sVPMS 3005 (Pantone Process Blue 2X)
+p1085
+(I0
+I132
+I201
+tp1086
+sVPMS 579 (Pantone Process Yellow)
+p1087
+(I198
+I214
+I160
+tp1088
+sVPMS 5527 (Pantone Cool Gray 3)
+p1089
+(I206
+I209
+I198
+tp1090
+sVPantone Cool Gray 4 (Pantone Cool Gray 4)
+p1091
+(I196
+I193
+I186
+tp1092
+sVPMS 385 (Pantone Process Yellow)
+p1093
+(I112
+I112
+I20
+tp1094
+sVPMS 253 (Pantone Purple)
+p1095
+(I175
+I35
+I165
+tp1096
+sVPMS 259 (Pantone Purple 2X)
+p1097
+(I114
+I22
+I107
+tp1098
+sVPMS 5763 (Pantone Green 2X)
+p1099
+(I94
+I102
+I58
+tp1100
+sVPMS 666 (Pantone Process Blue 2X)
+p1101
+(I168
+I147
+I173
+tp1102
+sVPMS 316 (Pantone Green 2X)
+p1103
+(I0
+I73
+I79
+tp1104
+sVPMS 603 (Pantone Process Yellow)
+p1105
+(I237
+I232
+I91
+tp1106
+sVPMS 616 (Pantone Process Yellow)
+p1107
+(I221
+I214
+I155
+tp1108
+sVPMS 494 (Pantone Rubine Red)
+p1109
+(I242
+I173
+I178
+tp1110
+sVPMS 689 (Pantone Rhodamine Red 2X)
+p1111
+(I147
+I66
+I102
+tp1112
+sVPMS 337 (Pantone Green)
+p1113
+(I155
+I219
+I193
+tp1114
+sVPMS 3298 (Pantone Green 2X)
+p1115
+(I0
+I107
+I91
+tp1116
+sVPMS 3265 (Pantone Green)
+p1117
+(I0
+I198
+I178
+tp1118
+sVPMS 624 (Pantone Green 2X)
+p1119
+(I127
+I160
+I140
+tp1120
+sVPantone Yellow 2X (Pantone Yellow 2X)
+p1121
+(I252
+I226
+I22
+tp1122
+sVPMS 135 (Pantone Yellow)
+p1123
+(I252
+I201
+I99
+tp1124
+sVPMS 506 (Pantone Rubine Red 2X)
+p1125
+(I122
+I38
+I56
+tp1126
+sVPMS 417 (Pantone Warm Gray 9)
+p1127
+(I119
+I114
+I99
+tp1128
+sVPMS 343 (Pantone Green 2X)
+p1129
+(I0
+I86
+I63
+tp1130
+sVPMS 602 (Pantone Process Yellow)
+p1131
+(I242
+I234
+I135
+tp1132
+sVPMS 566 (Pantone Cool Gray 2)
+p1133
+(I209
+I226
+I211
+tp1134
+sVPMS 5835 (Pantone Process Yellow)
+p1135
+(I158
+I153
+I89
+tp1136
+sVPMS 5445 (Pantone Cool Gray 4)
+p1137
+(I196
+I204
+I204
+tp1138
+sVPMS 549 (Pantone Process Blue)
+p1139
+(I94
+I153
+I170
+tp1140
+sVPMS 3145 (Pantone Green)
+p1141
+(I0
+I132
+I142
+tp1142
+sVPMS 522 (Pantone Purple)
+p1143
+(I198
+I163
+I193
+tp1144
+sVPMS 325 (Pantone Green)
+p1145
+(I86
+I201
+I193
+tp1146
+sVPMS 229 (Pantone Rhodamine Red 2X)
+p1147
+(I109
+I33
+I63
+tp1148
+sVPMS 670 (Pantone Cool Gray 4)
+p1149
+(I242
+I214
+I216
+tp1150
+sVPMS 3275 (Pantone Green)
+p1151
+(I0
+I178
+I160
+tp1152
+sVPMS 804 2X (Pantone Orange 021)
+p1153
+(I255
+I127
+I30
+tp1154
+sVPMS 5195 (Pantone Black 5)
+p1155
+(I89
+I51
+I68
+tp1156
+sVPMS 2705 (Pantone Process Blue 2X)
+p1157
+(I173
+I158
+I211
+tp1158
+sVPMS 2695 (Pantone Reflex Blue)
+p1159
+(I68
+I35
+I94
+tp1160
+sVPMS 648 (Pantone Process Blue 2X)
+p1161
+(I0
+I48
+I94
+tp1162
+sVPMS 2756 (Pantone Reflex Blue)
+p1163
+(I51
+I40
+I117
+tp1164
+sVPMS 683 (Pantone Rhodamine Red 2X)
+p1165
+(I127
+I40
+I79
+tp1166
+sVPMS 814 (Pantone Purple)
+p1167
+(I140
+I96
+I193
+tp1168
+sVPMS 156 (Pantone Yellow)
+p1169
+(I242
+I198
+I140
+tp1170
+sVPMS 199 (Pantone Rubine Red 2X)
+p1171
+(I216
+I28
+I63
+tp1172
+sVPMS 3258 (Pantone Green)
+p1173
+(I53
+I196
+I175
+tp1174
+sVPantone Cool Gray 3 (Pantone Cool Gray 3)
+p1175
+(I211
+I206
+I196
+tp1176
+sVPMS 286 (Pantone Reflex Blue)
+p1177
+(I0
+I56
+I168
+tp1178
+sVPMS 457 (Pantone Yellow)
+p1179
+(I181
+I155
+I12
+tp1180
+sVPMS 133 (Pantone Yellow)
+p1181
+(I112
+I91
+I10
+tp1182
+sVPMS 468 (Pantone Warm Gray 2)
+p1183
+(I226
+I214
+I181
+tp1184
+sVPMS 4695 (Pantone Black 5)
+p1185
+(I81
+I38
+I28
+tp1186
+sVPMS 812 2X (Pantone Rubine Red 2X)
+p1187
+(I252
+I7
+I79
+tp1188
+sVPMS 2955 (Pantone Process Blue 2X)
+p1189
+(I0
+I61
+I107
+tp1190
+sVPMS 441 (Pantone Cool Gray 3)
+p1191
+(I209
+I209
+I198
+tp1192
+sVPMS 471 2X (Pantone Orange 021)
+p1193
+(I163
+I68
+I2
+tp1194
+sVPMS 1777 (Pantone Rubine Red)
+p1195
+(I252
+I102
+I117
+tp1196
+sVPMS 620 (Pantone Yellow)
+p1197
+(I132
+I119
+I17
+tp1198
+sVPMS 374 (Pantone Process Yellow)
+p1199
+(I186
+I232
+I96
+tp1200
+sVPMS 394 (Pantone Process Yellow)
+p1201
+(I234
+I237
+I53
+tp1202
+sVPMS 801 2X (Pantone Process Blue)
+p1203
+(I0
+I137
+I175
+tp1204
+sVPMS 3295 (Pantone Green 2X)
+p1205
+(I0
+I130
+I114
+tp1206
+sVPMS 116 2X (Pantone Yellow)
+p1207
+(I247
+I181
+I12
+tp1208
+sVPMS 136 (Pantone Yellow)
+p1209
+(I252
+I191
+I73
+tp1210
+sVPMS 5005 (Pantone Rubine Red)
+p1211
+(I188
+I135
+I135
+tp1212
+sVPMS 440 (Pantone Black)
+p1213
+(I63
+I48
+I43
+tp1214
+sVPMS 1245 (Pantone Yellow)
+p1215
+(I191
+I145
+I12
+tp1216
+sVPMS 678 (Pantone Cool Gray 4)
+p1217
+(I234
+I204
+I206
+tp1218
+sVPMS 127 (Pantone Yellow)
+p1219
+(I244
+I226
+I135
+tp1220
+sVPMS 318 (Pantone Green)
+p1221
+(I147
+I221
+I219
+tp1222
+sVPMS 5487 (Pantone Cool Gray 10)
+p1223
+(I102
+I124
+I114
+tp1224
+sVPMS 221 (Pantone Rubine Red)
+p1225
+(I147
+I0
+I66
+tp1226
+sVPMS 360 (Pantone Green 2X)
+p1227
+(I96
+I198
+I89
+tp1228
+sVPMS 173 (Pantone Warm Red 2X)
+p1229
+(I209
+I68
+I20
+tp1230
+sVPMS 807 (Pantone Rhodamine Red)
+p1231
+(I214
+I0
+I158
+tp1232
+sVPMS 189 (Pantone Rubine Red)
+p1233
+(I255
+I163
+I178
+tp1234
+sVPMS 345 (Pantone Green)
+p1235
+(I150
+I216
+I175
+tp1236
+sVPMS 439 (Pantone Black 5)
+p1237
+(I73
+I53
+I51
+tp1238
+sVPMS 1545 (Pantone Black 4)
+p1239
+(I76
+I40
+I15
+tp1240
+sVPMS 399 (Pantone Process Yellow)
+p1241
+(I153
+I142
+I7
+tp1242
+sVPMS 564 (Pantone Green)
+p1243
+(I160
+I206
+I188
+tp1244
+sVPMS 680 (Pantone Rhodamine Red 2X)
+p1245
+(I211
+I158
+I175
+tp1246
+sVPMS 324 (Pantone Green)
+p1247
+(I170
+I221
+I214
+tp1248
+sVPMS 584 (Pantone Process Yellow)
+p1249
+(I170
+I186
+I10
+tp1250
+sVPMS 5265 (Pantone Reflex Blue)
+p1251
+(I73
+I61
+I99
+tp1252
+sVPantone Cool Gray 6 (Pantone Cool Gray 6)
+p1253
+(I181
+I178
+I170
+tp1254
+sVPMS 1265 (Pantone Yellow)
+p1255
+(I124
+I99
+I22
+tp1256
+sVPMS 335 (Pantone Green 2X)
+p1257
+(I0
+I124
+I102
+tp1258
+sVPMS 3282 (Pantone Green 2X)
+p1259
+(I0
+I140
+I130
+tp1260
+sVPMS 1895 (Pantone Rhodamine Red)
+p1261
+(I252
+I191
+I201
+tp1262
+sVPMS 111 (Pantone Yellow)
+p1263
+(I170
+I147
+I10
+tp1264
+sVPMS 402 (Pantone Warm Gray 6)
+p1265
+(I175
+I165
+I147
+tp1266
+sVPMS 1365 (Pantone Yellow)
+p1267
+(I252
+I186
+I94
+tp1268
+sVPMS 3288 (Pantone Green 2X)
+p1269
+(I0
+I130
+I112
+tp1270
+sVPantone Rubine Red (Pantone Rubine Red)
+p1271
+(I209
+I0
+I86
+tp1272
+sVPMS 3245 (Pantone Green)
+p1273
+(I140
+I224
+I209
+tp1274
+sVPMS 521 (Pantone Purple)
+p1275
+(I181
+I140
+I178
+tp1276
+sVPMS 677 (Pantone Cool Gray 4)
+p1277
+(I237
+I214
+I214
+tp1278
+sVPMS 524 (Pantone Cool Gray 4)
+p1279
+(I226
+I204
+I211
+tp1280
+sVPMS 418 (Pantone Cool Gray 10)
+p1281
+(I96
+I94
+I79
+tp1282
+sVPMS 299 2X (Pantone Process Blue 2X)
+p1283
+(I0
+I127
+I204
+tp1284
+sVPMS 684 (Pantone Cool Gray 4)
+p1285
+(I239
+I204
+I206
+tp1286
+sVPMS 380 (Pantone Process Yellow)
+p1287
+(I214
+I229
+I66
+tp1288
+sVPMS 5255 (Pantone Reflex Blue)
+p1289
+(I53
+I38
+I79
+tp1290
+sVPMS 201 (Pantone Rubine Red 2X)
+p1291
+(I163
+I38
+I56
+tp1292
+sVPMS 5115 (Pantone Black 5)
+p1293
+(I79
+I33
+I58
+tp1294
+sVPMS 268 (Pantone Violet 2X)
+p1295
+(I79
+I33
+I112
+tp1296
+sVPMS 526 (Pantone Violet 2X)
+p1297
+(I104
+I33
+I122
+tp1298
+sVPMS 433 2X (Pantone Black 6 2X)
+p1299
+(I10
+I12
+I17
+tp1300
+sVPMS 340 (Pantone Green 2X)
+p1301
+(I0
+I153
+I119
+tp1302
+sVPMS 705 (Pantone Cool Gray 2)
+p1303
+(I249
+I221
+I214
+tp1304
+sVPMS 2573 (Pantone Purple)
+p1305
+(I186
+I124
+I188
+tp1306
+sVPMS 805 2X (Pantone Warm Red)
+p1307
+(I249
+I58
+I43
+tp1308
+sVPMS 5565 (Pantone Cool Gray 6)
+p1309
+(I150
+I170
+I153
+tp1310
+sVPMS 445 (Pantone Cool Gray 11)
+p1311
+(I86
+I89
+I89
+tp1312
+sVPMS 428 (Pantone Cool Gray 3)
+p1313
+(I209
+I206
+I198
+tp1314
+sVPMS 5535 (Pantone Black 3)
+p1315
+(I33
+I61
+I48
+tp1316
+sVPantone Yellow (Pantone Yellow)
+p1317
+(I252
+I224
+I22
+tp1318
+sVPMS 612 (Pantone Process Yellow)
+p1319
+(I196
+I186
+I0
+tp1320
+sVPMS 3125 (Pantone Green)
+p1321
+(I0
+I183
+I198
+tp1322
+sVPMS 482 (Pantone Warm Gray 2)
+p1323
+(I229
+I211
+I193
+tp1324
+sVPMS 633 (Pantone Process Blue)
+p1325
+(I0
+I127
+I153
+tp1326
+sVPMS 1788 (Pantone Red 032)
+p1327
+(I239
+I43
+I45
+tp1328
+sVPMS 3252 (Pantone Green)
+p1329
+(I86
+I214
+I201
+tp1330
+sVPMS 214 (Pantone Rubine Red)
+p1331
+(I204
+I2
+I86
+tp1332
+sVPMS 2627 (Pantone Violet 2X)
+p1333
+(I76
+I20
+I94
+tp1334
+sVPMS 668 (Pantone Purple 2X)
+p1335
+(I102
+I73
+I117
+tp1336
+sVPMS 725 (Pantone Orange 021)
+p1337
+(I117
+I56
+I2
+tp1338
+sVPMS 713 (Pantone Warm Gray 2)
+p1339
+(I249
+I201
+I163
+tp1340
+sVPMS 514 (Pantone Purple)
+p1341
+(I216
+I132
+I188
+tp1342
+sVPMS 132 (Pantone Yellow)
+p1343
+(I158
+I124
+I10
+tp1344
+sVPMS 628 (Pantone Cool Gray 4)
+p1345
+(I204
+I226
+I221
+tp1346
+sVPMS 210 (Pantone Rhodamine Red)
+p1347
+(I255
+I160
+I191
+tp1348
+sVPantone Cool Gray 10 (Pantone Cool Gray 10)
+p1349
+(I119
+I119
+I114
+tp1350
+sVPMS 332 (Pantone Green)
+p1351
+(I160
+I229
+I206
+tp1352
+sVPMS 5575 (Pantone Cool Gray 5)
+p1353
+(I175
+I191
+I173
+tp1354
+sVPMS 625 (Pantone Green 2X)
+p1355
+(I91
+I135
+I114
+tp1356
+sVPMS 557 (Pantone Green)
+p1357
+(I163
+I193
+I173
+tp1358
+sVPMS 149 (Pantone Yellow)
+p1359
+(I252
+I204
+I147
+tp1360
+sVPMS 367 (Pantone Process Yellow)
+p1361
+(I170
+I221
+I109
+tp1362
+sVPMS 364 (Pantone Green 2X)
+p1363
+(I58
+I119
+I40
+tp1364
+sVPMS 291 (Pantone Process Blue)
+p1365
+(I168
+I206
+I226
+tp1366
+sVPMS 283 (Pantone Process Blue)
+p1367
+(I155
+I196
+I226
+tp1368
+sVPMS 299 (Pantone Process Blue)
+p1369
+(I0
+I163
+I221
+tp1370
+sVPMS 354 (Pantone Green 2X)
+p1371
+(I0
+I183
+I96
+tp1372
+sVPMS 572 (Pantone Green)
+p1373
+(I170
+I219
+I198
+tp1374
+sVPMS 109 (Pantone Yellow)
+p1375
+(I249
+I214
+I22
+tp1376
+sVPMS 535 (Pantone Process Blue)
+p1377
+(I155
+I163
+I183
+tp1378
+sVPMS 5787 (Pantone Process Yellow)
+p1379
+(I170
+I173
+I117
+tp1380
+sVPMS 723 (Pantone Orange 021)
+p1381
+(I186
+I117
+I48
+tp1382
+sVPMS 331 (Pantone Green)
+p1383
+(I186
+I234
+I214
+tp1384
+sVPMS 5793 (Pantone Warm Gray 4)
+p1385
+(I181
+I181
+I142
+tp1386
+sVPMS 576 (Pantone Green 2X)
+p1387
+(I84
+I119
+I48
+tp1388
+sVPMS 554 (Pantone Green 2X)
+p1389
+(I25
+I94
+I71
+tp1390
+sVPMS 717 (Pantone Orange 021)
+p1391
+(I211
+I109
+I0
+tp1392
+sVPMS 3985 (Pantone Yellow)
+p1393
+(I153
+I140
+I10
+tp1394
+sVPMS 2425 (Pantone Purple 2X)
+p1395
+(I135
+I0
+I91
+tp1396
+sVPMS 525 (Pantone Violet 2X)
+p1397
+(I81
+I38
+I84
+tp1398
+sVPMS 353 (Pantone Green)
+p1399
+(I132
+I226
+I168
+tp1400
+sVPMS 383 (Pantone Process Yellow)
+p1401
+(I163
+I175
+I7
+tp1402
+sVPMS 270 (Pantone Process Blue)
+p1403
+(I186
+I175
+I211
+tp1404
+sVPMS 5555 (Pantone Green 2X)
+p1405
+(I119
+I145
+I130
+tp1406
+sVPMS 1635 (Pantone Warm Red)
+p1407
+(I249
+I142
+I109
+tp1408
+sVPMS 351 (Pantone Green)
+p1409
+(I181
+I232
+I191
+tp1410
+sVPMS 728 (Pantone Warm Gray 6)
+p1411
+(I211
+I168
+I124
+tp1412
+sVPMS 500 (Pantone Rubine Red)
+p1413
+(I206
+I137
+I140
+tp1414
+sVPMS 3248 (Pantone Green)
+p1415
+(I122
+I211
+I193
+tp1416
+sVPMS 5875 (Pantone Warm Gray 2)
+p1417
+(I224
+I219
+I181
+tp1418
+sVPMS 296 (Pantone Black 6)
+p1419
+(I0
+I45
+I71
+tp1420
+sVPMS 1685 (Pantone Warm Red 2X)
+p1421
+(I132
+I53
+I17
+tp1422
+sVPMS 303 (Pantone Black 6)
+p1423
+(I0
+I63
+I84
+tp1424
+sVPMS 730 (Pantone Orange 021)
+p1425
+(I170
+I117
+I63
+tp1426
+sVPMS 396 (Pantone Process Yellow)
+p1427
+(I224
+I226
+I12
+tp1428
+sVPantone Green (Pantone Green)
+p1429
+(I0
+I175
+I147
+tp1430
+sVPMS 812 (Pantone Rubine Red)
+p1431
+(I252
+I35
+I102
+tp1432
+sVPMS 362 (Pantone Green 2X)
+p1433
+(I51
+I158
+I53
+tp1434
+sVPMS 122 (Pantone Yellow)
+p1435
+(I252
+I216
+I86
+tp1436
+sVPMS 1945 (Pantone Rubine Red 2X)
+p1437
+(I168
+I12
+I53
+tp1438
+sVPMS 119 (Pantone Yellow)
+p1439
+(I137
+I119
+I25
+tp1440
+sVPMS 356 (Pantone Green 2X)
+p1441
+(I0
+I122
+I61
+tp1442
+sVPMS 219 (Pantone Rhodamine Red 2X)
+p1443
+(I226
+I40
+I130
+tp1444
+sVPMS 2617 (Pantone Violet 2X)
+p1445
+(I86
+I12
+I112
+tp1446
+sVPMS 498 (Pantone Rubine Red 2X)
+p1447
+(I109
+I51
+I43
+tp1448
+sVPMS 442 (Pantone Cool Gray 4)
+p1449
+(I186
+I191
+I183
+tp1450
+sVPMS 2995 (Pantone Process Blue)
+p1451
+(I0
+I165
+I219
+tp1452
+sVPMS 608 (Pantone Process Yellow)
+p1453
+(I239
+I232
+I173
+tp1454
+sVPMS 264 (Pantone Purple)
+p1455
+(I198
+I170
+I219
+tp1456
+sVPMS 538 (White)
+p1457
+(I214
+I211
+I214
+tp1458
+sVPMS 1805 (Pantone Rubine Red 2X)
+p1459
+(I175
+I38
+I38
+tp1460
+sVPMS 4735 (Pantone Warm Gray 5)
+p1461
+(I204
+I175
+I155
+tp1462
+sVPMS 731 (Pantone Orange 021)
+p1463
+(I114
+I63
+I10
+tp1464
+sVPMS 676 (Pantone Rhodamine Red 2X)
+p1465
+(I160
+I0
+I84
+tp1466
+sVPMS 672 (Pantone Rhodamine Red)
+p1467
+(I234
+I170
+I196
+tp1468
+sVPMS 172 (Pantone Warm Red 2X)
+p1469
+(I247
+I73
+I2
+tp1470
+sVPMS 420 (Pantone Cool Gray 3)
+p1471
+(I209
+I204
+I191
+tp1472
+sVPMS 211 (Pantone Rhodamine Red)
+p1473
+(I255
+I119
+I168
+tp1474
+sVPMS 5275 (Pantone Process Blue 2X)
+p1475
+(I96
+I86
+I119
+tp1476
+sVPMS 5435 (Pantone Cool Gray 7)
+p1477
+(I175
+I188
+I191
+tp1478
+sVPMS 479 (Pantone Warm Gray 10)
+p1479
+(I175
+I137
+I112
+tp1480
+sVPMS 230 (Pantone Rhodamine Red)
+p1481
+(I255
+I160
+I204
+tp1482
+sVPMS 583 (Pantone Process Yellow)
+p1483
+(I135
+I137
+I5
+tp1484
+sVPMS 580 (Pantone Process Yellow)
+p1485
+(I201
+I214
+I163
+tp1486
+sVPMS 293 (Pantone Process Blue 2X)
+p1487
+(I0
+I81
+I186
+tp1488
+sVPMS 5753 (Pantone Black 2)
+p1489
+(I63
+I73
+I38
+tp1490
+sVPMS 207 (Pantone Rubine Red 2X)
+p1491
+(I175
+I0
+I61
+tp1492
+sVPMS 570 (Pantone Green 2X)
+p1493
+(I0
+I135
+I114
+tp1494
+sVPMS 215 (Pantone Rubine Red)
+p1495
+(I165
+I5
+I68
+tp1496
+sVPMS 123 (Pantone Yellow)
+p1497
+(I255
+I198
+I30
+tp1498
+sVPMS 446 (Pantone Cool Gray 11)
+p1499
+(I73
+I76
+I73
+tp1500
+sVPMS 4665 (Pantone Warm Gray 5)
+p1501
+(I216
+I181
+I150
+tp1502
+sVPMS 1585 (Pantone Orange 021)
+p1503
+(I249
+I107
+I7
+tp1504
+sVPMS 685 (Pantone Cool Gray 4)
+p1505
+(I234
+I191
+I196
+tp1506
+sVPMS 605 (Pantone Process Yellow)
+p1507
+(I221
+I206
+I17
+tp1508
+sVPMS 415 (Pantone Warm Gray 6)
+p1509
+(I163
+I158
+I140
+tp1510
+sVPMS 606 (Pantone Yellow)
+p1511
+(I211
+I191
+I17
+tp1512
+sVPantone Black 6 (Pantone Black 6)
+p1513
+(I28
+I38
+I48
+tp1514
+sVPMS 3272 (Pantone Green)
+p1515
+(I0
+I170
+I158
+tp1516
+sVPMS 636 (Pantone Green)
+p1517
+(I153
+I214
+I221
+tp1518
+sVPMS 203 (Pantone Rhodamine Red)
+p1519
+(I242
+I175
+I193
+tp1520
+sVPMS 464 (Pantone Warm Gray 10)
+p1521
+(I135
+I96
+I40
+tp1522
+sVPMS 2375 (Pantone Rhodamine Red)
+p1523
+(I234
+I107
+I191
+tp1524
+sVPMS 304 (Pantone Green)
+p1525
+(I165
+I221
+I226
+tp1526
+sVPMS 562 (Pantone Green 2X)
+p1527
+(I30
+I122
+I109
+tp1528
+sVPMS 309 (Pantone Black 6)
+p1529
+(I0
+I63
+I73
+tp1530
+sVPantone Warm Gray 1 (Pantone Warm Gray 1)
+p1531
+(I229
+I219
+I204
+tp1532
+sVPMS 615 (Pantone Warm Gray 2)
+p1533
+(I226
+I219
+I170
+tp1534
+sVPMS 1405 (Pantone Warm Gray 10)
+p1535
+(I107
+I71
+I20
+tp1536
+sVPMS 629 (Pantone Green)
+p1537
+(I178
+I216
+I216
+tp1538
+sVPMS 559 (Pantone Cool Gray 3)
+p1539
+(I198
+I214
+I196
+tp1540
+sVPMS 125 (Pantone Yellow)
+p1541
+(I181
+I140
+I10
+tp1542
+sVPMS 361 (Pantone Green 2X)
+p1543
+(I30
+I181
+I58
+tp1544
+sVPMS 551 (Pantone Process Blue)
+p1545
+(I163
+I193
+I201
+tp1546
+sVPantone Black 7 (Pantone Black 7)
+p1547
+(I68
+I61
+I56
+tp1548
+sVPMS 241 (Pantone Rhodamine Red 2X)
+p1549
+(I173
+I0
+I117
+tp1550
+sVPMS 150 (Pantone Orange 021)
+p1551
+(I252
+I173
+I86
+tp1552
+sVPMS 429 (Pantone Cool Gray 7)
+p1553
+(I173
+I175
+I170
+tp1554
+sVPMS 495 (Pantone Cool Gray 3)
+p1555
+(I244
+I188
+I191
+tp1556
+sVPMS 578 (Pantone Green)
+p1557
+(I181
+I204
+I142
+tp1558
+sVPMS 5855 (Pantone Warm Gray 4)
+p1559
+(I204
+I198
+I147
+tp1560
+sVPMS 358 (Pantone Green)
+p1561
+(I170
+I221
+I150
+tp1562
+sVPMS 503 (Pantone Cool Gray 2)
+p1563
+(I244
+I209
+I204
+tp1564
+sVPMS 555 (Pantone Green 2X)
+p1565
+(I7
+I109
+I84
+tp1566
+sVPMS 272 (Pantone Process Blue 2X)
+p1567
+(I137
+I119
+I186
+tp1568
+sVPMS 366 (Pantone Process Yellow)
+p1569
+(I196
+I229
+I142
+tp1570
+sVPMS 216 (Pantone Rubine Red)
+p1571
+(I124
+I30
+I63
+tp1572
+sVPantone Cool Gray 9 (Pantone Cool Gray 9)
+p1573
+(I140
+I137
+I132
+tp1574
+sVPMS 3015 (Pantone Process Blue)
+p1575
+(I0
+I112
+I158
+tp1576
+sVPMS 131 (Pantone Yellow)
+p1577
+(I198
+I147
+I10
+tp1578
+sVPMS 175 (Pantone Rubine Red 2X)
+p1579
+(I109
+I51
+I33
+tp1580
+sVPMS 811 (Pantone Warm Red)
+p1581
+(I255
+I114
+I71
+tp1582
+sVPMS 5483 (Pantone Green 2X)
+p1583
+(I96
+I145
+I145
+tp1584
+sVPMS 279 (Pantone Process Blue 2X)
+p1585
+(I102
+I137
+I204
+tp1586
+sVPMS 2728 (Pantone Violet)
+p1587
+(I48
+I68
+I181
+tp1588
+sVPMS 541 (Pantone Process Blue 2X)
+p1589
+(I0
+I63
+I119
+tp1590
+sVPMS 151 (Pantone Orange 021)
+p1591
+(I247
+I127
+I0
+tp1592
+sVPMS 4705 (Pantone Warm Gray 11)
+p1593
+(I124
+I81
+I61
+tp1594
+sVPMS 5125 (Pantone Rhodamine Red 2X)
+p1595
+(I117
+I71
+I96
+tp1596
+sVPMS 110 (Pantone Yellow)
+p1597
+(I216
+I181
+I17
+tp1598
+sVPantone Warm Gray 3 (Pantone Warm Gray 3)
+p1599
+(I204
+I193
+I178
+tp1600
+sVPMS 107 (Pantone Process Yellow)
+p1601
+(I249
+I229
+I38
+tp1602
+sVPantone Warm Red (Pantone Warm Red)
+p1603
+(I249
+I63
+I38
+tp1604
+sVPMS 2766 (Pantone Reflex Blue)
+p1605
+(I43
+I38
+I91
+tp1606
+sVPMS 1645 (Pantone Warm Red 2X)
+p1607
+(I249
+I114
+I66
+tp1608
+sVPMS 403 (Pantone Warm Gray 8)
+p1609
+(I153
+I140
+I124
+tp1610
+sVPMS 327 (Pantone Green 2X)
+p1611
+(I0
+I140
+I130
+tp1612
+sVPMS 409 (Pantone Warm Gray 8)
+p1613
+(I153
+I137
+I124
+tp1614
+sVPMS 5783 (Pantone Warm Gray 6)
+p1615
+(I155
+I158
+I114
+tp1616
+sVPMS 575 (Pantone Green 2X)
+p1617
+(I73
+I89
+I40
+tp1618
+sVPMS 552 (Pantone Cool Gray 4)
+p1619
+(I196
+I214
+I214
+tp1620
+sVPMS 631 (Pantone Green)
+p1621
+(I84
+I183
+I198
+tp1622
+sVPMS 673 (Pantone Rhodamine Red)
+p1623
+(I224
+I140
+I178
+tp1624
+sVPMS 103 (Pantone Yellow)
+p1625
+(I198
+I173
+I15
+tp1626
+sVPMS 179 (Pantone Warm Red)
+p1627
+(I226
+I61
+I40
+tp1628
+sVPMS 187 (Pantone Rubine Red 2X)
+p1629
+(I175
+I30
+I45
+tp1630
+sVPMS 452 (Pantone Warm Gray 4)
+p1631
+(I196
+I183
+I150
+tp1632
+sVPMS 377 (Pantone Process Yellow)
+p1633
+(I112
+I147
+I2
+tp1634
+sVPMS 209 (Pantone Rubine Red)
+p1635
+(I117
+I38
+I61
+tp1636
+sVPMS 236 (Pantone Rhodamine Red)
+p1637
+(I249
+I175
+I211
+tp1638
+sVPMS 571 (Pantone Green)
+p1639
+(I127
+I198
+I178
+tp1640
+sVPMS 261 (Pantone Purple 2X)
+p1641
+(I94
+I33
+I84
+tp1642
+sVPMS 273 (Pantone Reflex Blue)
+p1643
+(I56
+I25
+I122
+tp1644
+sVPMS 226 (Pantone Rhodamine Red 2X)
+p1645
+(I214
+I2
+I112
+tp1646
+sVPMS 3302 (Pantone Green 2X)
+p1647
+(I0
+I73
+I63
+tp1648
+sVPMS 246 (Pantone Purple 2X)
+p1649
+(I204
+I0
+I160
+tp1650
+sVPMS 451 (Pantone Warm Gray 6)
+p1651
+(I173
+I160
+I122
+tp1652
+sVPMS 617 (Pantone Process Yellow)
+p1653
+(I204
+I196
+I124
+tp1654
+sVPMS 376 (Pantone Process Yellow)
+p1655
+(I127
+I186
+I0
+tp1656
+sVPMS 2755 (Pantone Reflex Blue 2X)
+p1657
+(I53
+I0
+I109
+tp1658
+sVPMS 437 (Pantone Warm Gray 10)
+p1659
+(I140
+I112
+I107
+tp1660
+sVPantone Warm Gray 8 (Pantone Warm Gray 8)
+p1661
+(I150
+I137
+I122
+tp1662
+sVPMS 117 (Pantone Yellow)
+p1663
+(I198
+I160
+I12
+tp1664
+sVPMS 2725 (Pantone Violet)
+p1665
+(I114
+I81
+I188
+tp1666
+sVPMS 267 (Pantone Violet 2X)
+p1667
+(I89
+I17
+I142
+tp1668
+sVPMS 493 (Pantone Rubine Red)
+p1669
+(I219
+I130
+I140
+tp1670
+sVPMS 2738 (Pantone Blue 072)
+p1671
+(I45
+I0
+I142
+tp1672
+sVPMS 466 (Pantone Warm Gray 4)
+p1673
+(I209
+I191
+I145
+tp1674
+sVPMS 375 2X (Pantone Process Yellow)
+p1675
+(I84
+I188
+I0
+tp1676
+sVPMS 2757 (Pantone Reflex Blue 2X)
+p1677
+(I20
+I22
+I84
+tp1678
+sVPMS 5185 (Pantone Black 5)
+p1679
+(I71
+I40
+I53
+tp1680
+sVPMS 443 (Pantone Cool Gray 7)
+p1681
+(I163
+I168
+I163
+tp1682
+sVPMS 811 2X (Pantone Warm Red 2X)
+p1683
+(I255
+I84
+I22
+tp1684
+sVPMS 347 (Pantone Green 2X)
+p1685
+(I0
+I158
+I96
+tp1686
+sVPMS 711 (Pantone Red 032)
+p1687
+(I209
+I45
+I51
+tp1688
+sVPMS 1345 (Pantone Yellow)
+p1689
+(I255
+I214
+I145
+tp1690
+sVPMS 487 (Pantone Warm Gray 5)
+p1691
+(I239
+I181
+I160
+tp1692
+sVPMS 190 (Pantone Rubine Red)
+p1693
+(I252
+I117
+I142
+tp1694
+sVPMS 486 (Pantone Warm Red)
+p1695
+(I237
+I158
+I132
+tp1696
+sVPMS 2603 (Pantone Violet 2X)
+p1697
+(I112
+I20
+I122
+tp1698
+sVPMS 614 (Pantone Warm Gray 2)
+p1699
+(I234
+I226
+I183
+tp1700
+sVPMS 115 (Pantone Yellow)
+p1701
+(I249
+I224
+I76
+tp1702
+sVPMS 4525 (Pantone Warm Gray 4)
+p1703
+(I204
+I191
+I142
+tp1704
+sVPMS 314 (Pantone Process Blue)
+p1705
+(I0
+I130
+I155
+tp1706
+sVPMS 197 (Pantone Rubine Red)
+p1707
+(I239
+I153
+I163
+tp1708
+sVPMS 5757 (Pantone Black 2)
+p1709
+(I66
+I71
+I22
+tp1710
+sVPMS 1395 (Pantone Orange 021)
+p1711
+(I153
+I96
+I7
+tp1712
+sVPMS 389 (Pantone Process Yellow)
+p1713
+(I206
+I224
+I7
+tp1714
+sVPMS 637 (Pantone Green)
+p1715
+(I107
+I201
+I219
+tp1716
+sVPMS 333 (Pantone Green)
+p1717
+(I94
+I221
+I193
+tp1718
+sVPMS 395 (Pantone Process Yellow)
+p1719
+(I229
+I232
+I17
+tp1720
+sVPMS 1225 (Pantone Yellow)
+p1721
+(I255
+I204
+I73
+tp1722
+sVPMS 222 (Pantone Rhodamine Red 2X)
+p1723
+(I112
+I25
+I61
+tp1724
+sVPMS 1675 (Pantone Warm Red 2X)
+p1725
+(I165
+I63
+I15
+tp1726
+sVPMS 404 (Pantone Warm Gray 9)
+p1727
+(I130
+I117
+I102
+tp1728
+sVPMS 3165 (Pantone Green 2X)
+p1729
+(I0
+I86
+I91
+tp1730
+sVPMS 3935 (Pantone Process Yellow)
+p1731
+(I242
+I237
+I109
+tp1732
+sVPMS 586 (Pantone Process Yellow)
+p1733
+(I226
+I229
+I132
+tp1734
+sVPMS 289 (Pantone Black 6)
+p1735
+(I0
+I38
+I73
+tp1736
+sVPMS 5507 (Pantone Cool Gray 5)
+p1737
+(I175
+I186
+I178
+tp1738
+sVPMS 546 (Pantone Black 6)
+p1739
+(I12
+I56
+I68
+tp1740
+sVPMS 720 (Pantone Warm Gray 4)
+p1741
+(I239
+I196
+I158
+tp1742
+sVPMS 421 (Pantone Cool Gray 5)
+p1743
+(I191
+I186
+I175
+tp1744
+sVPMS 2707 (Pantone Process Blue)
+p1745
+(I191
+I209
+I229
+tp1746
+sVPMS 280 (Pantone Reflex Blue)
+p1747
+(I0
+I43
+I127
+tp1748
+sVPMS 587 (Pantone Process Yellow)
+p1749
+(I232
+I232
+I155
+tp1750
+sVPMS 5517 (Pantone Cool Gray 4)
+p1751
+(I201
+I206
+I196
+tp1752
+sVPMS 165 (Pantone Orange 021)
+p1753
+(I249
+I99
+I2
+tp1754
+sVPMS 213 (Pantone Rubine Red)
+p1755
+(I234
+I15
+I107
+tp1756
+sVPMS 512 (Pantone Purple 2X)
+p1757
+(I132
+I33
+I107
+tp1758
+sVPMS 618 (Pantone Process Yellow)
+p1759
+(I181
+I170
+I89
+tp1760
+sVPMS 158 (Pantone Orange 021)
+p1761
+(I232
+I117
+I17
+tp1762
+sVPMS 558 (Pantone Cool Gray 5)
+p1763
+(I183
+I206
+I188
+tp1764
+sVPMS 1955 (Pantone Rubine Red 2X)
+p1765
+(I147
+I22
+I56
+tp1766
+sVPMS 3242 (Pantone Green)
+p1767
+(I135
+I221
+I209
+tp1768
+sVPMS 2592 2X (Pantone Violet 2X)
+p1769
+(I114
+I0
+I130
+tp1770
+sVPMS 1565 (Pantone Orange 021)
+p1771
+(I252
+I165
+I119
+tp1772
+sVPMS 120 (Pantone Yellow)
+p1773
+(I249
+I226
+I127
+tp1774
+sVPMS 5205 (Pantone Rhodamine Red 2X)
+p1775
+(I142
+I104
+I119
+tp1776
+sVPMS 290 (White)
+p1777
+(I196
+I216
+I226
+tp1778
+sVPMS 319 (Pantone Green)
+p1779
+(I76
+I206
+I209
+tp1780
+sVPMS 196 (Pantone Cool Gray 2)
+p1781
+(I244
+I201
+I201
+tp1782
+sVPMS 326 (Pantone Green)
+p1783
+(I0
+I178
+I170
+tp1784
+sVPMS 313 (Pantone Process Blue)
+p1785
+(I0
+I153
+I181
+tp1786
+sVPMS 234 (Pantone Rhodamine Red 2X)
+p1787
+(I170
+I0
+I102
+tp1788
+sVPMS 1555 (Pantone Orange 021)
+p1789
+(I249
+I191
+I158
+tp1790
+sVPMS 5215 (Pantone Cool Gray 9)
+p1791
+(I181
+I147
+I155
+tp1792
+sVPMS 329 (Pantone Green 2X)
+p1793
+(I0
+I109
+I102
+tp1794
+sVPMS 3975 (Pantone Process Yellow)
+p1795
+(I181
+I168
+I12
+tp1796
+sVPMS 405 (Pantone Warm Gray 11)
+p1797
+(I107
+I94
+I79
+tp1798
+sVPMS 703 (Pantone Rubine Red 2X)
+p1799
+(I183
+I56
+I68
+tp1800
+sVPMS 813 2X (Pantone Rhodamine Red)
+p1801
+(I209
+I0
+I132
+tp1802
+sVPMS 3285 (Pantone Green 2X)
+p1803
+(I0
+I153
+I135
+tp1804
+sVPMS 656 (White)
+p1805
+(I214
+I219
+I224
+tp1806
+sVPMS 171 (Pantone Warm Red)
+p1807
+(I249
+I96
+I58
+tp1808
+sVPMS 634 (Pantone Process Blue)
+p1809
+(I0
+I102
+I127
+tp1810
+sVPMS 688 (Pantone Rhodamine Red 2X)
+p1811
+(I178
+I102
+I132
+tp1812
+sVPantone Warm Gray 9 (Pantone Warm Gray 9)
+p1813
+(I140
+I127
+I112
+tp1814
+sVPMS 114 (Pantone Yellow)
+p1815
+(I249
+I226
+I76
+tp1816
+sVPMS 2915 (Pantone Process Blue)
+p1817
+(I96
+I175
+I221
+tp1818
+sVPMS 368 2X (Pantone Green 2X)
+p1819
+(I0
+I158
+I15
+tp1820
+sVPMS 5625 (Pantone Green 2X)
+p1821
+(I114
+I132
+I112
+tp1822
+sVPMS 697 (Pantone Rubine Red 2X)
+p1823
+(I127
+I56
+I58
+tp1824
+sVPMS 5743 (Pantone Warm Gray 1)
+p1825
+(I216
+I221
+I181
+tp1826
+sVPMS 138 (Pantone Yellow)
+p1827
+(I216
+I140
+I2
+tp1828
+sVPMS 5635 (Pantone Cool Gray 6)
+p1829
+(I158
+I170
+I153
+tp1830
+sVPMS 1255 (Pantone Yellow)
+p1831
+(I163
+I127
+I20
+tp1832
+sVPantone Cool Gray 11 (Pantone Cool Gray 11)
+p1833
+(I104
+I102
+I99
+tp1834
+sVPMS 161 (Pantone Black 4)
+p1835
+(I99
+I58
+I17
+tp1836
+sVPMS 632 (Pantone Process Blue)
+p1837
+(I0
+I160
+I186
+tp1838
+sVPMS 1655 (Pantone Warm Red 2X)
+p1839
+(I249
+I86
+I2
+tp1840
+sVPMS 381 (Pantone Process Yellow)
+p1841
+(I204
+I226
+I38
+tp1842
+sVPMS 217 (Pantone Rhodamine Red)
+p1843
+(I244
+I191
+I209
+tp1844
+sVPMS 4995 (Pantone Rubine Red 2X)
+p1845
+(I165
+I107
+I109
+tp1846
+sVPMS 1605 (Pantone Orange 021)
+p1847
+(I160
+I79
+I17
+tp1848
+sVPMS 369 (Pantone Process Yellow)
+p1849
+(I86
+I170
+I28
+tp1850
+sVPMS 1935 (Pantone Rubine Red 2X)
+p1851
+(I193
+I5
+I56
+tp1852
+sVPMS 623 (Pantone Green)
+p1853
+(I165
+I191
+I170
+tp1854
+sVPMS 655 (Pantone Reflex Blue)
+p1855
+(I12
+I28
+I71
+tp1856
+sVPMS 254 (Pantone Purple 2X)
+p1857
+(I160
+I45
+I150
+tp1858
+sVPMS 646 (Pantone Process Blue)
+p1859
+(I94
+I130
+I163
+tp1860
+sVPMS 5473 (Pantone Green 2X)
+p1861
+(I38
+I104
+I109
+tp1862
+sVPMS 232 (Pantone Rhodamine Red)
+p1863
+(I244
+I63
+I165
+tp1864
+sVPMS 692 (Pantone Warm Gray 3)
+p1865
+(I232
+I191
+I186
+tp1866
+sVPMS 649 (White)
+p1867
+(I214
+I214
+I216
+tp1868
+sVPMS 413 (Pantone Warm Gray 3)
+p1869
+(I198
+I193
+I178
+tp1870
+sVPMS 569 (Pantone Green 2X)
+p1871
+(I5
+I112
+I94
+tp1872
+sVPMS 141 (Pantone Yellow)
+p1873
+(I242
+I206
+I104
+tp1874
+sVPMS 295 (Pantone Process Blue 2X)
+p1875
+(I0
+I56
+I107
+tp1876
+sVPMS 5467 (Pantone Black 3)
+p1877
+(I25
+I56
+I51
+tp1878
+sVPMS 695 (Pantone Rubine Red)
+p1879
+(I178
+I107
+I112
+tp1880
+sVPMS 2708 (Pantone Process Blue)
+p1881
+(I175
+I188
+I219
+tp1882
+sVPMS 160 (Pantone Orange 021)
+p1883
+(I158
+I84
+I10
+tp1884
+sVPMS 802 (Pantone Process Yellow)
+p1885
+(I96
+I221
+I73
+tp1886
+sVPMS 425 (Pantone Cool Gray 11)
+p1887
+(I96
+I96
+I91
+tp1888
+sVPMS 5845 (Pantone Process Yellow)
+p1889
+(I178
+I170
+I112
+tp1890
+sVPMS 128 (Pantone Yellow)
+p1891
+(I244
+I219
+I96
+tp1892
+sVPMS 392 (Pantone Process Yellow)
+p1893
+(I132
+I130
+I5
+tp1894
+sVPMS 696 (Pantone Rubine Red 2X)
+p1895
+(I142
+I71
+I73
+tp1896
+sVPMS 5015 (Pantone Warm Gray 5)
+p1897
+(I216
+I173
+I168
+tp1898
+sVPMS 809 (Pantone Process Yellow)
+p1899
+(I221
+I224
+I15
+tp1900
+sVPMS 4725 (Pantone Warm Gray 10)
+p1901
+(I181
+I145
+I124
+tp1902
+sVPMS 397 (Pantone Process Yellow)
+p1903
+(I193
+I191
+I10
+tp1904
+sVPMS 644 (Pantone Process Blue)
+p1905
+(I155
+I175
+I196
+tp1906
+sVPMS 1767 (Pantone Rubine Red)
+p1907
+(I249
+I178
+I183
+tp1908
+sVPMS 1817 (Pantone Black 5)
+p1909
+(I91
+I45
+I40
+tp1910
+sVPMS 2622 (Pantone Purple 2X)
+p1911
+(I96
+I45
+I89
+tp1912
+sVPMS 1375 (Pantone Orange 021)
+p1913
+(I249
+I155
+I12
+tp1914
+sVPMS 659 (Pantone Process Blue 2X)
+p1915
+(I127
+I140
+I191
+tp1916
+sVPMS 154 (Pantone Orange 021)
+p1917
+(I153
+I89
+I5
+tp1918
+sVPMS 249 (Pantone Purple 2X)
+p1919
+(I127
+I40
+I96
+tp1920
+sVPMS 469 (Pantone Black 4)
+p1921
+(I96
+I51
+I17
+tp1922
+sVPMS 508 (Pantone Rubine Red)
+p1923
+(I232
+I165
+I175
+tp1924
+sVPMS 2562 (Pantone Purple)
+p1925
+(I216
+I168
+I216
+tp1926
+sVPMS 1505 (Pantone Orange 021)
+p1927
+(I244
+I124
+I0
+tp1928
+sVPMS 352 (Pantone Green)
+p1929
+(I153
+I229
+I178
+tp1930
+sVPMS 5395 (Pantone Black 6)
+p1931
+(I2
+I40
+I58
+tp1932
+sVPMS 638 (Pantone Process Blue)
+p1933
+(I0
+I181
+I214
+tp1934
+sVPMS 681 (Pantone Rhodamine Red 2X)
+p1935
+(I183
+I114
+I142
+tp1936
+sVPMS 400 (Pantone Warm Gray 3)
+p1937
+(I209
+I198
+I181
+tp1938
+sVPMS 5477 (Pantone Green 2X)
+p1939
+(I58
+I86
+I79
+tp1940
+sVPMS 1788 2X (Pantone Warm Red 2X)
+p1941
+(I214
+I33
+I0
+tp1942
+sVPMS 533 (Pantone Process Blue 2X)
+p1943
+(I53
+I63
+I91
+tp1944
+sVPMS 5295 (Pantone Cool Gray 7)
+p1945
+(I178
+I168
+I181
+tp1946
+sVPMS 278 (Pantone Process Blue)
+p1947
+(I153
+I186
+I221
+tp1948
+sVPMS 448 (Pantone Black 2)
+p1949
+(I84
+I71
+I45
+tp1950
+sVPMS 4655 (Pantone Warm Gray 10)
+p1951
+(I196
+I153
+I119
+tp1952
+sVPMS 719 (Pantone Warm Gray 2)
+p1953
+(I244
+I209
+I175
+tp1954
+sVPMS 2945 (Pantone Process Blue 2X)
+p1955
+(I0
+I84
+I160
+tp1956
+sVPMS 444 (Pantone Cool Gray 9)
+p1957
+(I137
+I142
+I140
+tp1958
+sVPMS 422 (Pantone Cool Gray 6)
+p1959
+(I175
+I170
+I163
+tp1960
+sVPMS 307 (Pantone Process Blue)
+p1961
+(I0
+I122
+I165
+tp1962
+sVPMS 802 2X (Pantone Green)
+p1963
+(I28
+I206
+I40
+tp1964
+sVPMS 242 (Pantone Rhodamine Red 2X)
+p1965
+(I124
+I28
+I81
+tp1966
+sVPMS 355 (Pantone Green 2X)
+p1967
+(I0
+I158
+I73
+tp1968
+sVPMS 2395 (Pantone Rhodamine Red)
+p1969
+(I196
+I0
+I140
+tp1970
+sVPMS 2563 (Pantone Purple)
+p1971
+(I209
+I160
+I204
+tp1972
+sVPMS 2975 (Pantone Green)
+p1973
+(I186
+I224
+I226
+tp1974
+sVPMS 426 (Pantone Black 7 2X)
+p1975
+(I43
+I43
+I40
+tp1976
+sVPMS 2726 (Pantone Violet)
+p1977
+(I102
+I86
+I188
+tp1978
+sVPMS 424 (Pantone Cool Gray 9)
+p1979
+(I130
+I127
+I119
+tp1980
+sVPMS 153 (Pantone Orange 021)
+p1981
+(I188
+I109
+I10
+tp1982
+sVPMS 5595 (Pantone Cool Gray 2)
+p1983
+(I216
+I219
+I204
+tp1984
+s.
