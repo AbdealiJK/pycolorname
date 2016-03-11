@@ -12,8 +12,7 @@ class LogoDesignTeamTest(unittest.TestCase):
         self.uut.load(refresh=True)
 
     def test_data(self):
-        self.assertEqual(len(self.uut), 992)
-        self.assertEqual(self.uut['White'], (255, 255, 255))
+        self.assertEqual(len(self.uut), 991)
 
         # We check a few random colors to be sure that things are fine.
         self.assertEqual(self.uut['PMS 245'], (232, 127, 201))

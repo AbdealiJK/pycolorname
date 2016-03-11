@@ -16,7 +16,7 @@ class CalPrintTest(unittest.TestCase):
         self.assertIn("White (White)", self.uut)
 
         # We check a few random colors to be sure that things are fine.
-        self.assertEqual(self.uut['PMS 245 (Pantone Purple)'],
+        self.assertEqual(self.uut['PMS 245 (Pantone Rhodamine Red)'],
                          (232, 127, 201))
         self.assertEqual(self.uut['PMS 202 (Pantone Rubine Red 2X)'],
                          (140, 38, 51))

@@ -67,21 +67,16 @@ class DeprecationTest(unittest.TestCase):
 
             # There were typos earlier in the website.
             # Use the typo version again for comparison.
-            mapping = {
-                "PMS 19-4118 TPX (Dark Denim Pantone)":  # Denim -> Derim
-                    "PMS 19-4118 TPX (Dark Derim Pantone)",
-                "PMS 16-0439 TPX (Spinach Green Pantone)":  # Spinach->spinach
-                    "PMS 16-0439 TPX (spinach Green Pantone)",
-                "PMS 16-1343 TPX (Autumn Sunset Pantone)":  # Sunset -> Sunst
-                    "PMS 16-1343 TPX (Autumn Sunst Pantone)",
-                "PMS 17-0000 TPX (Frost Gray Pantone)":  # Gray -> Gary
-                    "PMS 17-0000 TPX (Frost Gary Pantone)",
-                # Chalcoal->Charcoal
-                "PMS 18-0601 TPX (Charcoal Gray Pantone)":
-                    "PMS 18-0601 TPX (Chalcoal Gray Pantone)"
-            }
-            if name in mapping:
-                name = mapping[name]
+            if name == "PMS 19-4118 TPX (Dark Denim Pantone)":
+                name = name.replace("Denim", "Derim")
+            elif name == "PMS 16-0439 TPX (Spinach Green Pantone)":
+                name = name.replace("Spinach", "spinach")
+            elif name == "PMS 16-1343 TPX (Autumn Sunset Pantone)":
+                name = name.replace("Sunset", "Sunst")
+            elif name == "PMS 17-0000 TPX (Frost Gray Pantone)":
+                name = name.replace("Gray", "Gary")
+            elif name == "PMS 18-0601 TPX (Charcoal Gray Pantone)":
+                name = name.replace("Charcoal", "Chalcoal")
 
             new_comparable_colors[name] = color
 
