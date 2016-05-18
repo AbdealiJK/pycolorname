@@ -6,13 +6,11 @@ dependencies:
     - sed -i '/source \/home\/ubuntu\/virtualenvs\//d' ~/.circlerc
     - pyenv global 2.7.10 3.4.3
   override:
-    - pip3 install coala-bears --pre
     - pip install -r requirements.txt -r test-requirements.txt
     - pip3 install -r requirements.txt -r test-requirements.txt
 
 test:
   override:
-    - coala-ci
     - flake8 .
     - python -m pytest
     - python3 -m pytest
