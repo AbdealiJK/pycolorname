@@ -29,8 +29,16 @@ To get bightly builds from the master branch of the github repo, use:
 Usage
 =====
 
-To use a colorsystem, import a source from the module corresponsing to the
-system and create an instance of it.
+To use a color system to name colors (for given RGB color tuples (red, greed, blue)),
+import a source from the module corresponsing to the
+system and create an instance of it. Then use `find_closest` like:
+
+::
+
+    >>> from pycolorname.pantone.pantonepaint import PantonePaint
+    >>> pantone_colors = PantonePaint()
+    >>> pantone_colors.find_closest((23, 73, 80))
+    "PMS 19-4914 TPX (Deep Teal)"
 
 To use the pantone color system, find the sources available in the
 ``pycolorname.pantone`` module and use one of them. For example,
